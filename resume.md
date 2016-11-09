@@ -19,9 +19,9 @@
 * 
 
 ## Extracurricular Activities
-**[Treefort 2017](https://www.treefortmusicfest.com/)** - *2016*
+**[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *2016*
 * Treefort 2017 web, app, and API work with playlist experiments
-* AWS, CloudFront, API Gateway, Lambda, S3, Webpack
+* AWS, CloudFront, API Gateway, Lambda, S3, Webpack `[...more_stuff]` 
 
 **[Betavu]()** - *2016*
 * Show climbing route beta using AR [Vuforia SDK](https://www.vuforia.com/)
