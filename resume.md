@@ -3,7 +3,7 @@
 * Craft high quality web applications that customers crave 
 * Continuously seek smarter and more efficient methods for crafting software [err, um willing to change]
 
-## Experience
+## Work Experience
 **Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *Present*
 * foo
 * bar
