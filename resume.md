@@ -5,19 +5,20 @@
 
 ## Work Experience
 **Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *Present*
-* foo
-* bar
+* 3d based (WebGL) product configurators for customers like [Studio Shed](https://www.studio-shed.com/)
+* Full stack JavaScript development; led AWS migration; server-side GPU rendering
+* 
 
 **Full Stack Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2015 - 2012*
 * Cloud based healthcare analytics platform that loaded healthcare data from EHRs to compute readmission and other analtyics 
-* Led Angular migration; led Amazon Web Services (AWS) migration; led Jenkins to Docker migration 
+* Led Angular migration; led Amazon Web Services (AWS) devops migration; led Jenkins to Docker migration 
 * Investigated Google Big Query, Spark, and Redshift for aggregate table generation
 * Java, Tomcat, MySQL
 
 **Software Development Engineer in Test (SDET) II @ [Microsoft](http://www.microsoft.com)** - *2012 - 2008*
 * Performance, Automation, and Security feature owner for PerformancePoint Office 15 
 * Mentored testers and developers on automation and coding practices
-* Streamlined and improved realibility of automation suite; mentored testers and developers now owned by 5 testers instead of 25
+* Streamlined and improved realibility of automation suite
 * Managed Boise Developer Lab
 * Microsoft Bench Program 2011 and 2012 (top 4% of Microsoft); Technical Leadership Select Program 2010
 * Authored [PerformancePoint 2010 Capacity Planning Document for SharePoint 2010](https://technet.microsoft.com/en-us/library/ff955652.aspx)
