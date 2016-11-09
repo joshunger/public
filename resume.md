@@ -8,15 +8,13 @@
 * foo
 * bar
 
-**Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2015 - 2012*
-* [description]
-* Led migration to Amazon Web Services (AWS)
-* Investigated Google Big Query, Spark, and RedShift 
-
-**Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2015 - 2012*
-* 
-* 
-* 
+**Full Stack Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2015 - 2012*
+* Cloud based healthcare analytics platform that loaded healthcare data from EHRs to compute analytics like readmissions
+* Led Angular 1 development of new single page application (SPA)
+* Investigated Google Big Query, Spark, and Redshift for aggregate table generation
+* Led Amazon Web Services (AWS) migration include Ansible
+* Rebuilt Jenkins to using Docker and AWS and EC2 for continuous integration builds
+* Java, Tomcat, MySQL
 
 ## Extracurricular Activities
 **[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *2016*
