@@ -32,7 +32,7 @@
 * Treefort 2015 Hackfort2 Hackathon 3rd place winner
 
 **MediaStream for SkyDrive** - *2012*
-* Automatically updload photos and videos from Android phone to SkyDrive
+* Automatically upload photos and videos from Android phone to SkyDrive
 * Android SDK, NDK, Java, Eclipse
 
 **Faster is Better Than Slow Presentation** - *2011*
