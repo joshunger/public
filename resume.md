@@ -14,8 +14,14 @@
 * Investigated Google Big Query, Spark, and RedShift 
 
 **Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2015 - 2012*
+* 
+* 
+* 
 
 ## Extracurricular Activities
+**[Treefort 2017 App](https://www.treefortmusicfest.com/)** - *2016*
+* Treefort 2017 web, app, and API work with playlist experiments
+* AWS, CloudFront, API Gateway, Lambda, S3, Webpack
 
 **[Betavu]()** - *2016*
 * Show climbing route beta using AR [Vuforia SDK](https://www.vuforia.com/)
