@@ -19,7 +19,7 @@
 * 
 
 ## Extracurricular Activities
-**[Treefort 2017 App](https://www.treefortmusicfest.com/)** - *2016*
+**[Treefort 2017](https://www.treefortmusicfest.com/)** - *2016*
 * Treefort 2017 web, app, and API work with playlist experiments
 * AWS, CloudFront, API Gateway, Lambda, S3, Webpack
 
