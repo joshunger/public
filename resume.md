@@ -9,17 +9,15 @@
 * bar
 
 **Full Stack Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2015 - 2012*
-* Cloud based healthcare analytics platform that loaded healthcare data from EHRs to compute analytics like readmissions
-* Led Angular 1 development of new single page application (SPA)
+* Cloud based healthcare analytics platform that loaded healthcare data from EHRs to compute readmission and other analtyics 
+* Led Angular migration; led Jenkins to Docker migration; led Amazon Web Services (AWS) migration
 * Investigated Google Big Query, Spark, and Redshift for aggregate table generation
-* Led Amazon Web Services (AWS) migration include Ansible
-* Rebuilt Jenkins to using Docker and AWS and EC2 for continuous integration builds
 * Java, Tomcat, MySQL
 
 ## Extracurricular Activities
 **[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *2016*
-* Treefort 2017 web, app, and API work with playlist experiments
-* AWS, CloudFront, API Gateway, Lambda, S3, Webpack `[...more_stuff]` 
+* Treefort 2017 web, app, and API work with Spotify playlist experiments
+* AWS, CloudFront, API Gateway, Lambda, S3, Webpack `...more_stuff]` 
 
 **[Betavu]()** - *2016*
 * Show climbing route beta using AR [Vuforia SDK](https://www.vuforia.com/)
