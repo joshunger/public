@@ -10,9 +10,18 @@
 
 **Full Stack Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2015 - 2012*
 * Cloud based healthcare analytics platform that loaded healthcare data from EHRs to compute readmission and other analtyics 
-* Led Angular migration; led Jenkins to Docker migration; led Amazon Web Services (AWS) migration
+* Led Angular migration; led Amazon Web Services (AWS) migration; led Jenkins to Docker migration 
 * Investigated Google Big Query, Spark, and Redshift for aggregate table generation
 * Java, Tomcat, MySQL
+
+**Software Development Engineer in Test (SDET) II @ [Microsoft](http://www.microsoft.com)** - *2012 - 2008*
+* Performance, Automation, and Security feature owner for PerformancePoint Office 15 
+* Mentored testers and developers on automation and coding practices
+* Streamlined and improved realibility of automation suite; mentored testers and developers now owned by 5 testers instead of 25
+* Managed Boise Developer Lab
+* Microsoft Bench Program 2011 and 2012 (top 4% of Microsoft)
+* Authored [PerformancePoint 2010 Capacity Planning Document for SharePoint 2010](https://technet.microsoft.com/en-us/library/ff955652.aspx)
+* Developed open source [PerformancePoint 2010 Content Deployment Tool](http://ppscd.codeplex.com/)
 
 ## Extracurricular Activities
 **[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *2016*
