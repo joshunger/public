@@ -4,7 +4,7 @@
 * Change the way we craft software by seeking smarter and more efficient methods
 
 ## Work Experience
-**Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *Present*
+**Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *Present - 2015*
 * 3d based (WebGL) product configurators for customers like [Studio Shed](https://www.studio-shed.com/)
 * Full stack JavaScript development; led AWS migration; server-side GPU rendering
 * 
