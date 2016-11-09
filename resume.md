@@ -1,7 +1,7 @@
 # Josh Unger
 
 * Craft high quality web applications that customers crave 
-* Continuously seek smarter and more efficient methods for crafting software [err, um willing to change]
+* Change the way we craft software by seeking smarter and more efficient methods
 
 ## Work Experience
 **Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *Present*
