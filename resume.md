@@ -21,7 +21,7 @@
 * Show climbing route beta using AR [Vuforia SDK](https://www.vuforia.com/)
 * Idaho Virtual Reality 2016 Immerse-A-Thon Hackathon
 
-**[Boise Art Hunt](http://m.boiseweekly.com/Cobweb/archives/2015/03/29/treefort-2015-datefort-app-wins-hackfort2-hackathon)** - *2015*
+**[Boise Art Hunt](http://www.boiseweekly.com/Cobweb/archives/2015/03/29/treefort-2015-datefort-app-wins-hackfort2-hackathon)** - *2015*
 * Scavenger hunt-like experience for 600+ public art pieces
 * 3rd place, Treefort 2015 Hackfort2 Hackathon
 
