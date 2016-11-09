@@ -26,6 +26,9 @@
 
 **Senior Consultant and Lead @ [Blackfin Technology](https://www.linkedin.com/company/blackfin)** - *2008 - 2003*
 
+**System Administrator @ Shands Hospital, University Florida**
+
+**Web Developer Internship @ Bigstep.com** - *2000*
 
 ## Extracurricular Activities
 **[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *2016*
