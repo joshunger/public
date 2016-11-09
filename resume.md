@@ -19,9 +19,12 @@
 * Mentored testers and developers on automation and coding practices
 * Streamlined and improved realibility of automation suite; mentored testers and developers now owned by 5 testers instead of 25
 * Managed Boise Developer Lab
-* Microsoft Bench Program 2011 and 2012 (top 4% of Microsoft)
+* Microsoft Bench Program 2011 and 2012 (top 4% of Microsoft); Technical Leadership Select Program 2010
 * Authored [PerformancePoint 2010 Capacity Planning Document for SharePoint 2010](https://technet.microsoft.com/en-us/library/ff955652.aspx)
 * Developed open source [PerformancePoint 2010 Content Deployment Tool](http://ppscd.codeplex.com/)
+
+**Senior Consultant and Lead @ [Blackfin Technology](https://www.linkedin.com/company/blackfin)** - *2008 - 2003*
+
 
 ## Extracurricular Activities
 **[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *2016*
