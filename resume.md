@@ -10,8 +10,8 @@
 * 
 
 **Full Stack Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2015 - 2012*
-* Cloud based healthcare analytics platform that loaded healthcare data from EHRs to compute readmission and other analtyics 
-* Led Angular migration; led Amazon Web Services (AWS) devops migration; led Jenkins to Docker migration 
+* Cloud based healthcare analytics platform that loaded EHR data to compute readmission and other metrics 
+* Led Angular 1 migration; led Amazon Web Services (AWS) devops migration; led Jenkins to Docker migration 
 * Investigated Google Big Query, Spark, and Redshift for aggregate table generation
 * Java, Tomcat, MySQL
 
