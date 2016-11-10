@@ -25,8 +25,10 @@
 * Developed open source [PerformancePoint 2010 Content Deployment Tool](http://ppscd.codeplex.com/)
 
 **Senior Consultant and Lead @ [Blackfin Technology](https://www.linkedin.com/company/blackfin)** - *2008 - 2003*
+* Technically led software development projects, mostly web based
+* Managed four developers including performance reviews
 
-**System Administrator @ Shands Hospital, University Florida**
+**System Administrator @ Shands Hospital, University Florida** - *2003 - 2001*
 
 **Web Developer Internship @ Bigstep.com** - *2000*
 
