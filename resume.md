@@ -7,7 +7,7 @@
 **Full Stack Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *Present - 2015*
 * 3d based (WebGL) product configurators for customers including [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com)
 * Full stack JavaScript development; leading Amazon Web Services (AWS) migration; server-side GPU rendering on AWS
-* Webpack for front end and back end; ES2015, ES2016, ES2017 w Babel; GitLab; AWS CloudFront, S3, API Gateway, Elastic Beanstalk; Docker; Ansible; Angular 1; React and Redux; Material Design
+* Webpack for front end and back end; ES2015, ES2016, ES2017 w Babel; GitLab; AWS CloudFront, S3, API Gateway, Elastic Beanstalk; Docker; Ansible; Angular 1; React and Redux; Material Design; WebStorm
 
 **Full Stack Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2015 - 2012*
 * Cloud based healthcare analytics platform that ETLs EHR data to compute readmission and other metrics 
@@ -22,7 +22,7 @@
 * Microsoft Bench Program 2011 and 2012 (top 4% of Microsoft); Technical Leadership Select Program 2010
 * Authored [PerformancePoint 2010 Capacity Planning Document for SharePoint 2010](https://technet.microsoft.com/en-us/library/ff955652.aspx)
 * Developed open source [PerformancePoint 2010 Content Deployment Tool](http://ppscd.codeplex.com/)
-* Managed small Boise Developer Lab
+* Managed Boise Developer Lab and contractor
 
 **Senior Consultant and Lead @ [Blackfin Technology](https://www.linkedin.com/company/blackfin)** - *2008 - 2003*
 * Technically led software development projects, mostly web based
@@ -44,7 +44,7 @@
 
 **[Betavu](http://betavu.com/)** - *2016/10*
 * Hackathon app to show climbing route beta using augmented reality (AR)
-* Idaho Virtual Reality 2016 Immerse-A-Thon Hackathon booth winner
+* [Idaho Virtual Reality 2016 Immerse-A-Thon Hackathon](http://idahovirtualreality.com/ivrc-2016-immerse-a-thon/) booth winner
 * [Vuforia SDK](https://www.vuforia.com/), Android, Sketchup
 
 **[Boise Art Hunt](http://www.boiseweekly.com/Cobweb/archives/2015/03/29/treefort-2015-datefort-app-wins-hackfort2-hackathon)** - *2015*
