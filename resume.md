@@ -6,23 +6,23 @@
 ## Work Experience
 **Full Stack Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *Present - 2015*
 * 3d based (WebGL) product configurators for customers including [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com)
-* Full stack JavaScript development; leading AWS migration; server-side GPU rendering on AWS
-* Webpack for front end and back end; ES2015, ES2016, ES2017 w Babel; GitLab; AWS CloudFront, S3, API Gateway, Elastic Beanstalk; Docker; Ansible; Angular 1; React and Redux
+* Full stack JavaScript development; leading Amazon Web Services (AWS) migration; server-side GPU rendering on AWS
+* Webpack for front end and back end; ES2015, ES2016, ES2017 w Babel; GitLab; AWS CloudFront, S3, API Gateway, Elastic Beanstalk; Docker; Ansible; Angular 1; React and Redux; Material Design
 
 **Full Stack Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2015 - 2012*
 * Cloud based healthcare analytics platform that ETLs EHR data to compute readmission and other metrics 
-* Led Angular 1 migration; led Jenkins to Docker migration with AWS EC2 slaves
-* Led Amazon Web Services migration (compared Azure & Google Cloud) for HIPAA compliant hosting
-* Aggregate table generation comparison with Google Big Query, Spark, and Redshift
-* Backend in Java, Tomcat, MySQL
+* Led Angular 1 migration; Jenkins to Docker migration with AWS EC2 slaves for continuous integration
+* Led AWS migration (and compared Azure and Google Cloud) for HIPAA compliant hosting from local hosting
+* Aggregate table generation comparison with Google Big Query, Apache Spark, and Redshift
+* Backend in Java, Spring, Tomcat, MySQL
 
 **Software Development Engineer in Test (SDET) II @ [Microsoft](http://www.microsoft.com)** - *2012 - 2008*
 * Business intelligence product PerformancePoint for SharePoint 2016 and PerformancePoint 2010
-* Performance (load testing), Automation (improved realibility), and Security owner
-* Managed Boise Developer Lab
+* Performance loading testing, client side performance, automation realibility, security owner
 * Microsoft Bench Program 2011 and 2012 (top 4% of Microsoft); Technical Leadership Select Program 2010
 * Authored [PerformancePoint 2010 Capacity Planning Document for SharePoint 2010](https://technet.microsoft.com/en-us/library/ff955652.aspx)
 * Developed open source [PerformancePoint 2010 Content Deployment Tool](http://ppscd.codeplex.com/)
+* Managed small Boise Developer Lab
 
 **Senior Consultant and Lead @ [Blackfin Technology](https://www.linkedin.com/company/blackfin)** - *2008 - 2003*
 * Technically led software development projects, mostly web based
@@ -33,16 +33,21 @@
 **Web Developer Internship @ Bigstep.com** - *2000*
 
 ## Extracurricular Activities
-**[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *2016*
-* Treefort 2017 web, app, and API work with Spotify playlist experiments
-* AWS, CloudFront, API Gateway, Lambda, S3, Webpack `...more_stuff]` 
+**[Boise Front-end Development Meetup Organizer](http://www.meetup.com/frontend-devs/)** - *Present-*
+* [Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md) - latest front end news presentation
+* [Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md) - latest front end news presentation
 
-**[Betavu]()** - *2016*
-* Show climbing route beta using AR [Vuforia SDK](https://www.vuforia.com/)
+**[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *Present-*
+* pro bono full stack developer for Treefort 2017 web, app, and API work with Spotify playlist experiments
+* AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React
+
+**[Betavu](http://betavu.com/)** - *2016/10*
+* Hackathon app to show climbing route beta using augmented reality (AR)
 * Idaho Virtual Reality 2016 Immerse-A-Thon Hackathon booth winner
+* [Vuforia SDK](https://www.vuforia.com/), Android, Sketchup
 
 **[Boise Art Hunt](http://www.boiseweekly.com/Cobweb/archives/2015/03/29/treefort-2015-datefort-app-wins-hackfort2-hackathon)** - *2015*
-* Scavenger hunt-like experience for 600+ public art pieces
+* Hackathon app scavenger hunt-like experience for 600+ public art pieces
 * Treefort 2015 Hackfort2 Hackathon 3rd place winner
 
 **MediaStream for SkyDrive** - *2012*
@@ -51,9 +56,11 @@
 
 **Faster is Better Than Slow Presentation** - *2011*
 * Google's client side instrumentation and performance testing
-* Boise Code Camp 2011
+* Boise Code Camp 2011 presentation
 
 ## Education
+* Undeclared, Boise State University
+  * Independent Study to compare Vuforia and Project Tango to share historic photos
 * B.S., Computer Engineering, Summa cum Laude
   * Mathematics Minor, University Honors certificate
   * University of Florida, **GPA 3.95**/4.00
