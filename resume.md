@@ -34,7 +34,7 @@
 * My first experience with JavaScript
 
 ## Extracurricular Activities
-**[Boise Front-end Development Meetup Organizer](http://www.meetup.com/frontend-devs/)** - *Present-*
+**[Boise Front-end Development Meetup Co-Organizer](http://www.meetup.com/frontend-devs/)** - *Present-*
 * [Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md) - latest front end news presentation
 * [Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md) - latest front end news presentation
 
