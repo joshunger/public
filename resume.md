@@ -31,6 +31,7 @@
 **System Administrator @ Shands Hospital, University Florida** - *2003 - 2001*
 
 **Web Developer Internship @ Bigstep.com** - *2000*
+* My first experience with JavaScript
 
 ## Extracurricular Activities
 **[Boise Front-end Development Meetup Organizer](http://www.meetup.com/frontend-devs/)** - *Present-*
