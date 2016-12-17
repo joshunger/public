@@ -65,6 +65,3 @@
 * B.S., Computer Engineering, Summa cum Laude
   * Mathematics Minor, University Honors certificate
   * University of Florida, **GPA 3.95**/4.00
-
-
-https://github.com/etherealmachine/etherealmachine.github.io/blob/master/pages/resume.md
