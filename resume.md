@@ -4,7 +4,7 @@
 * Change the way we craft software by seeking smarter and more efficient methods
 
 ## Work Experience
-**Full Stack Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *Present - 2015*
+**Full Stack Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *Present*
 * 3d based (WebGL) product configurators for customers including [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com)
 * Full stack JavaScript development; leading Amazon Web Services (AWS) migration; server-side GPU rendering on AWS
 * Webpack for front end and back end; ES2015, ES2016, ES2017 w Babel; GitLab; AWS CloudFront, S3, API Gateway, Elastic Beanstalk; Docker; Ansible; Angular 1; React and Redux; Material Design; WebStorm
