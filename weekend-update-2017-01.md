@@ -3,7 +3,6 @@
 * Software Engineer at IdeaRoom - http://www.idearoominc.com
 * Please share 30 seconds if you know more about the news
 * Ask questions anytime
-* Drinking from the firehose... 
 
 ![](https://media.giphy.com/media/OhWT5jdvTPCE0/giphy.gif)
 
@@ -70,7 +69,7 @@
   * [cookie name prefixes `__Secure`]
      * https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie
      * https://tools.ietf.org/html/draft-ietf-httpbis-cookie-prefixes-00
-  * [`Referrer-Policy` with two r's](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy)
+  * [`Referrer-Policy` with two rs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy)
      * https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-header
   * `addEventListener('click', myClickHandler, { once: true });`
   * [The interface NodeList are now iterable and the methods forEach(), values(), NodeList.entries() and NodeList.keys()](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)
@@ -104,7 +103,10 @@
 * [WebStorm 2016.2.4 on Oct 19th](https://blog.jetbrains.com/webstorm/2016/10/webstorm-2016-2-4/)
   * Scrolling on macOS Sierra 
 
-## Your turn to find some news on
+## Other stuff!
+* [Webpack 2.2 Release Candidate (first ever) - 12/12!](https://medium.com/webpack/webpack-2-2-the-release-candidate-2e614d05d75f#.sldv1flab)
+
+## Ok, who has news on?
 * angular
 * react/redux
 * es7
