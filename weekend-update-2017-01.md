@@ -13,8 +13,11 @@
 
 https://www.chromestatus.com/features/5264933985976320
 
-* [Chrome 57 - Canary]
-  *
+
+* [Chrome 56 - Beta]
+  * Media Stream Image Capture
+    * https://www.chromestatus.com/features/4843864737185792
+    * https://w3c.github.io/mediacapture-image/
 
 * [Chrome 57 - Canary]
   *
@@ -100,15 +103,6 @@ https://www.chromestatus.com/features/5264933985976320
 ## Microsoft Edge
 * [Windows 10 build 14942 - 10/7](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/desktop/14942/)
 
-## WebStorm
-* [WebStorm 2016.3 EAP (163.6110) on Oct 14th](https://blog.jetbrains.com/webstorm/2016/10/webstorm-2016-3-eap-163-6110/)
-  * TypeScript language service
-  * Code Inspections - var/let, require/import, convert to arrow
-* [WebStorm 2016.3 EAP (163.6512) on Oct 20th](https://blog.jetbrains.com/webstorm/2016/10/webstorm-2016-3-eap-163-6512/)
-  * Debugging React Native apps
-* [WebStorm 2016.2.4 on Oct 19th](https://blog.jetbrains.com/webstorm/2016/10/webstorm-2016-2-4/)
-  * Scrolling on macOS Sierra 
-
 ## Other stuff!
 * [Webpack 2.2 Release Candidate (first ever) - 12/12!](https://medium.com/webpack/webpack-2-2-the-release-candidate-2e614d05d75f#.sldv1flab)
 
@@ -118,9 +112,7 @@ https://www.chromestatus.com/features/5264933985976320
 * es7
 * webpack
 * vue
-
-## React
-* [15.4.0 released 11/16](https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html)
+* webstorm
 
 ## For weekend update, I'm Josh Unger  
 
