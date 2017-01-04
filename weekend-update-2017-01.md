@@ -13,15 +13,17 @@
 
 https://www.chromestatus.com/features/5264933985976320
 
+* [Chrome 55 - Stable]()
+  * asd
 
-* [Chrome 56 - Beta]
+* [Chrome 56 - Beta](https://www.google.com/chrome/browser/beta.html)
   * Media Stream Image Capture
     * https://developers.google.com/web/updates/2016/12/imagecapture
     * https://www.chromestatus.com/features/4843864737185792
     * https://w3c.github.io/mediacapture-image/
 
-* [Chrome 57 - Canary]
-  *
+* [Chrome 57 - Canary](https://www.google.com/chrome/browser/canary.html)
+  * asd
   
 * [Chrome 53 - stable]()
   * [`captureStream()`](https://developers.google.com/web/updates/2016/10/capture-stream)
