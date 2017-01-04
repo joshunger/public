@@ -16,6 +16,7 @@ https://www.chromestatus.com/features/5264933985976320
 
 * [Chrome 56 - Beta]
   * Media Stream Image Capture
+    * https://developers.google.com/web/updates/2016/12/imagecapture
     * https://www.chromestatus.com/features/4843864737185792
     * https://w3c.github.io/mediacapture-image/
 
