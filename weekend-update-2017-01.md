@@ -7,12 +7,18 @@
 ![](https://media.giphy.com/media/OhWT5jdvTPCE0/giphy.gif)
 
 ## News
- * http://www.imdb.com/title/tt4158110/
- ![](https://gitlab.com/joshunger/public/raw/master/mr-robot-snl.mp4)
- * https://html5test.com/results/desktop.html
  * http://kangax.github.io/compat-table/es2016plus/
 
 ## Google Chrome
+
+https://www.chromestatus.com/features/5264933985976320
+
+* [Chrome 57 - Canary]
+  *
+
+* [Chrome 57 - Canary]
+  *
+  
 * [Chrome 53 - stable]()
   * [`captureStream()`](https://developers.google.com/web/updates/2016/10/capture-stream)
   
@@ -106,7 +112,7 @@
 ## Other stuff!
 * [Webpack 2.2 Release Candidate (first ever) - 12/12!](https://medium.com/webpack/webpack-2-2-the-release-candidate-2e614d05d75f#.sldv1flab)
 
-## Ok, who has news on?
+## Ok, who has news some news to share?
 * angular
 * react/redux
 * es7
