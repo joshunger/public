@@ -5,7 +5,7 @@
 * Ask questions anytime
 * Drinking from the firehose... 
 
-![](https://i.makeagif.com/media/10-08-2015/etdvXE.gif)
+![](https://media.giphy.com/media/OhWT5jdvTPCE0/giphy.gif)
 
 ## News
  * http://www.imdb.com/title/tt4158110/
