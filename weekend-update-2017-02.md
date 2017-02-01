@@ -25,6 +25,8 @@ https://www.chromestatus.com/features/5264933985976320
   
 * [Chrome 57 - Canary](https://www.google.com/chrome/browser/canary.html)
   * Finally renamed Timeline tab to Performance - https://developers.google.com/web/updates/2016/12/devtools-javascript-cpu-profile-migration
+  * Tweaks to Payment Request API
+    * https://developers.google.com/web/updates/2017/01/payment-request-updates
   
 * [Chrome 58 - stable]()
   * [`captureStream()`](https://developers.google.com/web/updates/2016/10/capture-stream)
