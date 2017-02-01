@@ -14,9 +14,6 @@
 https://www.chromestatus.com/features/5264933985976320
 
 * [Chrome 56 - Stable]()
-  * asd
-
-* [Chrome 56 - Beta](https://www.google.com/chrome/browser/beta.html)
   * Media Stream Image Capture
      * https://developers.google.com/web/updates/2016/12/imagecapture
      * https://www.chromestatus.com/features/4843864737185792
@@ -25,7 +22,7 @@ https://www.chromestatus.com/features/5264933985976320
      * https://developers.google.com/web/updates/2016/12/position-sticky
   
 * [Chrome 57 - Canary](https://www.google.com/chrome/browser/canary.html)
-  * asd
+  * Finally renamed Timeline tab to Performance - https://developers.google.com/web/updates/2016/12/devtools-javascript-cpu-profile-migration
   
 * [Chrome 58 - stable]()
   * [`captureStream()`](https://developers.google.com/web/updates/2016/10/capture-stream)
