@@ -11,8 +11,6 @@
 
 ## Google Chrome
 
-https://www.chromestatus.com/features/5264933985976320
-
 * [Chrome 56 - Stable]()
   * Media Stream Image Capture
      * https://developers.google.com/web/updates/2016/12/imagecapture
