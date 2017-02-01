@@ -22,6 +22,8 @@
      * Demo - http://html5-demos.appspot.com/static/css/sticky.html
   * `display: grid`
      * https://developers.google.com/web/updates/2017/01/css-grid
+     * http://caniuse.com/#feat=css-grid
+     * not behind a flag in Chrome 57
   * Web Bluetooth API
      * https://webbluetoothcg.github.io/web-bluetooth/ (sample code)
      * https://googlechrome.github.io/samples/web-bluetooth/
@@ -40,18 +42,9 @@
   * next time...
 
 ## Safari
+* Next time ... 
 * Who is using Technology Preview?
-* [Safari Technology Preview 15 - 10/12](https://webkit.org/blog/6987/release-notes-for-safari-technology-preview-15/)
-  * [`font-variation-settings: 'wght' 0.8;`](https://webkit.org/blog/7051/font-variations-on-the-web/)
-     * [demo open this link in safari](https://jsfiddle.net/0v1wkpmz/)
-  * [<a href... download="MyGoogleLogo"...`](https://developers.google.com/web/updates/2011/08/Downloading-resources-in-HTML5-a-download)
-  * [KeybaordEvent implementations](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
-  * [line range highlighting for debugger](https://bugs.webkit.org/show_bug.cgi?id=161658)
-
-* [Safari Technology Preview 16 - 10/26](https://webkit.org/blog/7030/release-notes-for-safari-technology-preview-16/)
-  * [Gamepad API](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API)
-  * [`fetch("some.json", {cache: "no-store"})`](https://hacks.mozilla.org/2016/03/referrer-and-cache-control-apis-for-fetch/)
-  * [`Object.freeze(obj)` bugs](https://webkit.org/blog/7030/release-notes-for-safari-technology-preview-16/)
+* Up to 22 now - https://webkit.org/blog/7354/release-notes-for-safari-technology-preview-22/
  
 ## FireFox
 * [FireFox 49.0.2 - release on 10/20](https://www.mozilla.org/en-US/firefox/49.0.2/releasenotes/)
