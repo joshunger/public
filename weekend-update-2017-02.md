@@ -12,7 +12,7 @@
 ## Google Chrome
 
 * [Chrome 56 - Stable]()
-  * Media Stream Image Capture
+  * Media Stream Image Capture (`ImageCapture`)
      * https://developers.google.com/web/updates/2016/12/imagecapture
        * `takePhoto` - demo?
      * https://www.chromestatus.com/features/4843864737185792
