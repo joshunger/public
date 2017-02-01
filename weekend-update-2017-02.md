@@ -47,28 +47,6 @@
   * https://webkit.org/blog/7354/release-notes-for-safari-technology-preview-22/
  
 ## FireFox
-* [FireFox 49.0.2 - release on 10/20](https://www.mozilla.org/en-US/firefox/49.0.2/releasenotes/)
-
-* [FireFox 50.0 - beta as of 9/20](https://www.mozilla.org/en-US/firefox/50.0beta/releasenotes/)
-  * [developer notes](https://developer.mozilla.org/en-US/Firefox/Releases/50)
-  * [`border-image-repeat: space`](https://developer.mozilla.org/en-US/docs/Web/CSS/border-image-repeat)
-  * [`Symbol.hasInstance()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/hasInstance)
-  * [ES2017 `Object.getOwnPropertyDescriptors()`](http://www.2ality.com/2016/02/object-getownpropertydescriptors.html)
-  * [Web Console understand source maps!!!](https://developer.mozilla.org/en-US/docs/Tools/Web_Console/Console_messages#Source_maps)
-  * [The Web Console now displays stack traces for XHR or Fetch() network requests](https://developer.mozilla.org/en-US/docs/Tools/Web_Console/Console_messages#Viewing_network_request_details)
-  * [`X-Content-Type-Options: nosniff`]()
-  * [cookie name prefixes `__Secure`]
-     * https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie
-     * https://tools.ietf.org/html/draft-ietf-httpbis-cookie-prefixes-00
-  * [`Referrer-Policy` with two rs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy)
-     * https://w3c.github.io/webappsec-referrer-policy/#referrer-policy-header
-  * `addEventListener('click', myClickHandler, { once: true });`
-  * [The interface NodeList are now iterable and the methods forEach(), values(), NodeList.entries() and NodeList.keys()](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)
-  * [DOMTokenList are now iterable and the methods forEach(), values(), DOMTokenList.entries() and DOMTokenList.keys()](https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList)
-  * [drag and drop multiple items with `DataTransfer.items`](https://developer.mozilla.org/en-US/docs/Web/API/DataTransfer/items)
-  * [MediaStream work]()
-  * [`Navigator.getBattery()`](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getBattery)
-  * [File and Directory Entries API work](https://developer.mozilla.org/en-US/docs/Web/API/File_and_Directory_Entries_API)
 * [FireFox 51 - release in 1/2017](https://developer.mozilla.org/en-US/Firefox/Releases/51)
   * https://developer.mozilla.org/en-US/Firefox/Releases/51
   * [`Symbol.toStringTag`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/toStringTag)
@@ -85,9 +63,6 @@
 * [FireFox 53 release 4/2017]
   *
   
-## Microsoft Edge
-* [Windows 10 build 14942 - 10/7](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/desktop/14942/)
-
 ## Other stuff!
 * Webpack 2 and beyond!
   * https://medium.com/@TheLarkInn/webpack-2-and-beyond-40520af9067f#.3a4213y2h
