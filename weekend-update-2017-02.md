@@ -33,7 +33,7 @@
      * https://developers.google.com/web/fundamentals/vr/
   
 * [Chrome 57 - beta]()
-  * Finally renamed Timeline tab to Performance - https://developers.google.com/web/updates/2016/12/devtools-javascript-cpu-profile-migration
+  * Devtools Timeline tab to Performance - https://developers.google.com/web/updates/2016/12/devtools-javascript-cpu-profile-migration
   * Tweaks to Payment Request API
     * https://developers.google.com/web/updates/2017/01/payment-request-updates
     * https://developers.google.com/web/fundamentals/discovery-and-monetization/payment-request/
