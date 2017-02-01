@@ -43,7 +43,8 @@
 
 ## Safari 
 * Who is using Technology Preview?
-* Up to 22 now - https://webkit.org/blog/7354/release-notes-for-safari-technology-preview-22/
+* Latest 22 on 1/25/2017
+  * https://webkit.org/blog/7354/release-notes-for-safari-technology-preview-22/
  
 ## FireFox
 * [FireFox 49.0.2 - release on 10/20](https://www.mozilla.org/en-US/firefox/49.0.2/releasenotes/)
