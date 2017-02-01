@@ -27,6 +27,8 @@ https://www.chromestatus.com/features/5264933985976320
   * Web Bluetooth API
      * https://webbluetoothcg.github.io/web-bluetooth/ (sample code)
      * https://googlechrome.github.io/samples/web-bluetooth/
+  * WebGL 2.0 API
+     * https://hacks.mozilla.org/2017/01/webgl-2-lands-in-firefox/
   
   
 * [Chrome 57 - Canary](https://www.google.com/chrome/browser/canary.html)
