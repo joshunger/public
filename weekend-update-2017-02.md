@@ -29,7 +29,8 @@ https://www.chromestatus.com/features/5264933985976320
      * https://googlechrome.github.io/samples/web-bluetooth/
   * WebGL 2.0 API
      * https://hacks.mozilla.org/2017/01/webgl-2-lands-in-firefox/
-  
+  * WebVR
+     * https://developers.google.com/web/fundamentals/vr/
   
 * [Chrome 57 - Canary](https://www.google.com/chrome/browser/canary.html)
   * Finally renamed Timeline tab to Performance - https://developers.google.com/web/updates/2016/12/devtools-javascript-cpu-profile-migration
