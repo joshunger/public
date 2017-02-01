@@ -14,9 +14,9 @@
 * [Chrome 56 - Stable]()
   * Media Stream Image Capture (`ImageCapture`)
      * https://developers.google.com/web/updates/2016/12/imagecapture
-       * `takePhoto` - demo?
      * https://www.chromestatus.com/features/4843864737185792
      * https://w3c.github.io/mediacapture-image/
+     * demo - https://codepen.io/miguelao/pen/BLPzKx?editors=1010
   * `position: sticky`
      * https://developers.google.com/web/updates/2016/12/position-sticky
      * Demo - http://html5-demos.appspot.com/static/css/sticky.html
