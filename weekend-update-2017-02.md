@@ -24,6 +24,9 @@ https://www.chromestatus.com/features/5264933985976320
      * Demo - http://html5-demos.appspot.com/static/css/sticky.html
   * `display: grid`
      * https://developers.google.com/web/updates/2017/01/css-grid
+  * Web Bluetooth API
+     * https://webbluetoothcg.github.io/web-bluetooth/ (sample code)
+     * https://googlechrome.github.io/samples/web-bluetooth/
   
   
 * [Chrome 57 - Canary](https://www.google.com/chrome/browser/canary.html)
