@@ -41,8 +41,7 @@
 * [Chrome 58 - canary]()
   * next time...
 
-## Safari
-* Next time ... 
+## Safari 
 * Who is using Technology Preview?
 * Up to 22 now - https://webkit.org/blog/7354/release-notes-for-safari-technology-preview-22/
  
