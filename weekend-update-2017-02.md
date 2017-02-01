@@ -82,11 +82,15 @@
   * [ui for `input type="time"`](https://jsfiddle.net/69q65f7g/)
   * [turn on `selectstart` and s`electionchange`](https://developer.mozilla.org/en-US/docs/Web/Events/selectstart)
 
+* [FireFox 53 release 4/2017]
+  *
+  
 ## Microsoft Edge
 * [Windows 10 build 14942 - 10/7](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/desktop/14942/)
 
 ## Other stuff!
-* [Webpack 2.2 Release Candidate (first ever) - 12/12!](https://medium.com/webpack/webpack-2-2-the-release-candidate-2e614d05d75f#.sldv1flab)
+* Webpack 2 and beyond!
+  * https://medium.com/@TheLarkInn/webpack-2-and-beyond-40520af9067f#.3a4213y2h
 
 ## Ok, who has news some news to share?
 * angular
@@ -95,6 +99,7 @@
 * webpack
 * vue
 * webstorm
+* Microsoft Edge
 
 ## For weekend update, I'm Josh Unger  
 
