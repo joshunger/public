@@ -13,7 +13,7 @@
 
 https://www.chromestatus.com/features/5264933985976320
 
-* [Chrome 55 - Stable]()
+* [Chrome 56 - Stable]()
   * asd
 
 * [Chrome 56 - Beta](https://www.google.com/chrome/browser/beta.html)
@@ -27,7 +27,7 @@ https://www.chromestatus.com/features/5264933985976320
 * [Chrome 57 - Canary](https://www.google.com/chrome/browser/canary.html)
   * asd
   
-* [Chrome 53 - stable]()
+* [Chrome 58 - stable]()
   * [`captureStream()`](https://developers.google.com/web/updates/2016/10/capture-stream)
   
 * [Chrome 54 - stable - 10/12](https://googlechromereleases.blogspot.com/2016/10/stable-channel-update-for-desktop.html)
