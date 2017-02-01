@@ -20,6 +20,7 @@ https://www.chromestatus.com/features/5264933985976320
      * https://w3c.github.io/mediacapture-image/
   * `position: sticky`
      * https://developers.google.com/web/updates/2016/12/position-sticky
+     * Demo - http://html5-demos.appspot.com/static/css/sticky.html
   
 * [Chrome 57 - Canary](https://www.google.com/chrome/browser/canary.html)
   * Finally renamed Timeline tab to Performance - https://developers.google.com/web/updates/2016/12/devtools-javascript-cpu-profile-migration
