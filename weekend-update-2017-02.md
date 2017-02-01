@@ -32,39 +32,14 @@ https://www.chromestatus.com/features/5264933985976320
   * WebVR
      * https://developers.google.com/web/fundamentals/vr/
   
-* [Chrome 57 - Canary](https://www.google.com/chrome/browser/canary.html)
+* [Chrome 57 - beta]()
   * Finally renamed Timeline tab to Performance - https://developers.google.com/web/updates/2016/12/devtools-javascript-cpu-profile-migration
   * Tweaks to Payment Request API
     * https://developers.google.com/web/updates/2017/01/payment-request-updates
     * https://developers.google.com/web/fundamentals/discovery-and-monetization/payment-request/
   
-* [Chrome 58 - stable]()
-  * [`captureStream()`](https://developers.google.com/web/updates/2016/10/capture-stream)
-  
-* [Chrome 54 - stable - 10/12](https://googlechromereleases.blogspot.com/2016/10/stable-channel-update-for-desktop.html)
-  * [Custom elements v1](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
-  * [BroadcastChannel API, requestFullScreen, Foreign fetch](https://developers.google.com/web/updates/2016/10/nic54)
-  
-* [Chrome 54 for Android - stable - 10/19](https://googlechromereleases.blogspot.com/2016/10/chrome-for-android-update.html)
-  * [Background media, etc.](http://www.androidpolice.com/2016/10/20/chrome-54-adds-background-media-playback-colored-tabs-apk-download/)
-  * [Page Visibility](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API)
-  
-* [Chrome 55 - beta]()
-  * [debugging async/await](https://twitter.com/addyosmani/status/789126892402204673)
-  * [web share api](https://developers.google.com/web/updates/2016/10/navigator-share)
-  * [css `hyphens: manual;` visibility](https://developers.google.com/web/updates/2016/10/css-hyphens)
-  * [UC Browser](https://developers.google.com/web/updates/2016/10/devtools-digest)
-     * [UC Browser Wikipedia](https://en.wikipedia.org/wiki/UC_Browser)
-     * [bug 646360](https://bugs.chromium.org/p/chromium/issues/detail?id=646360)
-  * [css `touch-action`](https://developers.google.com/web/updates/2016/10/touch-action)
-  * [pointer events](https://developers.google.com/web/updates/2016/10/pointer-events)
-  * [`addEventListener('click', myClickHandler, { once: true });` vs remove](https://developers.google.com/web/updates/2016/10/addeventlistener-once)
-  * [`navigator.share()`](https://developers.google.com/web/updates/2016/10/navigator-share)
-  * [`addEventListener('auxclick'`](https://developers.google.com/web/updates/2016/10/auxclick)
-  
-* [Chrome 56 - canary]()
-  * [Not Secure Warnings](https://developers.google.com/web/updates/2016/10/avoid-not-secure-warn)
-  * [DevTools Console is powered by CodeMirror](https://developers.google.com/web/updates/2016/10/devtools-digest)
+* [Chrome 58 - canary]()
+  * next time...
 
 ## Safari
 * Who is using Technology Preview?
