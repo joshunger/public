@@ -38,6 +38,7 @@ https://www.ncdc.noaa.gov/customer-support/education-resources/groundhog-day
      * https://hacks.mozilla.org/2017/01/webgl-2-lands-in-firefox/
   * WebVR
      * https://developers.google.com/web/fundamentals/vr/
+     * `navigator.getVRDisplays()`
   
 * [Chrome 57 - beta]()
   * Devtools Timeline tab to Performance - https://developers.google.com/web/updates/2016/12/devtools-javascript-cpu-profile-migration
