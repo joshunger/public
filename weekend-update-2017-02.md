@@ -4,7 +4,7 @@
 * Please share 30 seconds if you know more about the news
 * Ask questions anytime
 
-![](https://media.giphy.com/media/OhWT5jdvTPCE0/giphy.gif)
+![](https://media.giphy.com/media/kGirnWjxLimje/giphy.gif)
 
 ## News
  * http://kangax.github.io/compat-table/es2016plus/
