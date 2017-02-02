@@ -66,6 +66,7 @@
   
 ## Other stuff!
 * Webpack 2 and beyond!
+  * Jan 17 - https://medium.com/webpack/webpack-2-2-the-final-release-76c3d43bf144#.ye20fr9mc
   * https://medium.com/@TheLarkInn/webpack-2-and-beyond-40520af9067f#.3a4213y2h
 
 ## Ok, who has news some news to share?
