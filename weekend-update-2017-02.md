@@ -57,18 +57,7 @@ https://www.ncdc.noaa.gov/customer-support/education-resources/groundhog-day
   * https://webkit.org/blog/7354/release-notes-for-safari-technology-preview-22/
  
 ## FireFox
-* [FireFox 51 - release in 1/2017](https://developer.mozilla.org/en-US/Firefox/Releases/51)
-  * https://developer.mozilla.org/en-US/Firefox/Releases/51
-  * [`Symbol.toStringTag`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/toStringTag)
-  * mozCaptureStream() - see Chrome
-  * const and let are now fully ES2015-compliant 
-* [FireFox 52 - nightly, release 3/2017](https://developer.mozilla.org/en-US/Firefox/Releases/52)
-  * [es support at 91%!!!!!!!!](http://kangax.github.io/compat-table/es2016plus/)
-  * [async/await support](https://blog.nightly.mozilla.org/2016/11/01/async-await-support-in-firefox/)
-  * [display whitespace in dom inspector](https://blog.nightly.mozilla.org/2016/10/17/devtools-now-display-white-space-text-nodes-in-the-dom-inspector/)
-  * Firefox 52 ESR to be the last version to support Window XP and Vista
-  * [ui for `input type="time"`](https://jsfiddle.net/69q65f7g/)
-  * [turn on `selectstart` and s`electionchange`](https://developer.mozilla.org/en-US/docs/Web/Events/selectstart)
+* https://github.com/devtools-html/debugger.html
 
 * [FireFox 53 release 4/2017](https://developer.mozilla.org/en-US/Firefox/Releases/53)
   
