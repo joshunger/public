@@ -1,6 +1,7 @@
 ## Intro
 * Josh Unger
 * Software Engineer at IdeaRoom - http://www.idearoominc.com
+* Share some front end news
 * Please share 30 seconds if you know more about the news
 * Ask questions anytime
 
