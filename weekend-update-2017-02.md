@@ -61,8 +61,7 @@
   * [ui for `input type="time"`](https://jsfiddle.net/69q65f7g/)
   * [turn on `selectstart` and s`electionchange`](https://developer.mozilla.org/en-US/docs/Web/Events/selectstart)
 
-* [FireFox 53 release 4/2017]
-  *
+* [FireFox 53 release 4/2017](https://developer.mozilla.org/en-US/Firefox/Releases/53)
   
 ## Other stuff!
 * Webpack 2 and beyond!
