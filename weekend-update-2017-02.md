@@ -38,6 +38,9 @@
   * Tweaks to Payment Request API
     * https://developers.google.com/web/updates/2017/01/payment-request-updates
     * https://developers.google.com/web/fundamentals/discovery-and-monetization/payment-request/
+  * Media Session API
+    * customize media notifications
+    * https://developers.google.com/web/updates/2017/02/media-session 
   
 * [Chrome 58 - canary]()
   * next time...
