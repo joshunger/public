@@ -7,6 +7,10 @@
 
 ![](https://media.giphy.com/media/kGirnWjxLimje/giphy.gif)
 
+Shadow or no shadow?
+
+https://www.ncdc.noaa.gov/customer-support/education-resources/groundhog-day
+
 ## News
  * http://kangax.github.io/compat-table/es2016plus/
 
