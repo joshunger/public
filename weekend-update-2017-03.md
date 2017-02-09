@@ -18,6 +18,8 @@ https://www.ncdc.noaa.gov/customer-support/education-resources/groundhog-day
 
 ## Google Chrome
 
+http://v8project.blogspot.de/2017/02/one-small-step-for-chrome-one-giant.html
+
 * [Chrome 56 - Stable]()
   * Media Stream Image Capture (`ImageCapture`)
      * https://developers.google.com/web/updates/2016/12/imagecapture
