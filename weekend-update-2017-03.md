@@ -69,6 +69,8 @@ http://v8project.blogspot.de/2017/02/one-small-step-for-chrome-one-giant.html
 * [FireFox 53 release 4/2017](https://developer.mozilla.org/en-US/Firefox/Releases/53)
   
 ## Other stuff!
+* Angular
+  * http://angularjs.blogspot.com/2017/03/angular-400-now-available.html
 * Webpack 2 and beyond!
   * Jan 17 - https://medium.com/webpack/webpack-2-2-the-final-release-76c3d43bf144#.ye20fr9mc
   * https://medium.com/@TheLarkInn/webpack-2-and-beyond-40520af9067f#.3a4213y2h
