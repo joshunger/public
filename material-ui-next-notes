@@ -5,4 +5,8 @@ import Radio, { RadioGroup } from 'material-ui/Radio';
 
 import { CircularProgress } from 'material-ui/Progress';
 
+Toggle 
+to
+import Switch from 'material-ui/Switch';
+
 MuiThemeProvider theme={}
