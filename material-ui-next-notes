@@ -9,4 +9,8 @@ Toggle
 to
 import Switch from 'material-ui/Switch';
 
+MenuItem 
+to
+import { MenuItem } from 'material-ui/Menu';
+
 MuiThemeProvider theme={}
