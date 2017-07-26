@@ -2,4 +2,7 @@ import { RadioButton, RadioButtonGroup } from 'material-ui/RadioButton';
 to
 import Radio, { RadioGroup } from 'material-ui/Radio';
 
+
+import { CircularProgress } from 'material-ui/Progress';
+
 MuiThemeProvider theme={}
