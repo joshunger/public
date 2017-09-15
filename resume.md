@@ -34,12 +34,16 @@
 * My first experience with JavaScript
 
 ## Extracurricular Activities
-**[Boise Front-end Development Meetup Co-Organizer](http://www.meetup.com/frontend-devs/)** - *Present-*
+**[Boise Front-end Development Meetup Co-Organizer](http://www.meetup.com/frontend-devs/)** - *Present*
 * [Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md) - latest front end news presentation
 * [Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md) - latest front end news presentation
 
-**[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *Present-*
-* pro bono full stack developer for Treefort 2017 web, app, and API work with Spotify playlist experiments
+**[Treefort Music Fest 2018](https://www.treefortmusicfest.com/)** - *Present*
+* pro bono full stack developer for Treefort 2017 web, app, and API work
+* AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React
+
+**[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *2017-2016*
+* pro bono full stack developer for Treefort 2017 web, app, and API work
 * AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React
 
 **[Betavu](http://betavu.com/)** - *2016/10*
