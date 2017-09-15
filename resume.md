@@ -64,8 +64,6 @@
 * Boise Code Camp 2011 presentation
 
 ## Education
-* Undeclared, Boise State University
-  * Independent Study to compare Vuforia and Project Tango to share historic photos
 * B.S., Computer Engineering, Summa cum Laude
   * Mathematics Minor, University Honors certificate
   * University of Florida, **GPA 3.95**/4.00
