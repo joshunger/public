@@ -7,7 +7,7 @@
 **Full Stack Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *Present - 2015*
 * 3d based (WebGL) product configurators for customers including [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com), [Tuff Shed](https://www.tuffshed.com/)
 * Full stack JavaScript development; leading Amazon Web Services (AWS) migration; server-side GPU rendering on AWS
-* Webpack for front end and back end; ES2015, ES2016, ES2017 w Babel; GitLab; AWS CloudFront, S3, API Gateway, Elastic Beanstalk; Docker; Ansible; Angular 1; React and Redux; Material Design; WebStorm; Google Analtyics; Google Material Design; Material-UI
+* Webpack for front end and back end; ES2015, ES2016, ES2017 w Babel; GitLab; AWS CloudFront, S3, API Gateway, Elastic Beanstalk; Docker; Ansible; Angular 1; React and Redux; Material Design; WebStorm; Google Analtyics; Google Material Design; Material-UI; Bugsnag
 
 **Full Stack Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2015 - 2012*
 * Cloud based healthcare analytics platform that ETLs EHR data to compute readmission and other metrics 
@@ -44,7 +44,7 @@
 
 **[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *2017-2016*
 * pro bono full stack developer for Treefort 2017 web, app, and API work
-* AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React
+* AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React, Rollbar
 
 **[Betavu](http://betavu.com/)** - *2016/10*
 * Hackathon app to show climbing route beta using augmented reality (AR)
