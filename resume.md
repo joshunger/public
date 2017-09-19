@@ -39,7 +39,7 @@
 * [Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md) - latest front end news presentation
 
 **[Treefort Music Fest 2018](https://www.treefortmusicfest.com/)** - *Present*
-* pro bono full stack developer for Treefort 2017 web, app, and API work
+* pro bono full stack developer for Treefort 2018 web, app, and API work
 * AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React
 
 **[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *2017-2016*
