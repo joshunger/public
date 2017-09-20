@@ -40,7 +40,7 @@
 
 **[Treefort Music Fest 2018](https://www.treefortmusicfest.com/)** - *Present*
 * pro bono full stack developer for Treefort 2018 web, app, and API work
-* AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React
+* AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React, Rollbar
 
 **[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *2017-2016*
 * pro bono full stack developer for Treefort 2017 web, app, and API work
