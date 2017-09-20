@@ -35,8 +35,8 @@
 
 ## Extracurricular Activities
 **[Boise Front-end Development Meetup Co-Organizer](http://www.meetup.com/frontend-devs/)** - *Present*
-* [Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md) - latest front end news presentation
-* [Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md) - latest front end news presentation
+* Presented [Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md) - latest front-end news presentation
+* Presented [Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md) - latest front end news presentation
 
 **[Treefort Music Fest 2018](https://www.treefortmusicfest.com/)** - *Present*
 * pro bono full stack developer for Treefort 2018 web, app, and API work
