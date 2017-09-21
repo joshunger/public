@@ -34,9 +34,11 @@
 * My first experience with JavaScript
 
 ## Extracurricular Activities
-**[Boise Front-end Development Meetup Co-Organizer](http://www.meetup.com/frontend-devs/)** - *Present*
-* Presented [Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md) - latest front-end news presentation
-* Presented [Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md) - latest front end news presentation
+**[Boise Front-end Development Meetup](http://www.meetup.com/frontend-devs/)** - *Present*
+* Co-organizer
+* Presented "[Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md)" on the latest browser news
+* Presented "[Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md)" on the latest browser news
+* Presented "[Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md)" on the latest browser news
 
 **[Treefort Music Fest 2018](https://www.treefortmusicfest.com/)** - *Present*
 * Pro bono full stack developer for Treefort 2018 web, app, and API work
@@ -47,9 +49,6 @@
 * AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React, Rollbar
 
 **[Boulder JS Meetup](https://www.meetup.com/preview/Boulder-JS/events/234442770)** - *2016/12*
-* Presented [Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md) on the latest browser news
-
-**[Boise Front-end Development Meetup](https://www.meetup.com/preview/frontend-devs/events/234035953)** - *2016/12*
 * Presented [Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md) on the latest browser news
 
 **[Idaho Virtual Reality 2016 Immerse-A-Thon Hackathon](http://idahovirtualreality.com/ivrc-2016-immerse-a-thon/)** - *2016/10*
