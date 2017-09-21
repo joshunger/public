@@ -65,7 +65,7 @@
 * Android SDK, NDK, Java, Eclipse
 
 **[Boise Code Camp 2011](http://boisecodecamp.com/)** - *2011*
-* "Faster is Better Than Slow" - presented (and reverse engineered) Google's client side instrumentation and performance testing
+* Presented "[Faster Is Better Than Slow](http://joshunger.com/boisecodecamp2011/Boise-Code-Camp-2011-Fast-is-better-than-slow.pdf)" which reversed engineered Google's client side instrumentation and performance testing
 
 ## Education
 * B.S., Computer Engineering, Summa cum Laude
