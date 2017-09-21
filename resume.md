@@ -58,7 +58,7 @@
 * Automatically upload photos and videos from Android phone to SkyDrive
 * Android SDK, NDK, Java, Eclipse
 
-**Boise Code Camp 2011** - *2011*
+**[Boise Code Camp 2011](http://boisecodecamp.com/)** - *2011*
 * "Faster is Better Than Slow" - presented (and reverse engineered) Google's client side instrumentation and performance testing
 
 ## Education
