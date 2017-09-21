@@ -50,7 +50,7 @@
 * Built an app called Betavu to show climbing route beta using augmented reality (AR); booth winner
 * [Vuforia SDK](https://www.vuforia.com/), Android, Sketchup
 
-**[Treefort 2015 Hackfort2]()** - *2015*
+**[Treefort 2015 Hackfort2](https://www.treefortmusicfest.com/forts/hackfort/)** - *2015*
 * Developed Hackathon app scavenger hunt-like experience for 600+ public art pieces called [Boise Art Hunt](http://www.boiseweekly.com/Cobweb/archives/2015/03/29/treefort-2015-datefort-app-wins-hackfort2-hackathon)
 * 3rd place winner
 
@@ -58,9 +58,8 @@
 * Automatically upload photos and videos from Android phone to SkyDrive
 * Android SDK, NDK, Java, Eclipse
 
-**Faster is Better Than Slow Presentation** - *2011*
-* Google's client side instrumentation and performance testing
-* Boise Code Camp 2011 presentation
+**Boise Code Camp 2011** - *2011*
+* "Faster is Better Than Slow" - presented (and reverse engineered) Google's client side instrumentation and performance testing
 
 ## Education
 * B.S., Computer Engineering, Summa cum Laude
