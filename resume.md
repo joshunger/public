@@ -1,16 +1,16 @@
 # Josh Unger
 
 * Craft high quality web applications that customers crave 
-* Change the way we craft software by seeking smarter and more efficient methods
+* Change the way we engineer software by seeking smarter and more efficient methods
 
 ## Work Experience
 **Full Stack Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *Present - 2015*
-* 3d based (WebGL) product configurators for customers including [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com), [Tuff Shed](https://www.tuffshed.com/)
+* 3D based (WebGL) product configurators for customers including [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com), [Tuff Shed](https://www.tuffshed.com/)
 * Full stack JavaScript development; leading Amazon Web Services (AWS) migration; server-side GPU rendering on AWS
 * Webpack for front end and back end; ES2015, ES2016, ES2017 w Babel; GitLab; AWS CloudFront, S3, API Gateway, Elastic Beanstalk; Docker; Ansible; Angular 1; React and Redux; Material Design; WebStorm; Google Analtyics; Google Material Design; Material-UI; Bugsnag; less; three.js; npm; yarn
 
 **Full Stack Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2015 - 2012*
-* Cloud based healthcare analytics platform that ETLs EHR data to compute readmission and other metrics 
+* Cloud based healthcare analytics platform that ETLs electronic health record data to compute readmission and other metrics 
 * Led Angular 1 migration; Jenkins to Docker migration with AWS EC2 slaves for continuous integration
 * Led AWS migration (and compared Azure and Google Cloud) for HIPAA compliant hosting from local hosting
 * Aggregate table generation comparison with Google Big Query, Apache Spark, and Redshift
@@ -18,7 +18,7 @@
 
 **Software Development Engineer in Test (SDET) II @ [Microsoft](http://www.microsoft.com)** - *2012 - 2008*
 * Business intelligence product PerformancePoint for SharePoint 2016 and PerformancePoint 2010
-* Performance loading testing, client side performance, automation realibility, security owner
+* Owned performance load testing, client side performance, automation realibility, security
 * Microsoft Bench Program 2011 and 2012 (top 4% of Microsoft); Technical Leadership Select Program 2010
 * Authored [PerformancePoint 2010 Capacity Planning Document for SharePoint 2010](https://technet.microsoft.com/en-us/library/ff955652.aspx)
 * Developed open source [PerformancePoint 2010 Content Deployment Tool](http://ppscd.codeplex.com/)
