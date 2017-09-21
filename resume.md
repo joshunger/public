@@ -49,7 +49,7 @@
 **[Boulder JS Meetup](https://www.meetup.com/preview/Boulder-JS/events/234442770)** - *2016/12*
 * Presented [Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md) on the latest browser news
 
-**[Boise Front-end Development Meetup(https://www.meetup.com/preview/frontend-devs/events/234035953)]** - *2016/12*
+**[Boise Front-end Development Meetup](https://www.meetup.com/preview/frontend-devs/events/234035953)** - *2016/12*
 * Presented [Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md) on the latest browser news
 
 **[Idaho Virtual Reality 2016 Immerse-A-Thon Hackathon](http://idahovirtualreality.com/ivrc-2016-immerse-a-thon/)** - *2016/10*
