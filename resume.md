@@ -50,9 +50,9 @@
 * Built an app called Betavu to show climbing route beta using augmented reality (AR); booth winner
 * [Vuforia SDK](https://www.vuforia.com/), Android, Sketchup
 
-**[Boise Art Hunt](http://www.boiseweekly.com/Cobweb/archives/2015/03/29/treefort-2015-datefort-app-wins-hackfort2-hackathon)** - *2015*
-* Hackathon app scavenger hunt-like experience for 600+ public art pieces
-* Treefort 2015 Hackfort2 Hackathon 3rd place winner
+**[Treefort 2015 Hackfort2]()** - *2015*
+* Developed Hackathon app scavenger hunt-like experience for 600+ public art pieces called [Boise Art Hunt](http://www.boiseweekly.com/Cobweb/archives/2015/03/29/treefort-2015-datefort-app-wins-hackfort2-hackathon)
+* 3rd place winner
 
 **MediaStream for SkyDrive** - *2012*
 * Automatically upload photos and videos from Android phone to SkyDrive
