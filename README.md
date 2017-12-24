@@ -12,3 +12,8 @@ stuff
 
 # chrome
 - https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk?hl=en
+
+# other stuff
+```
+npm info "eslint-config-airbnb@latest" peerDependencies
+```
