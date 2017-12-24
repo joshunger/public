@@ -8,6 +8,7 @@ stuff
 - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
   - `"editor.formatOnSave": true`
 - https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils
+  - adds file:name to command palette
 
 # chrome
 - https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk?hl=en
