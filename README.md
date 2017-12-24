@@ -17,3 +17,7 @@ stuff
 ```
 npm info "eslint-config-airbnb@latest" peerDependencies
 ```
+
+```
+ln -s "$HOME/Library/Application Support/Code/User/settings.json" settings.json
+```
