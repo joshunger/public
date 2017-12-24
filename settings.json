@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "explorer.confirmDragAndDrop": false,
+    // "eslint.autoFixOnSave": true,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "editor.formatOnSave": true,
+    "workbench.colorCustomizations": {
+        "editor.rangeHighlightBackground": "#ff0000"
+    },
+    "prettier.eslintIntegration": true,
+    "prettier.trailingComma": "all",
+    "prettier.singleQuote": true,
+}
