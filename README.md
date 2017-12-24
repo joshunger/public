@@ -7,3 +7,6 @@ stuff
   - `autoFixOnSave`
 - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
   - `"editor.formatOnSave": true`
+
+# chrome
+- https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk?hl=en
