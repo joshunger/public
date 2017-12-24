@@ -6,3 +6,4 @@ stuff
 - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
   - `autoFixOnSave`
 - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+  - `"editor.formatOnSave": true`
