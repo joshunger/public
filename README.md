@@ -18,6 +18,8 @@ stuff
 npm info "eslint-config-airbnb@latest" peerDependencies
 ```
 
+# dev
 ```
 ln -s "$HOME/Library/Application Support/Code/User/settings.json" settings.json
+yarn global add prettier
 ```
