@@ -23,5 +23,10 @@ npm info "eslint-config-airbnb@latest" peerDependencies
 ln -s ~/dev/joshunger.com/settings.json "$HOME/Library/Application Support/Code/User/settings.json"
 yarn global add prettier
 yarn global add yo generator-code
-
+npm install babel-eslint -g
+npm install eslint -g
+(
+  export PKG=eslint-config-airbnb;
+  npm info "$PKG@latest" peerDependencies --json | command sed 's/[\{\},]//g ; s/: /@/g' | xargs npm install --save-dev "$PKG@latest"
+)
 ```
