@@ -5,6 +5,14 @@
 * Please share 30 seconds if you know more about the news
 * Ask questions anytime
 
+
+
+- https://dzone.com/articles/a-front-end-development-review-of-2017-javascript
+
+
+
+# OLD CRAP
+
 Tomorrow is?
 
 ![](https://media.giphy.com/media/kGirnWjxLimje/giphy.gif)
