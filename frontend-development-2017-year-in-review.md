@@ -9,6 +9,7 @@
 # Temp
 - https://dzone.com/articles/a-front-end-development-review-of-2017-javascript
 - https://stateofjs.com/2017/introduction/
+- Parcel
 
 
 # OLD CRAP
