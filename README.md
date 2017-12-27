@@ -29,4 +29,7 @@ npm install eslint -g
   export PKG=eslint-config-airbnb;
   npm info "$PKG@latest" peerDependencies --json | command sed 's/[\{\},]//g ; s/: /@/g' | xargs npm install --save-dev "$PKG@latest"
 )
+
+git remote add fork https://github.com/joshunger/debugger.html.git
+git fetch fork
 ```
