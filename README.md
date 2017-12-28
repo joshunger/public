@@ -33,3 +33,8 @@ npm install eslint -g
 git remote add fork https://github.com/joshunger/debugger.html.git
 git fetch fork
 ```
+
+# .gitignore
+```
+yarn-error.log
+```
