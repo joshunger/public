@@ -25,6 +25,9 @@
 ## Grids
 - https://caniuse.com/#feat=css-grid
 
+## Web Assembly
+- https://caniuse.com/#feat=wasm
+
 ## ES What?
 
 ## Other stuff
