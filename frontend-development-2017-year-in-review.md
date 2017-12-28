@@ -33,7 +33,7 @@
 
 ## ES What?
 
-## Reason (ML)
+## ReasonML
 - https://reasonml.github.io/
 - http://data.stackexchange.com/stackoverflow/query/775616/2017-reason-trend#graph
 - https://trends.google.com/trends/explore?q=reasonml
