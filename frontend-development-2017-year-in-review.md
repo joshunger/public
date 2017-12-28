@@ -9,6 +9,7 @@
 # Temp
 - https://dzone.com/articles/a-front-end-development-review-of-2017-javascript
 - https://stateofjs.com/2017/introduction/
+- https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/
 - Parcel
   - https://stackoverflow.com/questions/tagged/parceljs
 
