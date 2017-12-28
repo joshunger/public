@@ -27,6 +27,10 @@
 
 ## ES What?
 
+## Other stuff
+- https://caniuse.com/#feat=link-rel-preload
+- https://caniuse.com/#feat=es6-module
+
 
 ## Additional Reading
 - https://dzone.com/articles/a-front-end-development-review-of-2017-javascript
