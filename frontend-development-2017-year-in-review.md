@@ -12,6 +12,7 @@
 - https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/
 - https://insights.stackoverflow.com/survey/2017
   - old early in the year
+- https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/  
 - Parcel
   - https://stackoverflow.com/questions/tagged/parceljs
 
