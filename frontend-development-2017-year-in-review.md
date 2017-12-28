@@ -30,6 +30,8 @@
 
 ## ES What?
 
+# Does anyone have any predictions for 2018?
+
 ## Other stuff
 - https://caniuse.com/#feat=link-rel-preload
 - https://caniuse.com/#feat=es6-module
