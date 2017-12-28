@@ -28,6 +28,9 @@
 ## Web Assembly
 - https://caniuse.com/#feat=wasm
 
+## React
+- https://trends.google.com/trends/explore?q=react
+
 ## ES What?
 
 ## Reason (ML)
