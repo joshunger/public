@@ -31,6 +31,10 @@
 ## React
 - https://trends.google.com/trends/explore?q=react
 
+## Parceljs
+- https://parceljs.org/
+- https://trends.google.com/trends/explore?q=parceljs
+
 ## ES What?
 
 ## ReasonML
