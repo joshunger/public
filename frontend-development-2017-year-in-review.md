@@ -40,6 +40,7 @@
 
 # Ok, who has some any 2017 year in review news?
 # Ok, who has some any predictions for 2018?
+# Resolutions
 
 ## Other stuff
 - https://caniuse.com/#feat=link-rel-preload
