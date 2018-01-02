@@ -21,6 +21,10 @@ npm info "eslint-config-airbnb@latest" peerDependencies
 # dev
 ```
 ln -s ~/dev/joshunger.com/settings.json "$HOME/Library/Application Support/Code/User/settings.json"
+
+rm ~/Library/Application Support/Code - Insiders/User/settings.json
+ln -s ~/dev/joshunger.com/settings.json "/Users/junger/Library/Application Support/Code - Insiders/User/settings.json"
+
 yarn global add prettier
 yarn global add yo generator-code
 npm install babel-eslint -g
