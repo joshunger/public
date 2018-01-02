@@ -25,6 +25,10 @@ ln -s ~/dev/joshunger.com/settings.json "$HOME/Library/Application Support/Code/
 rm ~/Library/Application Support/Code - Insiders/User/settings.json
 ln -s ~/dev/joshunger.com/settings.json "/Users/junger/Library/Application Support/Code - Insiders/User/settings.json"
 
+// annoying since I can't share a json file
+rm -rf ~/.vscode-insiders/extensions/
+ln -s ~/.vscode/extensions/ ~/.vscode-insiders/extensions
+
 yarn global add prettier
 yarn global add yo generator-code
 npm install babel-eslint -g
