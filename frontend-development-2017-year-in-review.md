@@ -1,22 +1,12 @@
 ## Intro
 * Josh Unger
 * Software Engineer at IdeaRoom - http://www.idearoominc.com
-* Let's talk about 2017 in review with dorky graphs
+* Let's talk about 2017 in review with a bunch of graphs :nerd_face:
 * Please share 30 seconds if you know more about the topic
 * Ask questions anytime
 
-
-## Temp
-- https://stateofjs.com/2017/introduction/
-- https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/
-- https://insights.stackoverflow.com/survey/2017
-  - old early in the year
-- https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/  
-- Parcel
-  - https://stackoverflow.com/questions/tagged/parceljs
-
 ## React
-- React is still winning
+- React is winning
 - https://stateofjs.com/2017/front-end/results/
 - https://trends.google.com/trends/explore?date=2017-01-01%202017-12-31&q=react,angularjs,angular2,angular
 
@@ -41,6 +31,10 @@
 - Turns out people (including devs) care about performance
 - https://yarnpkg.com/en/
 - https://stateofjs.com/2017/other-tools/
+
+## GraphSQL
+
+## Jest
 
 ## Progressive Web Apps
 - http://data.stackexchange.com/stackoverflow/query/775595/2017-trends-progressive-web-apps
@@ -79,9 +73,19 @@
 
 ## Predictions 
 - CSS in JS?  What?
-- Glamor https://github.com/threepointone/glamor
-- Radium 
+  - Glamor https://github.com/threepointone/glamor
+  - Radium 
+- TypeScript - what is the trend?
 
 ## Additional Reading
 - https://dzone.com/articles/a-front-end-development-review-of-2017-javascript
 - https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6
+
+## Temp
+- https://stateofjs.com/2017/introduction/
+- https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/
+- https://insights.stackoverflow.com/survey/2017
+  - old early in the year
+- https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/  
+- Parcel
+  - https://stackoverflow.com/questions/tagged/parceljs
