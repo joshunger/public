@@ -1,7 +1,7 @@
 ## Intro
 * Josh Unger
 * Software Engineer at IdeaRoom - http://www.idearoominc.com
-* Share 2017 news
+* Let's talk about 2017 in review
 * Please share 30 seconds if you know more about the topic
 * Ask questions anytime
 
