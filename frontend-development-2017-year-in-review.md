@@ -18,6 +18,8 @@
 # React
 - https://trends.google.com/trends/explore?date=2017-01-01%202017-12-31&q=react,angularjs,angular2,angular
 
+## VS Code
+
 ## Progressive Web Apps
 - http://data.stackexchange.com/stackoverflow/query/775595/2017-trends-progressive-web-apps
 
