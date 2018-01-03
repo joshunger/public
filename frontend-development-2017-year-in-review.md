@@ -1,7 +1,7 @@
 ## Intro
 * Josh Unger
 * Software Engineer at IdeaRoom - http://www.idearoominc.com
-* Let's talk about 2017 in review
+* Let's talk about 2017 in review with dorky graphs
 * Please share 30 seconds if you know more about the topic
 * Ask questions anytime
 
@@ -16,12 +16,36 @@
   - https://stackoverflow.com/questions/tagged/parceljs
 
 ## React
+- React is still winning
+- https://stateofjs.com/2017/front-end/results/
 - https://trends.google.com/trends/explore?date=2017-01-01%202017-12-31&q=react,angularjs,angular2,angular
 
+## Vue.js
+- Already beating Angular2 in "I've USED it before, and WOULD use it again"
+- https://stateofjs.com/2017/front-end/results/
+- https://trends.google.com/trends/explore?q=react,vuejs,vue.js
+- https://npmcharts.com/compare/vue,angular
+- But https://npmcharts.com/compare/vue,angular,react
+
+## Electron
+
+## Jobs
+- http://www.reallyhyped.com/
+- Salaries?
+
 ## VS Code
+- Winning over Atom, Sublime, and WebStorm
+- https://stateofjs.com/2017/other-tools/
+
+## Yarn
+- Turns out people (including devs) care about performance
+- https://yarnpkg.com/en/
+- https://stateofjs.com/2017/other-tools/
 
 ## Progressive Web Apps
 - http://data.stackexchange.com/stackoverflow/query/775595/2017-trends-progressive-web-apps
+
+## Prettier
 
 ## Flexbox?
 
@@ -55,6 +79,8 @@
 
 ## Predictions 
 - CSS in JS?  What?
+- Glamor https://github.com/threepointone/glamor
+- Radium 
 
 ## Additional Reading
 - https://dzone.com/articles/a-front-end-development-review-of-2017-javascript
