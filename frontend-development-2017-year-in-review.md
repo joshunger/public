@@ -67,25 +67,22 @@ https://www.youtube.com/watch?v=h5aSa4tmVNM&t=0m58s
   - Vue creator Evan You born in China
 - https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa
 
-## Jest
+## Testing Tools
+- Mocha and Jest!
+- https://stateofjs.com/2017/testing/results/
 
 ## Progressive Web Apps
 - http://data.stackexchange.com/stackoverflow/query/775595/2017-trends-progressive-web-apps
 
 ## Prettier
 
-## Flexbox
-- Mainstream
-
-## CSS Grids!
-- https://caniuse.com/#feat=css-grid
+## CSS
+- Flexbox is mainsteam
+- CSS grids will make it https://caniuse.com/#feat=css-grid
 
 ## Web Assembly
 - Mainstream
 - https://caniuse.com/#feat=wasm
-
-## React
-- https://trends.google.com/trends/explore?q=react
 
 ## Parceljs
 - https://parceljs.org/
@@ -99,14 +96,7 @@ https://www.youtube.com/watch?v=h5aSa4tmVNM&t=0m58s
 - http://data.stackexchange.com/stackoverflow/query/775616/2017-reason-trend#graph
 - https://trends.google.com/trends/explore?q=reasonml
 
-# Ok, who has some any 2017 year in review news?
-# Ok, who has some any predictions for 2018?
-# Resolutions
-
-## Other stuff
-- https://caniuse.com/#feat=link-rel-preload
-- https://caniuse.com/#feat=es6-module
-- Electron
+## Anything Else In 2017?
 
 ## 2018 Predictions
 - CSS in JS
