@@ -2,9 +2,8 @@
 * Josh Unger
 * Software Engineer at IdeaRoom - http://www.idearoominc.com
 * Let's talk about 2017 in review with a bunch of graphs :nerd_face:
-* If you know more about a topic shout out 30 seconds on it
-* Ask questions anytime
-* And we can pull up more graphs!
+* If you know more about a topic shout out 30 seconds on it and ask any questions
+* This is going to be interactive!
 
 Everything below is bi winning -
 https://www.youtube.com/watch?v=h5aSa4tmVNM&t=0m58s
