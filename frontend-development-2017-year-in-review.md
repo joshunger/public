@@ -6,6 +6,9 @@
 * Ask questions anytime
 * And we can pull up more graphs!
 
+Everything below is bi winning -
+https://www.youtube.com/watch?v=h5aSa4tmVNM&t=0m58s
+
 ## React
 - React is winning ... why? license? state?
 - https://stateofjs.com/2017/front-end/results/
