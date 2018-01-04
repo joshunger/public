@@ -48,6 +48,7 @@ https://www.youtube.com/watch?v=h5aSa4tmVNM&t=0m58s
 
 ## Yarn
 - Turns out people (including devs) care about performance
+- Demo!
 - https://yarnpkg.com/en/
 - https://stateofjs.com/2017/other-tools/
 
@@ -58,11 +59,12 @@ https://www.youtube.com/watch?v=h5aSa4tmVNM&t=0m58s
 - https://stateofjs.com/2017/state-management/results/
 
 ## Flow
+- Adds static typing to JavaScript to improve developer productivity and code quality
 - https://stateofjs.com/2017/flavors/results/
 
 ## Geography
 - https://stateofjs.com/2017/front-end/worldwide/
-  - Evan You born in China
+  - Vue creator Evan You born in China
 - https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa
 
 ## Jest
@@ -72,12 +74,14 @@ https://www.youtube.com/watch?v=h5aSa4tmVNM&t=0m58s
 
 ## Prettier
 
-## Flexbox?
+## Flexbox
+- Mainstream
 
-## Grids
+## CSS Grids!
 - https://caniuse.com/#feat=css-grid
 
 ## Web Assembly
+- Mainstream
 - https://caniuse.com/#feat=wasm
 
 ## React
