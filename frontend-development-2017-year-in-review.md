@@ -2,26 +2,37 @@
 * Josh Unger
 * Software Engineer at IdeaRoom - http://www.idearoominc.com
 * Let's talk about 2017 in review with a bunch of graphs :nerd_face:
-* Please share 30 seconds if you know more about the topic
+* If you know more about a topic shout out 30 seconds on it
 * Ask questions anytime
+* And we can pull up more graphs!
 
 ## React
-- React is winning
+- React is winning ... why? license? state?
 - https://stateofjs.com/2017/front-end/results/
 - https://trends.google.com/trends/explore?date=2017-01-01%202017-12-31&q=react,angularjs,angular2,angular
+- https://medium.freecodecamp.org/facebook-just-changed-the-license-on-react-heres-a-2-minute-explanation-why-5878478913b2
+
+## Angular?
+- Compare Angular1 and Angular2 for I've USED it before, and would NOT use it again
+- https://stateofjs.com/2017/front-end/results/
 
 ## Vue.js
+- Progressive JavaScript Framework
 - Already beating Angular2 in "I've USED it before, and WOULD use it again"
 - https://stateofjs.com/2017/front-end/results/
 - https://trends.google.com/trends/explore?q=react,vuejs,vue.js
 - https://npmcharts.com/compare/vue,angular
 - But https://npmcharts.com/compare/vue,angular,react
+- Anyone using it?  GitLab is using it
 
-## Electron
-
-## Jobs
+## Jobs and Developers
 - http://www.reallyhyped.com/
-- Salaries?
+- https://stateofjs.com/2017/front-end/developers/
+  - Years of Experience 
+- https://stateofjs.com/2017/flavors/developers/
+  - Salary Ranges for Reason / etc.
+  - "Reason lets you write simple, fast and quality type safe code while leveraging both the JavaScript & OCaml ecosystems."
+  - https://reasonml.github.io/
 
 ## VS Code
 - Winning over Atom, Sublime, and WebStorm
@@ -32,7 +43,8 @@
 - https://yarnpkg.com/en/
 - https://stateofjs.com/2017/other-tools/
 
-## GraphSQL
+## GraphQL
+- Interest
 
 ## Jest
 
@@ -56,7 +68,8 @@
 - https://parceljs.org/
 - https://trends.google.com/trends/explore?q=parceljs
 
-## ES What?
+## ES What
+- https://stateofjs.com/2017/flavors/results
 
 ## ReasonML
 - https://reasonml.github.io/
@@ -70,14 +83,20 @@
 ## Other stuff
 - https://caniuse.com/#feat=link-rel-preload
 - https://caniuse.com/#feat=es6-module
+- Electron
 
-## Predictions 
-- CSS in JS?  What?
+## 2018 Predictions
+- CSS in JS?!!
   - Glamor https://github.com/threepointone/glamor
   - Radium 
-- TypeScript - what is the trend?
+- TypeScript - up or down for 2018?
+- Facebook is killing it
+
+## Things I've Ignored That You Should Look at
+- https://stateofjs.com/2017/back-end/results/
 
 ## Additional Reading
+- https://medium.freecodecamp.org/a-look-back-at-the-state-of-javascript-in-2017-a5b7f562e977
 - https://dzone.com/articles/a-front-end-development-review-of-2017-javascript
 - https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6
 
