@@ -26,7 +26,8 @@
 - Anyone using it?  GitLab is using it
 
 ## Jobs and Developers
-- http://www.reallyhyped.com/
+- Stack Overflow Jobs
+  - http://www.reallyhyped.com/
 - https://stateofjs.com/2017/front-end/developers/
   - Years of Experience 
 - https://stateofjs.com/2017/flavors/developers/
@@ -44,7 +45,10 @@
 - https://stateofjs.com/2017/other-tools/
 
 ## GraphQL
-- Interest
+- A query language for your API
+- http://graphql.org/
+- I've HEARD of it, and WOULD like to learn it
+- https://stateofjs.com/2017/state-management/results/
 
 ## Jest
 
