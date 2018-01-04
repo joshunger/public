@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=h5aSa4tmVNM&t=0m58s
 - But https://npmcharts.com/compare/vue,angular,react
 - Anyone using it?  GitLab is using it
 
-## Jobs and Developers
+## Careers, Jobs
 - Stack Overflow Jobs
   - http://www.reallyhyped.com/
 - https://stateofjs.com/2017/front-end/developers/
@@ -36,10 +36,14 @@ https://www.youtube.com/watch?v=h5aSa4tmVNM&t=0m58s
 - https://stateofjs.com/2017/flavors/developers/
   - Salary Ranges for Reason / etc.
   - "Reason lets you write simple, fast and quality type safe code while leveraging both the JavaScript & OCaml ecosystems."
-  - https://reasonml.github.io/
+  - https://reasonml.github.io/  
+- Most people work during the week
+  - https://trends.google.com/trends/explore?date=today%203-m&q=typescript,react
 
 ## VS Code
+- https://code.visualstudio.com/ 
 - Winning over Atom, Sublime, and WebStorm
+- Not surprised that Atom is less since it is slow when opening that huge file
 - https://stateofjs.com/2017/other-tools/
 
 ## Yarn
@@ -52,6 +56,14 @@ https://www.youtube.com/watch?v=h5aSa4tmVNM&t=0m58s
 - http://graphql.org/
 - I've HEARD of it, and WOULD like to learn it
 - https://stateofjs.com/2017/state-management/results/
+
+## Flow
+- https://stateofjs.com/2017/flavors/results/
+
+## Geography
+- https://stateofjs.com/2017/front-end/worldwide/
+  - Evan You born in China
+- https://medium.freecodecamp.org/i-just-asked-23-000-developers-what-they-think-of-javascript-heres-what-i-learned-9a06b61998fa
 
 ## Jest
 
@@ -93,25 +105,28 @@ https://www.youtube.com/watch?v=h5aSa4tmVNM&t=0m58s
 - Electron
 
 ## 2018 Predictions
-- CSS in JS?!!
+- CSS in JS
   - Glamor https://github.com/threepointone/glamor
   - Radium 
 - TypeScript - up or down for 2018?
-- Facebook is killing it
+- Zero config web application bundlers (just because of webpack)
+  - https://github.com/parcel-bundler/parcel
+- Facebook is killing it and we'll see more libraries from them
+  - ex https://github.com/facebook/codemod
+- Who has any predictions for 2018?
 
 ## Things I've Ignored That You Should Look at
 - https://stateofjs.com/2017/back-end/results/
+- https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/
 
 ## Additional Reading
 - https://medium.freecodecamp.org/a-look-back-at-the-state-of-javascript-in-2017-a5b7f562e977
 - https://dzone.com/articles/a-front-end-development-review-of-2017-javascript
 - https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6
+- https://stateofjs.com/2017/introduction/
+- https://insights.stackoverflow.com/survey/2017
+- https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/  
 
 ## Temp
-- https://stateofjs.com/2017/introduction/
-- https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/
-- https://insights.stackoverflow.com/survey/2017
-  - old early in the year
-- https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/  
 - Parcel
   - https://stackoverflow.com/questions/tagged/parceljs
