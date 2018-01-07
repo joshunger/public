@@ -35,7 +35,7 @@
 
 ## Extracurricular Activities
 **[Boise Front-end Development Meetup](http://www.meetup.com/frontend-devs/)** - *Present*
-* Co-organizer
+* Organizer; grew the meetup to the second largest technical meetup in Boise, Idaho
 * Presented "[Frontend Development 2017 Year in Review](https://github.com/joshunger/joshunger.com/blob/master/frontend-development-2017-year-in-review.md)" on 1/3/2018
 * Presented "[Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md)" about the latest browser news on 12/7/2016
 * Presented "[Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md)" about the latest browser news on 11/2/2016
