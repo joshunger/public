@@ -1,4 +1,6 @@
 # Josh Unger
+
+[GitHub](https://github.com/joshunger/) or [GitLab](https://gitlab.com/joshunger/) or [Twitter](https://twitter.com/joshunger/)
 <!--
 * Craft high quality web applications that customers crave 
 * Change the way we engineer software by seeking smarter and more efficient methods
