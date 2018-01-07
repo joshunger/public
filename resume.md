@@ -1,8 +1,8 @@
 # Josh Unger
-
+<!--
 * Craft high quality web applications that customers crave 
 * Change the way we engineer software by seeking smarter and more efficient methods
-
+-->
 ## Work Experience
 **Full Stack Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *Present - 2015*
 * 3D based (WebGL) product configurators for customers including [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com), [Tuff Shed](https://www.tuffshed.com/)
@@ -36,6 +36,7 @@
 ## Extracurricular Activities
 **[Boise Front-end Development Meetup](http://www.meetup.com/frontend-devs/)** - *Present*
 * Co-organizer
+* Presented "[Frontend Development 2017 Year in Review](https://github.com/joshunger/joshunger.com/blob/master/frontend-development-2017-year-in-review.md)" on 1/3/2018
 * Presented "[Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md)" on the latest browser news
 * Presented "[Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md)" on the latest browser news
 * Presented "[Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md)" on the latest browser news
