@@ -22,13 +22,13 @@
 * Microsoft Bench Program 2011 and 2012 (top 4% of Microsoft); Technical Leadership Select Program 2010
 * Authored [PerformancePoint 2010 Capacity Planning Document for SharePoint 2010](https://technet.microsoft.com/en-us/library/ff955652.aspx)
 * Developed open source [PerformancePoint 2010 Content Deployment Tool](http://ppscd.codeplex.com/)
-* Managed Boise Developer Lab and contractor
+* Managed single Boise Developer Lab (and admin) with 75 physical servers, 200+ virtual, and 45+ dev desktops
 
 **Senior Consultant and Lead @ [Blackfin Technology](https://www.linkedin.com/company/blackfin)** - *2008 - 2003*
-* Technically led software development projects, mostly web based
+* Technically led software development projects mostly web based
 * Managed four developers including performance reviews
 
-**System Administrator @ Shands Hospital, University Florida** - *2003 - 2001*
+<!-- **System Administrator @ Shands Hospital, University Florida** - *2003 - 2001* -->
 
 **Web Developer Internship @ Bigstep.com** - *2000*
 * My first experience with JavaScript
