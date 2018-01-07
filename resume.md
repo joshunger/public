@@ -42,15 +42,15 @@
 * Presented "[Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md)" about the latest browser news on 10/5/2016
 
 **[Treefort Music Fest 2018](https://www.treefortmusicfest.com/)** - *Present*
-* Pro bono full stack developer for Treefort 2018 web, app, and API work
+* Pro bono / volunteer full stack developer for Treefort 2018 web, app, and API work
 * AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React, Rollbar
 
 **[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *2017-2016*
-* Pro bono full stack developer for Treefort 2017 web, app, and API work
+* Pro bono / volunteer full stack developer for Treefort 2017 web, app, and API work
 * AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React, Rollbar
 
 **[Boulder JS Meetup](https://www.meetup.com/preview/Boulder-JS/events/234442770)** - *2016/12*
-* Presented [Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md) on the latest browser news
+* Presented "[Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md)" about the latest browser news on 12/14/2016 to the [December Meetup](https://www.meetup.com/Boulder-JS/events/234442770/)
 
 **[Idaho Virtual Reality 2016 Immerse-A-Thon Hackathon](http://idahovirtualreality.com/ivrc-2016-immerse-a-thon/)** - *2016/10*
 * Built an app called Betavu to show climbing route beta using augmented reality (AR); booth winner
