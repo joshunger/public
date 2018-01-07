@@ -7,12 +7,12 @@
 -->
 ## Work Experience
 **Full Stack Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *Present - 2015*
-* 3D based (WebGL) product configurators for customers including [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com), [Tuff Shed](https://www.tuffshed.com/)
+* Developed 3D based (WebGL) product configurators for customers including [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com), [Tuff Shed](https://www.tuffshed.com/)
 * Full stack JavaScript development (node backend); leading Amazon Web Services (AWS) migration; server-side GPU rendering on AWS
 * Webpack (frontend and backend); ES2015 (ES6), ES2016, ES2017; Babel; GitLab; AWS CloudFront, S3, API Gateway, Elastic Beanstalk; Docker; Ansible; Angular 1; React 16.2; Redux; Material Design; Google Analtyics; Google Material Design; Material-UI; Bugsnag; less; three.js; npm; yarn; chai; mocha; VS Code; Prettier; ESLint
 
 **Full Stack Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2015 - 2012*
-* Cloud based healthcare analytics platform that ETLs electronic health record data to compute readmission and other metrics 
+* Developed Cloud based healthcare analytics platform that ETLs electronic health record data to compute readmission and other metrics 
 * Led Angular 1 migration; Jenkins to Docker migration with AWS EC2 slaves for continuous integration
 * Led migration to AWS (and compared Azure and Google Cloud) for HIPAA compliant hosting from local hosting
 * Analyzed aggregate table generation with Google Big Query, Apache Spark, and Redshift
