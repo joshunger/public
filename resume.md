@@ -37,9 +37,9 @@
 **[Boise Front-end Development Meetup](http://www.meetup.com/frontend-devs/)** - *Present*
 * Co-organizer
 * Presented "[Frontend Development 2017 Year in Review](https://github.com/joshunger/joshunger.com/blob/master/frontend-development-2017-year-in-review.md)" on 1/3/2018
-* Presented "[Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md)" on the latest browser news
-* Presented "[Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md)" on the latest browser news
-* Presented "[Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md)" on the latest browser news
+* Presented "[Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md)" about the latest browser news on 12/7/2016
+* Presented "[Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md)" about the latest browser news on 11/2/2016
+* Presented "[Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md)" about the latest browser news on 10/5/2016
 
 **[Treefort Music Fest 2018](https://www.treefortmusicfest.com/)** - *Present*
 * Pro bono full stack developer for Treefort 2018 web, app, and API work
