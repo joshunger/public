@@ -52,6 +52,7 @@
 
 **[Idaho Virtual Reality 2016 Immerse-A-Thon Hackathon](http://idahovirtualreality.com/ivrc-2016-immerse-a-thon/)** - *2016/10*
 * Built an app called Betavu to show climbing route beta using augmented reality (AR); booth winner
+* Won booth space at [IVRC 2016 VR Bash](https://idahovirtualreality.com/ivrc-2016-vr-bash/)
 * [Vuforia SDK](https://www.vuforia.com/), Android, Sketchup
 
 **[Treefort 2015 Hackfort2 Hackathon](https://www.treefortmusicfest.com/forts/hackfort/)** - *2015*
