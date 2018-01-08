@@ -2,13 +2,32 @@
 {
     "explorer.confirmDragAndDrop": false,
     "eslint.autoFixOnSave": true,
+    "eslint.nodePath": "~/.config/yarn/global/node_modules/eslint/",
+    "eslint.packageManager": "yarn",
     "git.autofetch": true,
     "git.enableSmartCommit": true,
-    "editor.formatOnSave": true,
+    // "editor.formatOnSave": true,
     "workbench.colorCustomizations": {
-        "editor.rangeHighlightBackground": "#ff0000"
+        "editor.rangeHighlightBackground": "#ff0000",
+        "editorWarning.foreground": "#FFAA00",
+        "editorWarning.border": "#552300"
     },
-    "prettier.eslintIntegration": true,
     "prettier.trailingComma": "all",
     "prettier.singleQuote": true,
+    "prettier.eslintIntegration": true,
+    "explorer.confirmDelete": false,
+    "editor.multiCursorModifier": "alt",
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    },
+    "window.zoomLevel": 0,
+    // "workbench.editor.tabSizing": "shrink",
+    // "workbench.editor.tabCloseButton": "left",
 }
