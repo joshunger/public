@@ -66,7 +66,7 @@
 [Boise Frontend Development Meetup](https://www.meetup.com/frontend-devs/events/246206347/)
 
 ## Presentations
-* "[Frontend Development 2017 Year in Review.](https://github.com/joshunger/joshunger.com/blob/master/frontend-development-2017-year-in-review.md)" Boise Frontend Development Meetup, January 3, 2018, Computer Science Department, Boise State University, Boise, Idaho
+* ["Frontend Development 2017 Year in Review."](https://github.com/joshunger/joshunger.com/blob/master/frontend-development-2017-year-in-review.md) Boise Frontend Development Meetup, January 3, 2018, Computer Science Department, Boise State University, Boise, Idaho
 * "[Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md)" about the latest browser news at Boise Frontend Development Meetup on 12/7/2016
 * "[Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md)" about the latest browser news at Boise Frontend Development Meetup on 11/2/2016
 * "[Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md)" about the latest browser news at Boise Frontend Development Meetup on 10/5/2016
