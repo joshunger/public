@@ -38,10 +38,6 @@
 ## Extracurricular Activities
 **[Boise Front-end Development Meetup](http://www.meetup.com/frontend-devs/)** - *Present*
 * Organizer; grew the meetup to the second largest technical meetup in Boise, Idaho at 629 members
-* Presented "[Frontend Development 2017 Year in Review](https://github.com/joshunger/joshunger.com/blob/master/frontend-development-2017-year-in-review.md)" on 1/3/2018
-* Presented "[Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md)" about the latest browser news on 12/7/2016
-* Presented "[Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md)" about the latest browser news on 11/2/2016
-* Presented "[Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md)" about the latest browser news on 10/5/2016
 
 **[Treefort Music Fest 2018](https://www.treefortmusicfest.com/)**
 * Pro bono / volunteer full stack developer for Treefort 2018 web, app, and API work
@@ -66,8 +62,12 @@
 * Solely developed app to upload photos, videos from Android phone to SkyDrive before Google Photos offered the same
 * Android SDK, NDK, Java, Eclipse
 
-**[Boise Code Camp 2011](http://boisecodecamp.com/)**
-* Presented "[Faster Is Better Than Slow](http://joshunger.com/boisecodecamp2011/Boise-Code-Camp-2011-Fast-is-better-than-slow.pdf)" which reversed engineered Google's client side instrumentation and performance testing
+## Presentations
+* "[Frontend Development 2017 Year in Review](https://github.com/joshunger/joshunger.com/blob/master/frontend-development-2017-year-in-review.md)" at [Boise Frontend Development Meetup](https://www.meetup.com/frontend-devs/events/246206347/) on 1/3/2018
+* "[Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md)" about the latest browser news at Boise Frontend Development Meetup on 12/7/2016
+* "[Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md)" about the latest browser news at Boise Frontend Development Meetup on 11/2/2016
+* "[Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md)" about the latest browser news at Boise Frontend Development Meetup on 10/5/2016
+* "[Faster Is Better Than Slow](http://joshunger.com/boisecodecamp2011/Boise-Code-Camp-2011-Fast-is-better-than-slow.pdf)" which reversed engineered Google's client side instrumentation and performance testing at [Boise Code Camp 2011](http://boisecodecamp.com/)
 
 ## Education
 * B.S., Computer Engineering, Summa cum Laude
