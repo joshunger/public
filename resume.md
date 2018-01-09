@@ -56,26 +56,35 @@
 * [Vuforia SDK](https://www.vuforia.com/), Android, Sketchup
 
 **[Treefort 2015 Hackfort2 Hackathon](https://www.treefortmusicfest.com/forts/hackfort/)** - *2015*
-* Organized 4+ developers and developed app providing scavenger hunt-like experience for 600+ public art pieces called [Boise Art Hunt](http://www.boiseweekly.com/Cobweb/archives/2015/03/29/treefort-2015-datefort-app-wins-hackfort2-hackathon)
+* Organized 4+ developers and developed app providing scavenger hunt-like experience for 600+ public art pieces called 
 * Won 3rd place
 
 **MediaStream for SkyDrive** - *2012*
 * Solely developed app to upload photos, videos from Android phone to SkyDrive before Google Photos offered the same
 * Android SDK, NDK, Java, Eclipse
 
+## Hackathons
+* **[Treefort 2015 Hackfort2 Hackathon](https://www.treefortmusicfest.com/forts/hackfort/)** - *2015*
+  * Rallied 5 developers, designed, and developed [Boise Art Hunt](http://www.boiseweekly.com/Cobweb/archives/2015/03/29/treefort-2015-datefort-app-wins-hackfort2-hackathon) in only 48 hours
+  * Scavenger hunt-like experience for 600+ public art pieces only claimable within a given geofence for badges and coupons
+  * Won 3rd place :trophy:
+
 ## Presentations
-* *[Frontend Development 2017 Year in Review](https://github.com/joshunger/joshunger.com/blob/master/frontend-development-2017-year-in-review.md)*
+* **[Frontend Development 2017 Year in Review](https://github.com/joshunger/joshunger.com/blob/master/frontend-development-2017-year-in-review.md)**
   * [Boise Frontend Development Meetup, January 3, 2018](https://www.meetup.com/frontend-devs/events/246206347/) at Computer Science Department, Boise State University, Boise, Idaho
-* *[Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md)* about the latest browser news for Chrome and FireFox
+* **[Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md)**
+  * Latest browser news and features in Chrome and FireFox (and sometimes Safari and Edge)
   * [Boise Frontend Development Meetup, December 7, 2016](https://www.meetup.com/frontend-devs/events/234035953/) at Computer Science Department, Boise State University, Boise, Idaho
   * [Boulder JS Meetup, December 14, 2016](https://www.meetup.com/Boulder-JS/events/234442770/) at Quick Left, Boulder, Colorado
-* *[Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md)*
+* **[Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md)**
+  * Latest browser news and features in Chrome and FireFox (and sometimes Safari and Edge)
   * [Boise Frontend Development Meetup, November 2, 2016](foo) at Computer Science Department, Boise State University, Boise, Idaho
-* *[Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md)*
+* **[Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md)**
+  * Latest browser news and features in Chrome and FireFox (and sometimes Safari and Edge)
   * [Boise Frontend Development Meetup, October 5, 2016](foo) at Computer Science Department, Boise State University, Boise, Idaho
-* *[Faster Is Better Than Slow](http://joshunger.com/boisecodecamp2011/Boise-Code-Camp-2011-Fast-is-better-than-slow.pdf)*
+* **[Faster Is Better Than Slow](http://joshunger.com/boisecodecamp2011/Boise-Code-Camp-2011-Fast-is-better-than-slow.pdf)**
   * Reverse engineered Google's client side instrumentation and performance testing
-  * [Boise Code Camp, March 26, 2011](http://boisecodecamp.com/) at Boise State University, Boise, Idaho
+  * [3/26/2011 for Boise Code Camp](http://boisecodecamp.com/) at Boise State University, Boise, Idaho
 
 ## Education
 * B.S., Computer Engineering, Summa cum Laude
