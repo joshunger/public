@@ -28,6 +28,7 @@
         "suppressWelcomeNotice": true
     },
     "window.zoomLevel": 0,
+    "files.autoSave": "onWindowChange",
     // "workbench.editor.tabSizing": "shrink",
     // "workbench.editor.tabCloseButton": "left",
 }
