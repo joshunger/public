@@ -87,6 +87,6 @@
   * [3/26/2011 for Boise Code Camp](http://boisecodecamp.com/) at Boise State University, Boise, Idaho
 
 ## Education
-* B.S., Computer Engineering, Summa cum Laude
+* B.S., Computer Engineering, Summa cum Laude - *1999 to 2003*
   * Mathematics Minor, University Honors certificate
   * University of Florida, **GPA 3.95**/4.00
