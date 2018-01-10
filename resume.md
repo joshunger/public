@@ -48,6 +48,9 @@
  * Pro bono / volunteer full stack developer for Treefort 2017 web, app, and API work
  * AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React, Rollbar
 
+**Google Developer Group Boise** - *2012 to 2013*
+ * Reached out to and hosted seven [Google Developer Group Boise](http://gdgb.org/) meetups
+
 **MediaStream for SkyDrive** - *2012*
  * Solely developed app to upload photos, videos from Android phone to SkyDrive before Google Photos offered the same
  * Android SDK, NDK, Java, Eclipse
