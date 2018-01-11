@@ -74,17 +74,17 @@
 
 ## Presentations
 **[Frontend Development 2017 Year in Review](https://github.com/joshunger/joshunger.com/blob/master/frontend-development-2017-year-in-review.md)**
-  * [Boise Frontend Development Meetup, January 3, 2018](https://www.meetup.com/frontend-devs/events/246206347/), Computer Science Department, Boise State University, Boise, Idaho
+  * [Boise Frontend Development Meetup, January 3, 2018](https://www.meetup.com/frontend-devs/events/246206347/), CS Department, Boise State University, Boise, Idaho
 
 **Weekend Update Series**
 * Latest browser news and features in Chrome and FireFox and sometimes Safari and Edge
 * [Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md) 
   - [Boulder JS Meetup, December 14, 2016](https://www.meetup.com/Boulder-JS/events/234442770/), Quick Left, Boulder, Colorado
-  - [Boise Frontend Development Meetup, December 7, 2016](https://www.meetup.com/frontend-devs/events/234035953/), Computer Science Department, Boise State University, Boise, Idaho
+  - [Boise Frontend Development Meetup, December 7, 2016](https://www.meetup.com/frontend-devs/events/234035953/), CS Department, Boise State University, Boise, Idaho
 * [Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md)
-  - [Boise Frontend Development Meetup, November 2, 2016](https://www.meetup.com/frontend-devs/events/234727471/), Computer Science Department, Boise State University, Boise, Idaho
+  - [Boise Frontend Development Meetup, November 2, 2016](https://www.meetup.com/frontend-devs/events/234727471/), CS Department, Boise State University, Boise, Idaho
 * [Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md)
-  - [Boise Frontend Development Meetup, October 5, 2016](https://www.meetup.com/frontend-devs/events/234035969/), Computer Science Department, Boise State University, Boise, Idaho
+  - [Boise Frontend Development Meetup, October 5, 2016](https://www.meetup.com/frontend-devs/events/234035969/), CS Department, Boise State University, Boise, Idaho
 
 **[Faster Is Better Than Slow](http://joshunger.com/boisecodecamp2011/Boise-Code-Camp-2011-Fast-is-better-than-slow.pdf)**
  * Google's client side instrumentation and performance testing, reverse engineered
