@@ -14,7 +14,7 @@
 * ES2015 (ES6), ES2016, ES2017, Babel, GitLab, AWS CloudFront, S3, API Gateway, Angular 1, Google Analytics, less, npm, VS Code, ESLint
 
 **Full Stack Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2012 to 2015*
-* Developed cloud based healthcare analytics platform that ETLs electronic health record data to compute readmission and other metrics 
+* Developed cloud healthcare analytics platform that ETLs electronic health record data to compute readmissions and other metrics 
 * Led front-end work and team; introduced and championed Angular 1 and deprecated YUI and Backbone
 * Migrated Jenkins to Docker and builds to AWS EC2 slaves increasing concurrent builds from one to unlimited
 * Led migration to AWS (and compared Azure, Google Cloud) for HIPAA compliant hosting from local hosting
