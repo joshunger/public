@@ -69,7 +69,7 @@
 
 **[Treefort 2015 Hackfort2 Hackathon](https://www.treefortmusicfest.com/forts/hackfort/)** - *2015*
 * Rallied 7 developers and designed and developed *[Boise Art Hunt](http://www.boiseweekly.com/Cobweb/archives/2015/03/29/treefort-2015-datefort-app-wins-hackfort2-hackathon)* in only 48 hours; [see live demo here](https://hackfort-2-art-hunt.herokuapp.com)
-* Scavenger hunt-like experience for 600+ public art pieces that are claimable within a given geofence for badges and coupons
+* Scavenger hunt-like experience for 600+ public art pieces claimable within a geofence for badges and coupons
 * Won 3rd place :trophy:
 
 ## Presentations
