@@ -26,7 +26,7 @@
 * Profiled and improved server-side requests per second (RPS) by 2x
 * Improved and streamlined automation reliability from < 90% to over 95% now owned by 5 testers instead of 25
 * Led and tested security including XSS and other attacks
-* Awarded Microsoft Bench Program 2011 and 2012 (top 4% of Microsoft) and Technical Leadership Select Program 2010
+* Awarded Microsoft Bench Program 2011 and 2012 (top 4% of Microsoft), Technical Leadership Select Program 2010
 * Authored [PerformancePoint 2010 Capacity Planning Document for SharePoint 2010](https://technet.microsoft.com/en-us/library/ff955652.aspx) and [SDK blog articles](https://blogs.msdn.microsoft.com/performancepoint/)
 * Open sourced test code that could be used by all of our customers [PerformancePoint 2010 Content Deployment Tool](http://ppscd.codeplex.com/)
 * Improved remote build time by 4x by automatically pulling down builds from Redmond, WA; managed single Boise Developer Lab (and admin) with 75 physical servers, 200+ virtual, and 45+ dev desktops
