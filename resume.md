@@ -22,7 +22,7 @@
 * YUI, Backbone, jQuery, Java, Spring, Tomcat
 
 **Software Development Engineer in Test (SDET) II @ [Microsoft](http://www.microsoft.com)** - *2008 to 2012*
-* Developed and tested [PerformancePoint for SharePoint 2016](https://technet.microsoft.com/en-us/library/ee424392(v=office.16).aspx) and [PerformancePoint 2010](https://msdn.microsoft.com/en-us/library/office/bb848116(v=office.14).aspx) business intelligence
+* Developed and tested [PerformancePoint for SharePoint 2016](https://technet.microsoft.com/en-us/library/ee424392(v=office.16).aspx) & [PerformancePoint 2010](https://msdn.microsoft.com/en-us/library/office/bb848116(v=office.14).aspx) business intelligence products
 * Profiled and improved server-side requests per second (RPS) by 2x
 * Improved and streamlined automation reliability from < 90% to over 95% now owned by 5 testers instead of 25
 * Led and tested security including XSS and other attacks
