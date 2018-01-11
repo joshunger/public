@@ -38,7 +38,7 @@
 <!-- **System Administrator @ Shands Hospital, University Florida** - *2003 - 2001* -->
 
 **Web Developer Internship @ Bigstep.com** - *Summer 2000*
-* Streamlined help desk paper forms to HTML and JavaScript; my first experience with JavaScript and "Dynamic HTML"
+* Streamlined help desk paper forms to HTML & JavaScript; my first experience with JavaScript and "Dynamic HTML"
 
 ## Extracurricular Activities
 **[Boise Front-end Development Meetup](http://www.meetup.com/frontend-devs/)** - *2016 to Present*
