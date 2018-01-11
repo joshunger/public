@@ -15,16 +15,16 @@
 
 **Full Stack Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2012 to 2015*
 * Developed cloud based healthcare analytics platform that ETLs electronic health record data to compute readmission and other metrics 
-* Introduced and championed Angular 1
+* Led front-end work and team; introduced and championed Angular 1 and deprecated YUI and Backbone
 * Migrated Jenkins to Docker and builds to AWS EC2 slaves increasing concurrent builds from one to unlimited
 * Led migration to AWS (and compared Azure, Google Cloud) for HIPAA compliant hosting from local hosting
-* Analyzed parallel aggregate table generation with Google Big Query, Apache Spark, and Redshift to increase data load times by 200%
-* YUI, Backbone, jQuery, Java, Spring, Tomcat, MySQL
+* Analyzed parallel aggregate table generation with Google Big Query, Apache Spark, and Redshift to increase data load times by over 200% compared to MySQL
+* YUI, Backbone, jQuery, Java, Spring, Tomcat
 
 **Software Development Engineer in Test (SDET) II @ [Microsoft](http://www.microsoft.com)** - *2008 to 2012*
-* Developed and tested a business intelligence product PerformancePoint for SharePoint 2016 and PerformancePoint 2010
+* Developed and tested PerformancePoint for SharePoint 2016 and PerformancePoint 2010, both business intelligence products
 * Owned performance load testing, client side performance, automation reliability, and security
-* Microsoft Bench Program 2011 and 2012 (top 4% of Microsoft); Technical Leadership Select Program 2010
+* Nominated to Microsoft Bench Program 2011 and 2012 (top 4% of Microsoft) and Technical Leadership Select Program 2010
 * Authored [PerformancePoint 2010 Capacity Planning Document for SharePoint 2010](https://technet.microsoft.com/en-us/library/ff955652.aspx)
 * Open sourced test code that could be used by all of our customers [PerformancePoint 2010 Content Deployment Tool](http://ppscd.codeplex.com/)
 * Managed single Boise Developer Lab (and admin) with 75 physical servers, 200+ virtual, and 45+ dev desktops; automatically pulled down builds from Redmond, WA to improve build times by 4x
@@ -36,7 +36,7 @@
 <!-- **System Administrator @ Shands Hospital, University Florida** - *2003 - 2001* -->
 
 **Web Developer Internship @ Bigstep.com** - *Summer 2000*
-* Streamlined helpdesk paper forms by converting them to HTML and JavaScript; my first experience with JavaScript and toggling `display`
+* Streamlined help desk paper forms by converting them to HTML and JavaScript; my first experience with JavaScript and "Dynamic HTML"
 
 ## Extracurricular Activities
 **[Boise Front-end Development Meetup](http://www.meetup.com/frontend-devs/)** - *2016 to Present*
@@ -44,7 +44,7 @@
 
 **[Treefort Music Fest 2018](https://www.treefortmusicfest.com/)** - *2017 to Present*
  * Pro bono volunteer full stack developer for Treefort 2018 web, app, and API work
- * Developing web schedule with Spotify playlist integration using user testing
+ * Designing with user testing and developing web schedule with Spotify playlist integration
  * AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React, Rollbar, Angular 1
 
 **[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *2016 to 2017*
@@ -80,17 +80,17 @@
 
 **[Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md)**
  * Latest browser news and features in Chrome and FireFox (and sometimes Safari and Edge)
- * [Boise Frontend Development Meetup, November 2, 2016](foo) at Computer Science Department, Boise State University, Boise, Idaho
+ * [Boise Frontend Development Meetup, November 2, 2016](https://www.meetup.com/frontend-devs/events/234727471/) at Computer Science Department, Boise State University, Boise, Idaho
 
 **[Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md)**
  * Latest browser news and features in Chrome and FireFox (and sometimes Safari and Edge)
- * [Boise Frontend Development Meetup, October 5, 2016](foo) at Computer Science Department, Boise State University, Boise, Idaho
+ * [Boise Frontend Development Meetup, October 5, 2016](https://www.meetup.com/frontend-devs/events/234035969/) at Computer Science Department, Boise State University, Boise, Idaho
 
 **[Faster Is Better Than Slow](http://joshunger.com/boisecodecamp2011/Boise-Code-Camp-2011-Fast-is-better-than-slow.pdf)**
  * Google's client side instrumentation and performance testing
  * [Boise Code Camp, March 3, 2011](http://boisecodecamp.com/) at Boise State University, Boise, Idaho
 
 ## Education
-**B.S., Computer Engineering**, Summa cum Laude - *1999 to 2003*
+**B.S., Computer Engineering, Summa cum Laude** - *1999 to 2003*
  * Mathematics Minor, University Honors certificate
  * University of Florida, **GPA 3.95**/4.00
