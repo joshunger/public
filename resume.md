@@ -6,8 +6,8 @@
 -->
 ## Work Experience
 **Full Stack JavaScript Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *2015 to Present*
-* Developed 3D based (WebGL and Three.js) product configurators for customers including [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com), [Tuff Shed](https://www.tuffshed.com/)
-* Championed and developed a single back-end server and converted existing copy and paste servers to a single multi-tenant solution on AWS Elastic Beanstalk reducing code and maintenance by at least 5x
+* Developing 3D based product configurators (in WebGL and Three.js) for customers including [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com), [Tuff Shed](https://www.tuffshed.com/)
+* Championed and developed a single back-end server and converted existing copy and paste servers to a single multi-tenant solution on AWS Elastic Beanstalk reducing lines of code by 5x
 * Introduced Webpack (including back-end), React, Redux, Prettier, codemod, Docker, Ansible, Prettier, yarn, chai, mocha into the development workflow
 * Introduced Material Design into our design process including Material-UI to provide a consistent user experience <!-- * server-side GPU rendering on AWS -->
 * Introduced client-side error capturing and reporting using a comparison of Bugsnag, Rollbar, and Sentry
@@ -18,16 +18,18 @@
 * Led front-end work and team; introduced and championed Angular 1 and deprecated YUI and Backbone
 * Migrated Jenkins to Docker and builds to AWS EC2 slaves increasing concurrent builds from one to unlimited
 * Led migration to AWS (and compared Azure, Google Cloud) for HIPAA compliant hosting from local hosting
-* Analyzed parallel aggregate table generation with Google Big Query, Apache Spark, and Redshift to increase data load times by over 200% compared to MySQL
+* Analyzed parallel aggregate table generation with Google Big Query, Apache Spark, and Redshift to speed up data load times by over 200% compared to MySQL
 * YUI, Backbone, jQuery, Java, Spring, Tomcat
 
 **Software Development Engineer in Test (SDET) II @ [Microsoft](http://www.microsoft.com)** - *2008 to 2012*
-* Developed and tested PerformancePoint for SharePoint 2016 and PerformancePoint 2010, both business intelligence products
-* Owned performance load testing, client side performance, automation reliability, and security
-* Nominated to Microsoft Bench Program 2011 and 2012 (top 4% of Microsoft) and Technical Leadership Select Program 2010
-* Authored [PerformancePoint 2010 Capacity Planning Document for SharePoint 2010](https://technet.microsoft.com/en-us/library/ff955652.aspx)
+* Developed and tested PerformancePoint for SharePoint 2016 and PerformancePoint 2010 business intelligence products
+* Profiled and improved server-side requests per second (RPS) by 2x
+* Improved and streamlined automation reliability from < 90% to over 95% now owned by 5 testers instead of 25
+* Led and tested security including XSS and other attacks
+* Awarded Microsoft Bench Program 2011 and 2012 (top 4% of Microsoft) and Technical Leadership Select Program 2010
+* Authored [PerformancePoint 2010 Capacity Planning Document for SharePoint 2010](https://technet.microsoft.com/en-us/library/ff955652.aspx) and [PerformancePoint SDK blog articles](https://blogs.msdn.microsoft.com/performancepoint/)
 * Open sourced test code that could be used by all of our customers [PerformancePoint 2010 Content Deployment Tool](http://ppscd.codeplex.com/)
-* Managed single Boise Developer Lab (and admin) with 75 physical servers, 200+ virtual, and 45+ dev desktops; automatically pulled down builds from Redmond, WA to improve build times by 4x
+* Improved remote build time by 4x by automatically pulling down builds from Redmond, WA; managed single Boise Developer Lab (and admin) with 75 physical servers, 200+ virtual, and 45+ dev desktops
 
 **Senior Consultant and Lead @ [Blackfin Technology](https://www.linkedin.com/company/blackfin)** - *2003 to 2008*
 * Developed and technically led web based software development projects
@@ -44,7 +46,8 @@
 
 **[Treefort Music Fest 2018](https://www.treefortmusicfest.com/)** - *2017 to Present*
  * Pro bono volunteer full stack developer for Treefort 2018 web, app, and API work
- * Designing with user testing and developing web schedule with Spotify playlist integration
+ * Designing, user testing, and developing web schedule with Spotify playlist integration
+ * Converting API to GraphQL
  * AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React, Rollbar, Angular 1
 
 **[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *2016 to 2017*
@@ -55,7 +58,7 @@
  * Reached out to and hosted seven [Google Developer Group Boise](http://gdgb.org/) meetups at WhiteCloud Analytics
 
 **MediaStream for SkyDrive** - *2012*
- * Developed personal app to upload photos, videos from Android phone to SkyDrive before Google Photos offered the same
+ * Independently developed app to upload photos, videos from Android phone to SkyDrive before Google Photos offered the same
  * Android SDK, NDK, Java, Eclipse
 
 ## Hackathons
@@ -71,26 +74,23 @@
 
 ## Presentations
 **[Frontend Development 2017 Year in Review](https://github.com/joshunger/joshunger.com/blob/master/frontend-development-2017-year-in-review.md)**
-  * [Boise Frontend Development Meetup, January 3, 2018](https://www.meetup.com/frontend-devs/events/246206347/) at Computer Science Department, Boise State University, Boise, Idaho
+  * [Boise Frontend Development Meetup, January 3, 2018](https://www.meetup.com/frontend-devs/events/246206347/), Computer Science Department, Boise State University, Boise, Idaho
 
-**[Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md)**
-  * Latest browser news and features in Chrome and FireFox (and sometimes Safari and Edge)
-  * [Boise Frontend Development Meetup, December 7, 2016](https://www.meetup.com/frontend-devs/events/234035953/) at Computer Science Department, Boise State University, Boise, Idaho
- * [Boulder JS Meetup, December 14, 2016](https://www.meetup.com/Boulder-JS/events/234442770/) at Quick Left, Boulder, Colorado
-
-**[Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md)**
- * Latest browser news and features in Chrome and FireFox (and sometimes Safari and Edge)
- * [Boise Frontend Development Meetup, November 2, 2016](https://www.meetup.com/frontend-devs/events/234727471/) at Computer Science Department, Boise State University, Boise, Idaho
-
-**[Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md)**
- * Latest browser news and features in Chrome and FireFox (and sometimes Safari and Edge)
- * [Boise Frontend Development Meetup, October 5, 2016](https://www.meetup.com/frontend-devs/events/234035969/) at Computer Science Department, Boise State University, Boise, Idaho
+**Weekend Update Series**
+* Latest browser news and features in Chrome and FireFox and sometimes Safari and Edge
+* [Weekend Update December 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-12.md) 
+  - [Boulder JS Meetup, December 14, 2016](https://www.meetup.com/Boulder-JS/events/234442770/), Quick Left, Boulder, Colorado
+  - [Boise Frontend Development Meetup, December 7, 2016](https://www.meetup.com/frontend-devs/events/234035953/), Computer Science Department, Boise State University, Boise, Idaho
+* [Weekend Update November 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-11.md)
+  - [Boise Frontend Development Meetup, November 2, 2016](https://www.meetup.com/frontend-devs/events/234727471/), Computer Science Department, Boise State University, Boise, Idaho
+* [Weekend Update October 2016](https://gitlab.com/joshunger/public/blob/master/weekend-update-2016-10.md)
+  - [Boise Frontend Development Meetup, October 5, 2016](https://www.meetup.com/frontend-devs/events/234035969/), Computer Science Department, Boise State University, Boise, Idaho
 
 **[Faster Is Better Than Slow](http://joshunger.com/boisecodecamp2011/Boise-Code-Camp-2011-Fast-is-better-than-slow.pdf)**
- * Google's client side instrumentation and performance testing
- * [Boise Code Camp, March 3, 2011](http://boisecodecamp.com/) at Boise State University, Boise, Idaho
+ * Google's client side instrumentation and performance testing, reverse engineered
+ * [Boise Code Camp, March 3, 2011](http://boisecodecamp.com/), Boise State University, Boise, Idaho
 
 ## Education
 **B.S., Computer Engineering, Summa cum Laude** - *1999 to 2003*
  * Mathematics Minor, University Honors certificate
- * University of Florida, **GPA 3.95**/4.00
+ * University of Florida, **GPA 3.95**/4.00, Gainesville, Florida
