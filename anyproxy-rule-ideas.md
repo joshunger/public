@@ -2,3 +2,4 @@
 - split preview to right
 - download youtube to plex
 - parse books
+- mailto links
