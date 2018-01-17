@@ -1,2 +1,3 @@
 - expand github to 100% width of editor
 - split preview to right
+- download youtube to plex
