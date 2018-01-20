@@ -4,4 +4,8 @@
 - parse books
   - https://hbr.org/2014/12/the-google-way-of-attacking-problems
   - could be based upon amazon links
+  - boise public library
+  - overdrive
+  - web search
+  - good reads
 - mailto links
