@@ -3,4 +3,5 @@
 - download youtube to plex
 - parse books
   - https://hbr.org/2014/12/the-google-way-of-attacking-problems
+  - could be based upon amazon links
 - mailto links
