@@ -6,8 +6,8 @@
 -->
 ## Work Experience
 **Full Stack JavaScript Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *2015 to Present*
-* Developing 3D product configurators (in WebGL and Three.js) for [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com), [Tuff Shed](https://www.tuffshed.com/), etc.
-* Championed and developed a single back-end server and converted existing copy and paste servers to a single multi-tenant solution on AWS Elastic Beanstalk reducing lines of code by 5x
+* Developing 3D product configurators (in WebGL and Three.js) including [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com), [Tuff Shed](https://www.tuffshed.com/)
+* Championed and developed a single back-end server and converted existing copy and paste servers to a single multi-tenant solution on AWS Elastic Beanstalk reducing lines of code by over 5x and server maintenance
 * Introduced Webpack (including back-end), React, Redux, Prettier, codemod, Docker, Ansible, Prettier, yarn, chai, mocha into the development workflow
 * Introduced Material Design into our design process including Material-UI to provide a consistent user experience <!-- * server-side GPU rendering on AWS -->
 * Introduced client-side error capturing and reporting using a comparison of Bugsnag, Rollbar, and Sentry
@@ -22,13 +22,13 @@
 * YUI, Backbone, jQuery, Java, Spring, Tomcat
 
 **Software Development Engineer in Test (SDET) II @ [Microsoft](http://www.microsoft.com)** - *2008 to 2012*
-* Developed and tested [PerformancePoint for SharePoint 2016](https://technet.microsoft.com/en-us/library/ee424392(v=office.16).aspx) & [PerformancePoint 2010](https://msdn.microsoft.com/en-us/library/office/bb848116(v=office.14).aspx) business intelligence products
+* Tested [PerformancePoint for SharePoint 2016](https://technet.microsoft.com/en-us/library/ee424392(v=office.16).aspx) & [PerformancePoint 2010](https://msdn.microsoft.com/en-us/library/office/bb848116(v=office.14).aspx) business intelligence products
 * Profiled and improved server-side requests per second (RPS) by 2x
 * Improved and streamlined automation reliability from < 90% to over 95% now owned by 5 testers instead of 25
-* Led and tested security including XSS and other attacks
-* Awarded Microsoft Bench Program 2011 and 2012 (top 4% of Microsoft), Technical Leadership Select Program 2010
+* Led and tested security including XSS, SQL injection, denial of service, and other attacks
+* Awarded Microsoft Bench Program 2011, 2012 (top 4% of Microsoft), Technical Leadership Select Program 2010
 * Authored [PerformancePoint 2010 Capacity Planning Document for SharePoint 2010](https://technet.microsoft.com/en-us/library/ff955652.aspx) and [SDK blog articles](https://blogs.msdn.microsoft.com/performancepoint/)
-* Open sourced test code that could be used by all of our customers [PerformancePoint 2010 Content Deployment Tool](http://ppscd.codeplex.com/)
+* Open sourced testing code for all of our customers [PerformancePoint 2010 Content Deployment Tool](http://ppscd.codeplex.com/)
 * Improved remote build time by 4x by automatically pulling down builds from Redmond, WA; managed single Boise Developer Lab (and admin) with 75 physical servers, 200+ virtual, and 45+ dev desktops
 
 **Senior Consultant and Lead @ [Blackfin Technology](https://www.linkedin.com/company/blackfin)** - *2003 to 2008*
@@ -38,7 +38,7 @@
 <!-- **System Administrator @ Shands Hospital, University Florida** - *2003 - 2001* -->
 
 **Web Developer Internship @ Bigstep.com** - *Summer 2000*
-* Streamlined help desk paper forms to HTML & JavaScript; my first experience with JavaScript and "Dynamic HTML"
+* Converted help desk paper forms to HTML & JavaScript; my first experience with JavaScript and "Dynamic HTML"
 
 ## Extracurricular Activities
 **[Boise Front-end Development Meetup](http://www.meetup.com/frontend-devs/)** - *2016 to Present*
@@ -47,15 +47,14 @@
 **[Treefort Music Fest 2018](https://www.treefortmusicfest.com/)** - *2017 to Present*
  * Pro bono volunteer full stack developer for Treefort 2018 web, app, and API work
  * Designing, user testing, and developing web schedule with Spotify playlist integration
- * Converting API to GraphQL
- * AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React, Rollbar, Angular 1
+ * AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React, Rollbar, Angular 1, GraphQL
 
 **[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - *2016 to 2017*
  * Pro bono volunteer full stack developer for Treefort 2017 web, app, and API work
  * AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React, Rollbar, Angular 1
 
 **Google Developer Group Boise** - *2012 to 2013*
- * Reached out to and hosted seven [Google Developer Group Boise](http://gdgb.org/) meetups at WhiteCloud Analytics
+ * Volunteered host for seven [Google Developer Group Boise](http://gdgb.org/) meetings at WhiteCloud Analytics
 
 **MediaStream for SkyDrive** - *2012*
  * Independently developed app to upload photos, videos from Android phone to SkyDrive before Google Photos offered the same
@@ -63,12 +62,12 @@
 
 ## Hackathons
 **[Idaho Virtual Reality 2016 Immerse-A-Thon Hackathon](http://idahovirtualreality.com/ivrc-2016-immerse-a-thon/)** - *2016/10*
-* Developed *Betavu* to show climbing route beta using augmented reality (AR) when camera is held up to a rock
+* Developed *Betavu* to show climbing route beta using augmented reality (AR) when your phone camera is held up to a rock
 * Won booth space to demo *Betavu* at the [Idaho Virtual Reality Council 2016 VR Bash](https://idahovirtualreality.com/ivrc-2016-vr-bash/)
 * [Vuforia SDK](https://www.vuforia.com/), Android, Sketchup
 
 **[Treefort 2015 Hackfort2 Hackathon](https://www.treefortmusicfest.com/forts/hackfort/)** - *2015*
-* Rallied 7 developers and designed and developed *[Boise Art Hunt](http://www.boiseweekly.com/Cobweb/archives/2015/03/29/treefort-2015-datefort-app-wins-hackfort2-hackathon)* in only 48 hours; [see live demo here](https://hackfort-2-art-hunt.herokuapp.com)
+* Rallied 7 developers and designed and developed a fully functional *[Boise Art Hunt](http://www.boiseweekly.com/Cobweb/archives/2015/03/29/treefort-2015-datefort-app-wins-hackfort2-hackathon)* in only 48 hours; [see live demo here](https://hackfort-2-art-hunt.herokuapp.com)
 * Scavenger hunt-like experience for 600+ public art pieces claimable within a geofence for badges and coupons
 * Won 3rd place :trophy:
 
