@@ -44,6 +44,10 @@ git fetch fork
 // install bash 4
 ```
 
+- 7zip
+- docker
+- cmder
+
 # .gitignore
 ```
 yarn-error.log
