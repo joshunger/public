@@ -19,6 +19,7 @@
 * Migrated Jenkins to Docker and builds to AWS EC2 slaves increasing concurrent builds from one to unlimited
 * Led migration to AWS (and compared Azure, Google Cloud) for HIPAA compliant hosting from local hosting
 * Analyzed parallel aggregate table generation with Google Big Query, Apache Spark, and Redshift to speed up data load times by over 200% compared to MySQL
+* Introduced Angular 1, Mustache.java templates
 * YUI, Backbone, jQuery, Java, Spring, Tomcat
 
 **Software Development Engineer in Test (SDET) II @ [Microsoft](http://www.microsoft.com)** - *2008 to 2012*
