@@ -57,7 +57,7 @@
  * Volunteered host for seven [Google Developer Group Boise](http://gdgb.org/) meetings at WhiteCloud Analytics
 
 **MediaStream for SkyDrive** - *2012*
- * Independently developed app to upload photos, videos from Android phone to SkyDrive before Google Photos offered the same
+ * Independently developed app to upload media from Android phone to SkyDrive before Google Photos offered the same
  * Android SDK, NDK, Java, Eclipse
 
 ## Hackathons
