@@ -52,3 +52,6 @@ git fetch fork
 ```
 yarn-error.log
 ```
+
+# windows
+- http://scoop.sh/
