@@ -55,3 +55,4 @@ yarn-error.log
 
 # windows
 - http://scoop.sh/
+- cmder
