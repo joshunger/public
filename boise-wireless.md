@@ -1,5 +1,5 @@
 |                       |                 | download  | upload  | date              | bars  | lat         | long
-|-                      |-                |-          |-        |-                  |-      |
+|-                      |-                |-          |-        |-                  |-      | -           | -
 |wylderguest            |lewisandclark99  | 70        |         | 2018-01-11        | 4     |
 |Form & Function        |chinupfriend     | 54        |         | 2018-01-19        | 4     |
 |                       |                 | 28.2      | 10.2    | 2018-02-08 7:55   | 5     |
