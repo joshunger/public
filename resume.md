@@ -1,4 +1,4 @@
-# Josh Unger ~ [<img src="https://github.com/favicon.ico" />](https://github.com/joshunger/) [<img src="https://gitlab.com/favicon.ico" />](https://gitlab.com/joshunger/) [<img src="https://abs.twimg.com/favicons/favicon.ico" />](https://twitter.com/joshunger/)
+# Josh Unger ~ [<img src="https://github.com/favicon.ico" />](https://github.com/joshunger/) [<img src="https://gitlab.com/favicon.ico" />](https://gitlab.com/joshunger/) [<img src="https://abs.twimg.com/favicons/favicon.ico" />](https://twitter.com/joshunger/) [<img src="http://d.gr-assets.com/misc/1454549125-1454549125_goodreads_misc.png" />](https://www.goodreads.com/user/show/16794412-josh-unger)
 
 <!--
 * Craft high quality web applications that customers crave 
