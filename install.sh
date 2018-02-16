@@ -11,3 +11,6 @@ brew cask install google-chrome
 brew cask install iterm2
 brew cask install visual-studio-code-insiders
 brew install yarn
+
+# bb
+brew install hub
