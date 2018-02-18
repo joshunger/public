@@ -21,3 +21,8 @@ nvm install stable
 
 brew cask install spectacle
 open /Applications/Spectacle.app
+
+brew cask install atom-beta
+brew install ffmpeg
+brew cask install vlc
+brew install docker
