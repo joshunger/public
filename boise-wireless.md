@@ -1,5 +1,5 @@
-|                       |                 | download  | upload  | date              | bars  | lat         | long
-|-                      |-                |-          |-        |-                  |-      | -           | -
+|                       |                 | download  | upload  | date              | bars  | lat long accuracy
+|-                      |-                |-          |-        |-                  |-      | -           
 |wylderguest            |lewisandclark99  | 70        |         | 2018-01-11        | 4     |
 |Form & Function        |chinupfriend     | 54        |         | 2018-01-19        | 4     |
 |                       |                 | 28.2      | 10.2    | 2018-02-08 7:55   | 5     |
@@ -8,7 +8,7 @@
 |BoiseCentre            |                 | 2.2       |         | 2018-02-08        | 5     |
 |EvenStevens-Guest      |                 | 6.15      | 4.85    | 2018-02-08 7:14   | 5     |
 |Basque Center wee-fee  | basquecenter    | ?         | ?       | ?                 | -     |
-|Bronco-Guest           | broncoventure   | 54        | 19      | 2018-02-12 17:58  | 5     | 43.6137556  | -116.20413329999997
+|Bronco-Guest           | broncoventure   | 54        | 19      | 2018-02-12 17:58  | 5     | 43.6137556 -116.20413329999997
 | Hyde Perkies          | coldbrew        | 4.82      | 1.38    | 2018-02-17 17:00  |       | 43.629571399999996 -116.2034681 25
 
 
