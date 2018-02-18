@@ -26,3 +26,17 @@ brew cask install atom-beta
 brew install ffmpeg
 brew cask install vlc
 brew install docker
+
+code --install-extension ms-vscode.cpptools
+
+rm "$HOME/Library/Application Support/Code - Insiders/User/settings.json"
+ln -s ~/dev/joshunger.com/settings.json "$HOME/Library/Application Support/Code - Insiders/User/settings.json"
+
+rm "$HOME/Library/Application Support/Code - Insiders/User/extensions.json"
+ln -s ~/dev/joshunger.com/extensions.json "$HOME/Library/Application Support/Code - Insiders/User/extensions.json"
+
+rm "/usr/local/bin/code-insiders"
+rm "/usr/local/bin/code"
+ln -s "/Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/bin/code" "/usr/local/bin/code"
+
+yarn global add eslint
