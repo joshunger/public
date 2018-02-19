@@ -40,3 +40,4 @@ rm "/usr/local/bin/code"
 ln -s "/Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/bin/code" "/usr/local/bin/code"
 
 yarn global add eslint
+brew cask install gas-mask
