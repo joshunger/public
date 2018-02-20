@@ -5,7 +5,10 @@
 * Change the way we engineer software by seeking smarter and more efficient methods
 -->
 ## Work Experience
-**Full Stack JavaScript Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *2015 to Present*
+**Junger, LLC**
+* Owner, Independent Contractor
+
+**Full Stack JavaScript Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *2015 to 2018*
 * Developing 3D product configurators (in WebGL and Three.js) including [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com), [Tuff Shed](https://www.tuffshed.com/)
 * Championed and developed a single back-end server and converted existing copy and paste servers to a single multi-tenant solution on AWS Elastic Beanstalk reducing lines of code by over 5x and server maintenance
 * Introduced Webpack (including back-end), React, Redux, Prettier, codemod, Docker, Ansible, Prettier, yarn, chai, mocha
