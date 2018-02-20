@@ -5,8 +5,8 @@
 * Change the way we engineer software by seeking smarter and more efficient methods
 -->
 ## Work Experience
-**Junger, LLC**
-* Owner, Independent Contractor
+**Owner @ [Junger, LLC]()** - *2018-02 to present*
+* Full stack JavaScript consulting
 
 **Full Stack JavaScript Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *2015 to 2018*
 * Developing 3D product configurators (in WebGL and Three.js) including [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com), [Tuff Shed](https://www.tuffshed.com/)
