@@ -10,8 +10,9 @@
 |Basque Center wee-fee  | basquecenter    | ?         | ?       | ?                 | -     |
 |Bronco-Guest           | broncoventure   | 54        | 19      | 2018-02-12 17:58  | 5     | 43.6137556 -116.20413329999997
 | Hyde Perkies          | coldbrew        | 4.82      | 1.38    | 2018-02-17 17:00  |       | 43.629571399999996 -116.2034681 25
+| DistrictGuest         | loveisthekey    | 9.65      | 1.4     | 2018-02-19 17:12  | 5 | 43.618379499999996 -116.20449499999998 22
 
 
 
 
-`navigator.geolocation.getCurrentPosition(p => console.log(p.coords.latitude, p.coords.longitude));`
+`navigator.geolocation.getCurrentPosition(p => console.log(p.coords.latitude, p.coords.longitude, p.coords.accuracy));`
