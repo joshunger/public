@@ -42,3 +42,5 @@ ln -s "/Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/bi
 yarn global add eslint
 brew cask install gas-mask
 brew cask install firefox-nightly
+yarn global add prettier
+brew cask install sketch
