@@ -44,3 +44,4 @@ brew cask install gas-mask
 brew cask install firefox-nightly
 yarn global add prettier
 brew cask install sketch
+brew install p7zip
