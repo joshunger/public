@@ -23,6 +23,7 @@ yarn global add eslint prettier
 
 read -r -d '' BREW_CASK_INSTALL_STUFF << EOM
 atom-beta
+dropbox
 firefox-nightly
 gas-mask
 google-backup-and-sync
