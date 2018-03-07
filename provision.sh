@@ -53,3 +53,5 @@ open "/Applications/Backup and Sync.app"
 # launchctl Spectacle
 
 code --install-extension ms-vscode.cpptools
+
+ln -s ~/dev/ ~/Dropbox/
