@@ -55,3 +55,14 @@ open "/Applications/Backup and Sync.app"
 code --install-extension ms-vscode.cpptools
 
 ln -s ~/dev/ ~/Dropbox/
+
+# ~/Library/Application\ Support/Google/Chrome\ Canary/Default/Preferences
+# See devtools.preferences.uiTheme
+
+cp ~/Library/Application\ Support/Google/Chrome\ Canary/Default/Preferences /tmp/canary-prefs-pre.json
+
+node > /tmp/canary-prefs <<EOF
+const data = require('/tmp/canary-prefs-pre');
+console.log(data.devtools.preferences.uiTheme);
+EOF
+
