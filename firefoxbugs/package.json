@@ -1,0 +1,9 @@
+{
+  "name": "firefoxbugs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "webpack-serve": "^0.2.0"
+  }
+}
