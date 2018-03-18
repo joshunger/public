@@ -29,6 +29,7 @@ gas-mask
 google-backup-and-sync
 google-chrome
 google-chrome-canary
+google-cloud-sdk
 iterm2
 sketch
 spectacle
