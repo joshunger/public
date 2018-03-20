@@ -31,6 +31,7 @@ google-chrome
 google-chrome-canary
 google-cloud-sdk
 iterm2
+nginx
 sketch
 spectacle
 visual-studio-code-insiders
@@ -42,6 +43,7 @@ read -r -d '' BREW_INSTALL_STUFF << EOM
 docker
 ffmpeg
 hub
+jenv
 p7zip
 yarn
 vlc
@@ -67,3 +69,5 @@ const data = require('/tmp/canary-prefs-pre');
 console.log(data.devtools.preferences.uiTheme);
 EOF
 
+curl -sL https://github.com/shyiko/jabba/raw/master/install.sh | bash && . ~/.jabba/jabba.sh
+jabba install 1.8
