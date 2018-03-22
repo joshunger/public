@@ -10,10 +10,10 @@ source ~/.nvm/nvm.sh
 nvm install stable
 
 rm "$HOME/Library/Application Support/Code - Insiders/User/settings.json"
-ln -s ~/dev/joshunger.com/settings.json "$HOME/Library/Application Support/Code - Insiders/User/settings.json"
+ln -s ~/dev/public/settings.json "$HOME/Library/Application Support/Code - Insiders/User/settings.json"
 
 rm "$HOME/Library/Application Support/Code - Insiders/User/extensions.json"
-ln -s ~/dev/joshunger.com/extensions.json "$HOME/Library/Application Support/Code - Insiders/User/extensions.json"
+ln -s ~/dev/public/extensions.json "$HOME/Library/Application Support/Code - Insiders/User/extensions.json"
 
 rm "/usr/local/bin/code-insiders"
 rm "/usr/local/bin/code"
@@ -71,3 +71,5 @@ EOF
 
 curl -sL https://github.com/shyiko/jabba/raw/master/install.sh | bash && . ~/.jabba/jabba.sh
 jabba install 1.8
+
+brew install https://raw.githubusercontent.com/turforlag/homebrew-cervezas/master/pdftk.rb
