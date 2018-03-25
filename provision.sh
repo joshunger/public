@@ -32,6 +32,7 @@ google-chrome-canary
 google-cloud-sdk
 iterm2
 nginx
+plex-media-server
 sketch
 spectacle
 visual-studio-code-insiders
@@ -73,3 +74,8 @@ curl -sL https://github.com/shyiko/jabba/raw/master/install.sh | bash && . ~/.ja
 jabba install 1.8
 
 brew install https://raw.githubusercontent.com/turforlag/homebrew-cervezas/master/pdftk.rb
+
+# foxit reader
+
+gcloud components install beta
+runtimeconfig.googleapis.com
