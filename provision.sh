@@ -34,6 +34,7 @@ google-cloud-sdk
 iterm2
 nginx
 plex-media-server
+safari-technology-preview
 sketch
 spectacle
 visual-studio-code-insiders
