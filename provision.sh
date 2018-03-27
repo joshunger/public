@@ -26,6 +26,7 @@ atom-beta
 dropbox
 firefox-nightly
 gas-mask
+gimp
 google-backup-and-sync
 google-chrome
 google-chrome-canary
