@@ -81,3 +81,7 @@ brew install https://raw.githubusercontent.com/turforlag/homebrew-cervezas/maste
 
 gcloud components install beta
 runtimeconfig.googleapis.com
+
+mv /usr/local/bin/atom-beta /usr/local/bin/atom
+
+sudo mv ~/Desktop ~/desktop
