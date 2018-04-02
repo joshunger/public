@@ -86,3 +86,5 @@ runtimeconfig.googleapis.com
 mv /usr/local/bin/atom-beta /usr/local/bin/atom
 
 sudo mv ~/Desktop ~/desktop
+
+// /Applications/Google\ Chrome\ Canary.app/Contents/MacOS/Google\ Chrome\ Canary --disable-web-security --user-data-dir
