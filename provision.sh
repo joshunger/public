@@ -23,6 +23,7 @@ yarn global add eslint prettier
 
 read -r -d '' BREW_CASK_INSTALL_STUFF << EOM
 atom-beta
+caffeine
 dropbox
 firefox-nightly
 gas-mask
@@ -81,3 +82,7 @@ brew install https://raw.githubusercontent.com/turforlag/homebrew-cervezas/maste
 
 gcloud components install beta
 runtimeconfig.googleapis.com
+
+mv /usr/local/bin/atom-beta /usr/local/bin/atom
+
+sudo mv ~/Desktop ~/desktop
