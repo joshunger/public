@@ -23,6 +23,7 @@ yarn global add eslint prettier
 
 read -r -d '' BREW_CASK_INSTALL_STUFF << EOM
 atom-beta
+beyond-compare
 dropbox
 firefox-nightly
 gas-mask
@@ -37,6 +38,7 @@ plex-media-server
 safari-technology-preview
 sketch
 spectacle
+virtualbox
 visual-studio-code-insiders
 EOM
 
@@ -81,3 +83,11 @@ brew install https://raw.githubusercontent.com/turforlag/homebrew-cervezas/maste
 
 gcloud components install beta
 runtimeconfig.googleapis.com
+
+mv /usr/local/bin/atom-beta /usr/local/bin/atom
+
+sudo mv ~/Desktop ~/desktop
+
+# manual steps
+# System Preferences → Security & Privacy → General > Enable Oracle for virtualbox
+# curl -L https://aka.ms/windev_VM_virtualbox | bsdtar -xvf-
