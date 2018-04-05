@@ -24,6 +24,7 @@ yarn global add eslint prettier
 read -r -d '' BREW_CASK_INSTALL_STUFF << EOM
 atom-beta
 beyond-compare
+caffeine
 dropbox
 firefox-nightly
 gas-mask
@@ -91,3 +92,4 @@ sudo mv ~/Desktop ~/desktop
 # manual steps
 # System Preferences → Security & Privacy → General > Enable Oracle for virtualbox
 # curl -L https://aka.ms/windev_VM_virtualbox | bsdtar -xvf-
+# /Applications/Google\ Chrome\ Canary.app/Contents/MacOS/Google\ Chrome\ Canary --disable-web-security --user-data-dir
