@@ -90,6 +90,10 @@ mv /usr/local/bin/atom-beta /usr/local/bin/atom
 sudo mv ~/Desktop ~/desktop
 
 # manual steps
+# https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac
 # System Preferences → Security & Privacy → General > Enable Oracle for virtualbox
 # curl -L https://aka.ms/windev_VM_virtualbox | bsdtar -xvf-
 # /Applications/Google\ Chrome\ Canary.app/Contents/MacOS/Google\ Chrome\ Canary --disable-web-security --user-data-dir
+
+# nightly yarn
+# curl -o- -L https://yarnpkg.com/install.sh | bash -s -- --nightly
