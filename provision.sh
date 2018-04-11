@@ -26,6 +26,7 @@ atom-beta
 beyond-compare
 caffeine
 dropbox
+firefox
 firefox-nightly
 gas-mask
 gimp
@@ -88,6 +89,7 @@ runtimeconfig.googleapis.com
 mv /usr/local/bin/atom-beta /usr/local/bin/atom
 
 sudo mv ~/Desktop ~/desktop
+sudo mv ~/Downloads/ ~/downloads
 
 # manual steps
 # https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac

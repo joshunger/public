@@ -7,5 +7,7 @@ export NVM_DIR="$HOME/.nvm"
 
 export PATH="$PATH:$HOME/.yarn/bin"
 
+alias gd="git diff"
+alias gdc="git diff --cached"
+alias gp="git push"
 alias gs="git status"
-alias gf="git diff"
