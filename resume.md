@@ -5,7 +5,7 @@
 * Change the way we engineer software by seeking smarter and more efficient methods
 -->
 ## Work Experience
-**[junger]()** - *present*
+**Software Scientist [0cjs](http://0cjs.com)** - *present*
 * Full stack JavaScript consulting
 
 **Full Stack JavaScript Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *2015 to 2018*
