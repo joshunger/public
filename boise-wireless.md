@@ -16,7 +16,7 @@
 | hhopen                | HHGuest / HH47eCi5o | 23.61 | 41.21 | 2018-03-14 08:30 | ? | 43.6161884 -116.2035379 113
 | conference200_202     | 2083458519      | 10.7      | 68      | 2018-03-22 09:04 | ? | 43.61507972279935 -116.20290723373047 65
 | Payette_Guest         | rustleripa      | 15.65     | 12.38   | 2018-03-27 15:31 | ? | 43.6135394 -116.2152531 30
-
+| SlowCoffeeBar         | coffeecoffeecoffee | 
 
 
 `navigator.geolocation.getCurrentPosition(p => console.log(p.coords.latitude, p.coords.longitude, p.coords.accuracy));`
