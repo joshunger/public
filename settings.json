@@ -30,6 +30,7 @@
     "window.zoomLevel": 0,
     "files.autoSave": "onWindowChange",
     "editor.tabSize": 2,
+    "workbench.startupEditor": "none",
     // "workbench.editor.tabSizing": "shrink",
     // "workbench.editor.tabCloseButton": "left",
 }
