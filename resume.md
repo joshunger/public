@@ -5,7 +5,7 @@
 * Change the way we engineer software by seeking smarter and more efficient methods
 -->
 ## Work Experience
-**Owner @ [Junger]()** - *2018-02 to present*
+**~ @ [Junger]()** - *2018-02 to present*
 * Full stack JavaScript consulting
 
 **Full Stack JavaScript Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *2015 to 2018*
