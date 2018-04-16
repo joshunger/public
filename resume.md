@@ -5,8 +5,8 @@
 * Change the way we engineer software by seeking smarter and more efficient methods
 -->
 ## Work Experience
-**Owner @ [Junger]()** - *2018-02 to present*
-* Full stack JavaScript consulting
+**Software Scientist @ [0cjs](http://0cjs.com)** - *present*
+* Frontend and full stack JavaScript development
 
 **Full Stack JavaScript Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *2015 to 2018*
 * Developing 3D product configurators (in WebGL and Three.js) including [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com), [Tuff Shed](https://www.tuffshed.com/)
