@@ -22,6 +22,7 @@ ln -s "/Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/bi
 yarn global add eslint prettier
 
 read -r -d '' BREW_CASK_INSTALL_STUFF << EOM
+amazon-drive
 atom-beta
 beyond-compare
 caffeine
