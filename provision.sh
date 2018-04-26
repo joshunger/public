@@ -18,6 +18,7 @@ ln -s ~/dev/public/extensions.json "$HOME/Library/Application Support/Code - Ins
 rm "/usr/local/bin/code-insiders"
 rm "/usr/local/bin/code"
 ln -s "/Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/bin/code" "/usr/local/bin/code"
+ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" "/usr/local/bin/codestable"
 
 yarn global add eslint prettier
 
@@ -42,6 +43,7 @@ safari-technology-preview
 sketch
 spectacle
 virtualbox
+visual-studio-code
 visual-studio-code-insiders
 EOM
 
@@ -51,6 +53,7 @@ read -r -d '' BREW_INSTALL_STUFF << EOM
 docker
 ffmpeg
 hub
+imagemagick
 jenv
 p7zip
 yarn
@@ -100,3 +103,11 @@ sudo mv ~/Downloads/ ~/downloads
 
 # nightly yarn
 # curl -o- -L https://yarnpkg.com/install.sh | bash -s -- --nightly
+
+# Keep folders on top when sorting by name
+
+# add favorites
+#  plutil -convert xml1 ~/Library/Preferences/com.apple.finder.plist
+
+# nightly updates
+# gcloud components update
