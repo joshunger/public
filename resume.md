@@ -51,6 +51,7 @@
 
 <!-- https://github.com/devtools-html/debugger.html/issues?utf8=%E2%9C%93&q=author%3Ajoshunger -->
 <!-- https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+author%3Ajoshungera+archived%3Afalse+ -->
+<!-- https://bugs.chromium.org/p/chromium/issues/list?can=2&q=reporter%3Ajoshunger -->
 
 ## Extracurricular Activities
 **[Boise Front-end Development Meetup](http://www.meetup.com/frontend-devs/)** - *2016 to Present*
