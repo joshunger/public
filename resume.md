@@ -44,6 +44,14 @@
 **Web Developer Internship @ Bigstep.com** - *Summer 2000*
 * Converted help desk paper forms to HTML & JavaScript; my first experience with JavaScript and "Dynamic HTML"
 
+## Open Source (OSS) Contributions
+* [devtools-html](https://github.com/devtools-html) / [debugger.html](https://github.com/devtools-html/debugger.html)
+* [Microsoft](https://github.com/Microsoft) / [vscode](https://github.com/Microsoft/vscode)
+<!-- (https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=author%3Ajoshunger) -->
+
+<!-- https://github.com/devtools-html/debugger.html/issues?utf8=%E2%9C%93&q=author%3Ajoshunger -->
+<!-- https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+author%3Ajoshungera+archived%3Afalse+ -->
+
 ## Extracurricular Activities
 **[Boise Front-end Development Meetup](http://www.meetup.com/frontend-devs/)** - *2016 to Present*
  * Organizer; grew the meetup to the second largest technical meetup in Boise, Idaho at 629 members
