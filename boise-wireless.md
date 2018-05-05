@@ -17,6 +17,7 @@
 | conference200_202     | 2083458519      | 10.7      | 68      | 2018-03-22 09:04 | ? | 43.61507972279935 -116.20290723373047 65
 | Payette_Guest         | rustleripa      | 15.65     | 12.38   | 2018-03-27 15:31 | ? | 43.6135394 -116.2152531 30
 | SlowCoffeeBar         | coffeecoffeecoffee | 
+| Dawson Taylor Guest 5GHz | dtcoffee | 12.49 | 1.49
 
 
 `navigator.geolocation.getCurrentPosition(p => console.log(p.coords.latitude, p.coords.longitude, p.coords.accuracy));`
