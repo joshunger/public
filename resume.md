@@ -45,11 +45,16 @@
 * Converted help desk paper forms to HTML & JavaScript; my first experience with JavaScript and "Dynamic HTML"
 
 ## Open Source (OSS) Contributions
-* [devtools-html](https://github.com/devtools-html) / [debugger.html](https://github.com/devtools-html/debugger.html)
-* [Microsoft](https://github.com/Microsoft) / [vscode](https://github.com/Microsoft/vscode)
-<!-- (https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=author%3Ajoshunger) -->
+* [devtools-html](https://github.com/devtools-html) / [debugger.html](https://github.com/devtools-html/debugger.html) - 7 🐛's
+* [Microsoft](https://github.com/Microsoft) / [vscode](https://github.com/Microsoft/vscode) - 26 🐛's
 
+<!-- (https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=author%3Ajoshunger) -->
+<!-- https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=author%3Ajoshunger+is%3Aissue -->
+
+<!-- https://github.com/devtools-html/debugger.html/pulls?q=author%3Ajoshunger+is%3Apr -->
 <!-- https://github.com/devtools-html/debugger.html/issues?utf8=%E2%9C%93&q=author%3Ajoshunger -->
+
+
 <!-- https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+author%3Ajoshungera+archived%3Afalse+ -->
 <!-- https://bugs.chromium.org/p/chromium/issues/list?can=2&q=reporter%3Ajoshunger -->
 
