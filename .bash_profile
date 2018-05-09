@@ -12,3 +12,17 @@ alias gdc="git diff --cached"
 alias gp="git push"
 alias gs="git status"
 alias foxit="open -a \"Foxit Reader\""
+
+alias us="git push"
+alias ul="git pull"
+alias y="yarn"
+alias yb="yarn build"
+alias ys="yarn start"
+
+# source ~/.oh-my-zsh/plugins/git/git.plugin.zsh
+
+# alias lcd="for f in *; do mv "$f" "$f.tmp"; mv "$f.tmp" "`echo $f | tr "[:upper:]" "[:lower:]"`"; done"
+
+function lcd() {
+  for f in *; do mv "$f" "$f.tmp"; mv "$f.tmp" "`echo $f | tr "[:upper:]" "[:lower:]"`"; done
+}
