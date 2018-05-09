@@ -17,7 +17,7 @@ ln -s ~/dev/public/extensions.json "$HOME/Library/Application Support/Code - Ins
 
 rm "/usr/local/bin/code-insiders"
 rm "/usr/local/bin/code"
-ln -s "/Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/bin/code" "/usr/local/bin/code"
+ln -s "/Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/bin/code" "/usr/local/bin/c"
 ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" "/usr/local/bin/codestable"
 
 yarn global add eslint prettier
@@ -37,6 +37,7 @@ google-chrome
 google-chrome-canary
 google-cloud-sdk
 iterm2
+megasync
 nginx
 plex-media-server
 safari-technology-preview
@@ -51,7 +52,9 @@ brew cask install $BREW_CASK_INSTALL_STUFF
 
 read -r -d '' BREW_INSTALL_STUFF << EOM
 docker
+duti
 ffmpeg
+git-flow
 hub
 imagemagick
 jenv
@@ -111,3 +114,8 @@ sudo mv ~/Downloads/ ~/downloads
 
 # nightly updates
 # gcloud components update
+
+# ~/Library/Containers/com.apple.mail/Data/Library/Preferences
+
+# sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+# npm install --global pure-prompt
