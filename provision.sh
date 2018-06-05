@@ -23,6 +23,7 @@ ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" "/u
 yarn global add eslint prettier
 
 read -r -d '' BREW_CASK_INSTALL_STUFF << EOM
+adobe-acrobat-reader
 amazon-drive
 atom-beta
 beyond-compare
@@ -36,6 +37,7 @@ google-backup-and-sync
 google-chrome
 google-chrome-canary
 google-cloud-sdk
+intellij-idea
 iterm2
 megasync
 nginx
