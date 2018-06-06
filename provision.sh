@@ -63,6 +63,7 @@ jenv
 p7zip
 yarn
 vlc
+wget
 EOM
 
 brew install $BREW_INSTALL_STUFF
