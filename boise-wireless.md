@@ -18,6 +18,7 @@
 | Payette_Guest         | rustleripa      | 15.65     | 12.38   | 2018-03-27 15:31 | ? | 43.6135394 -116.2152531 30
 | SlowCoffeeBar         | coffeecoffeecoffee | 
 | Dawson Taylor Guest 5GHz | dtcoffee | 12.49 | 1.49
+| ModernGuest | 44284248 | 9.39 | 0.88 | 2018-06-07 | 43.6183477 -116.2104677 20
 
 
 `navigator.geolocation.getCurrentPosition(p => console.log(p.coords.latitude, p.coords.longitude, p.coords.accuracy));`
