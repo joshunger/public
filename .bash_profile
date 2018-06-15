@@ -28,3 +28,5 @@ alias c='"/Applications/Visual Studio Code - Insiders.app/Contents/Resources/app
 function lcd() {
   for f in *; do mv "$f" "$f.tmp"; mv "$f.tmp" "`echo $f | tr "[:upper:]" "[:lower:]"`"; done
 }
+
+alias lc="rename -f 'y/A-Z/a-z/' *"
