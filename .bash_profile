@@ -1,6 +1,6 @@
-emojis=(🐶 🐺 🐱 🐭 🐹 🐰 🐸 🐯 🐨 🐻 🐷 🐮 🐵 🐼 🐧 🐍 🐢 🐙 🐠 🐳 🐬 🐥)
-emoji='`echo ${emojis[$RANDOM % 22]}`'
-PS1="\w\n$emoji $ "
+# emojis=(🐶 🐺 🐱 🐭 🐹 🐰 🐸 🐯 🐨 🐻 🐷 🐮 🐵 🐼 🐧 🐍 🐢 🐙 🐠 🐳 🐬 🐥)
+# emoji='`echo ${emojis[$RANDOM % 22]}`'
+# PS1="\w\n$emoji $ "
 
 export NVM_DIR="$HOME/.nvm"
 . "/usr/local/opt/nvm/nvm.sh"
@@ -18,6 +18,8 @@ alias ul="git pull"
 alias y="yarn"
 alias yb="yarn build"
 alias ys="yarn start"
+
+alias c='"/Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/bin/code" .'
 
 # source ~/.oh-my-zsh/plugins/git/git.plugin.zsh
 
