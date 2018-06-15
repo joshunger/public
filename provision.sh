@@ -24,6 +24,7 @@ yarn global add eslint prettier
 
 read -r -d '' BREW_CASK_INSTALL_STUFF << EOM
 adobe-acrobat-reader
+adobe-digital-editions
 amazon-drive
 atom-beta
 beyond-compare
@@ -61,6 +62,7 @@ hub
 imagemagick
 jenv
 p7zip
+rename
 yarn
 vlc
 wget
