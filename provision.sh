@@ -45,6 +45,7 @@ nginx
 plex-media-server
 safari-technology-preview
 sketch
+skitch
 spectacle
 virtualbox
 visual-studio-code
@@ -58,6 +59,7 @@ docker
 duti
 ffmpeg
 git-flow
+gs
 hub
 imagemagick
 jenv
