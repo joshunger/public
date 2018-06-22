@@ -19,6 +19,7 @@
 | SlowCoffeeBar         | coffeecoffeecoffee | 
 | Dawson Taylor Guest 5GHz | dtcoffee | 12.49 | 1.49
 | ModernGuest | 44284248 | 9.39 | 0.88 | 2018-06-07 | 43.6183477 -116.2104677 20
+| Sebastion | Brisket705 | 1.07* | 0.59 | 2018-06-15 | 43.6166201 -116.2017229 47 
 
 
 `navigator.geolocation.getCurrentPosition(p => console.log(p.coords.latitude, p.coords.longitude, p.coords.accuracy));`
