@@ -22,6 +22,8 @@ ln -s "/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code" "/u
 
 yarn global add eslint prettier
 
+brew tap dart-lang/dart
+
 read -r -d '' BREW_CASK_INSTALL_STUFF << EOM
 adobe-acrobat-reader
 adobe-digital-editions
@@ -55,6 +57,7 @@ EOM
 brew cask install $BREW_CASK_INSTALL_STUFF
 
 read -r -d '' BREW_INSTALL_STUFF << EOM
+dart
 docker
 duti
 ffmpeg
