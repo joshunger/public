@@ -7,19 +7,19 @@ export NVM_DIR="$HOME/.nvm"
 
 export PATH="$PATH:$HOME/.yarn/bin"
 
+alias c='"/Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/bin/code" .'
+alias foxit="open -a \"Foxit Reader\""
 alias gd="git diff"
 alias gdc="git diff --cached"
 alias gp="git push"
-alias gs="git status"
-alias foxit="open -a \"Foxit Reader\""
-
-alias us="git push"
+# alias gs="git status"
+alias i="/Applications/IntelliJ\ IDEA.app/Contents/MacOS/idea &"
+alias lc="rename -f 'y/A-Z/a-z/' *"
 alias ul="git pull"
+alias us="git push"
 alias y="yarn"
 alias yb="yarn build"
 alias ys="yarn start"
-
-alias c='"/Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/bin/code" .'
 
 # source ~/.oh-my-zsh/plugins/git/git.plugin.zsh
 
@@ -28,5 +28,3 @@ alias c='"/Applications/Visual Studio Code - Insiders.app/Contents/Resources/app
 function lcd() {
   for f in *; do mv "$f" "$f.tmp"; mv "$f.tmp" "`echo $f | tr "[:upper:]" "[:lower:]"`"; done
 }
-
-alias lc="rename -f 'y/A-Z/a-z/' *"
