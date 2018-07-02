@@ -7,13 +7,14 @@ export NVM_DIR="$HOME/.nvm"
 
 export PATH="$PATH:$HOME/.yarn/bin"
 
+# alias gs="git status"
 alias c='"/Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/bin/code" .'
 alias foxit="open -a \"Foxit Reader\""
 alias gd="git diff"
 alias gdc="git diff --cached"
 alias gp="git push"
-# alias gs="git status"
 alias i="/Applications/IntelliJ\ IDEA.app/Contents/MacOS/idea &"
+alias kc="rename 's/ /-/g' *"
 alias lc="rename -f 'y/A-Z/a-z/' *"
 alias ul="git pull"
 alias us="git push"
