@@ -30,6 +30,10 @@
     jobs: 'https://boards.greenhouse.io/invision',
   },
   {
+    company: 'nearForm',
+    jobs: 'https://www.nearform.com/careers/',
+  },
+  {
     company: 'Purepoint',
     glassdoor: 'https://www.glassdoor.com/Reviews/Purepoint-Reviews-E1515197.htm',
     jobs: 'http://careers.purepoint.io/',
