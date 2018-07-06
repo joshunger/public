@@ -1,0 +1,4 @@
+#!/bin/sh
+t=$(gmktemp --suffix .tiff)
+convert -density 300 -colorspace gray "$1" "$t"
+convert -compress jpeg $t output.pdf

@@ -5,7 +5,7 @@
 export NVM_DIR="$HOME/.nvm"
 . "/usr/local/opt/nvm/nvm.sh"
 
-export PATH="$PATH:$HOME/.yarn/bin"
+export PATH="$PATH:$HOME/.yarn/bin:$HOME/dev/public/bin"
 
 # alias gs="git status"
 alias c='"/Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/bin/code" .'
