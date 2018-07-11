@@ -1,0 +1,2 @@
+#!/bin/sh
+pdftk "$1" burst output output0-%02d.pdf
