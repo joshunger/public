@@ -14,7 +14,7 @@
 * Introduced Webpack (including back-end), React, Redux, Prettier, codemod, Docker, Ansible, Prettier, yarn, chai, mocha
 * Introduced Material Design into our design process including Material-UI to provide a consistent user experience <!-- * server-side GPU rendering on AWS -->
 * Introduced client-side error capturing and reporting using a comparison of Bugsnag, Rollbar, and Sentry
-* ES2015 (ES6), ES2016, ES2017, Babel, GitLab, AWS CloudFront, S3, API Gateway, Angular 1, Google Analytics, less, npm, VS Code, ESLint
+* Vanilla JavaScript, ES2015 (ES6), ES2016 (ES7), ES2017, Babel, GitLab, AWS CloudFront, S3, API Gateway, Angular 1, Google Analytics, less, npm, VS Code, ESLint
 
 **Full Stack Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2012 to 2015*
 * Developed healthcare analytics platform that ETLs health records to compute readmissions and other metrics 
@@ -42,7 +42,7 @@
 <!-- **System Administrator @ Shands Hospital, University Florida** - *2003 - 2001* -->
 
 **Web Developer Internship @ Bigstep.com** - *Summer 2000*
-* Converted help desk paper forms to HTML & JavaScript; my first experience with JavaScript and "Dynamic HTML"
+* Converted help desk paper forms to HTML & JavaScript; my first experience with JavaScript and DHTML (Dynamic HTML)
 
 ## Open Source (OSS) Contributions
 * [devtools-html](https://github.com/devtools-html) / [debugger.html](https://github.com/devtools-html/debugger.html) - 7 🐛's
@@ -62,7 +62,7 @@
 **[Boise Front-end Development Meetup](http://www.meetup.com/frontend-devs/)** - *2016 to Present*
  * Organizer; grew the meetup to the second largest technical meetup in Boise, Idaho at 629 members
 
-**[Treefort Music Fest 2018](https://www.treefortmusicfest.com/)** - *2017 to Present*
+**[Treefort Music Fest 2018](https://www.treefortmusicfest.com/)** - *2017 to 2018*
  * Pro bono volunteer full stack developer for Treefort 2018 web, app, and API work
  * Designing, user testing, and developing web schedule with Spotify playlist integration
  * AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React, Rollbar, Angular 1, GraphQL
