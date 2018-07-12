@@ -44,9 +44,9 @@
 **Web Developer Internship @ Bigstep.com** - *Summer 2000*
 * Converted help desk paper forms to HTML & JavaScript; my first experience with JavaScript and DHTML (Dynamic HTML)
 
-## Open Source (OSS) Contributions
-* [devtools-html](https://github.com/devtools-html) / [debugger.html](https://github.com/devtools-html/debugger.html) - 7 🐛's
-* [Microsoft](https://github.com/Microsoft) / [vscode](https://github.com/Microsoft/vscode) - 26 🐛's
+## Open Source (OSS)
+* [debugger.html](https://github.com/devtools-html/debugger.html)
+* [vscode](https://github.com/Microsoft/vscode)
 
 <!-- (https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=author%3Ajoshunger) -->
 <!-- https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=author%3Ajoshunger+is%3Aissue -->
