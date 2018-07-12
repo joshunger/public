@@ -45,8 +45,7 @@
 * Converted helpdesk paper forms to HTML, JavaScript; my 1st experience with JavaScript and DHTML (Dynamic HTML)
 
 ## Open Source (OSS)
-* [debugger.html](https://github.com/devtools-html/debugger.html)
-* [vscode](https://github.com/Microsoft/vscode)
+* [debugger.html](https://github.com/devtools-html/debugger.html), [vscode](https://github.com/Microsoft/vscode)
 
 <!-- (https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=author%3Ajoshunger) -->
 <!-- https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=author%3Ajoshunger+is%3Aissue -->
