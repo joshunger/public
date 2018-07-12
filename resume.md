@@ -13,7 +13,7 @@
 * Championed and developed a single back-end server and converted existing copy and paste servers to a single multi-tenant solution on AWS Elastic Beanstalk reducing lines of code by over 5x and server maintenance
 * Introduced Webpack (including back-end), React, Redux, Prettier, codemod, Docker, Ansible, Prettier, yarn, chai, mocha
 * Introduced Material Design into our design process including Material-UI to provide a consistent user experience <!-- * server-side GPU rendering on AWS -->
-* Introduced client-side error capturing and reporting using a comparison of Bugsnag, Rollbar, and Sentry
+* Introduced client-side error capturing and reporting comparing Bugsnag, Rollbar, and Sentry
 * Vanilla JavaScript, ES2015 (ES6), ES2016 (ES7), ES2017, Babel, GitLab, AWS CloudFront, S3, API Gateway, Angular 1, Google Analytics, less, npm, VS Code, ESLint
 
 **Full Stack Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - *2012 to 2015*
