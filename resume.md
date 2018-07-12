@@ -80,9 +80,9 @@
 
 ## Hackathons
 **[Idaho Virtual Reality 2016 Immerse-A-Thon Hackathon](http://idahovirtualreality.com/ivrc-2016-immerse-a-thon/)** - *2016/10*
-* Developed *Betavu* to show climbing route beta using augmented reality (AR) when your phone camera is held up to a rock
+* Developed *Betavu* to show climbing route beta when a camera phone is pointed at a rock
 * Won booth space to demo *Betavu* at the [Idaho Virtual Reality Council 2016 VR Bash](https://idahovirtualreality.com/ivrc-2016-vr-bash/)
-* [Vuforia SDK](https://www.vuforia.com/), Android, Sketchup
+* [Vuforia SDK](https://www.vuforia.com/), Android, Sketchup, augmented reality (AR)
 
 **[Treefort 2015 Hackfort2 Hackathon](https://www.treefortmusicfest.com/forts/hackfort/)** - *2015*
 * Rallied 7 developers and designed and developed a fully functional *[Boise Art Hunt](http://www.boiseweekly.com/Cobweb/archives/2015/03/29/treefort-2015-datefort-app-wins-hackfort2-hackathon)* in only 48 hours; [see live demo here](https://hackfort-2-art-hunt.herokuapp.com)
