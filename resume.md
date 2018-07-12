@@ -42,7 +42,7 @@
 <!-- **System Administrator @ Shands Hospital, University Florida** - *2003 - 2001* -->
 
 **Web Developer Internship @ Bigstep.com** - *Summer 2000*
-* Converted help desk paper forms to HTML & JavaScript; my first experience with JavaScript and DHTML (Dynamic HTML)
+* Converted helpdesk paper forms to HTML, JavaScript; my 1st experience with JavaScript and DHTML (Dynamic HTML)
 
 ## Open Source (OSS)
 * [debugger.html](https://github.com/devtools-html/debugger.html)
