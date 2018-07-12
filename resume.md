@@ -5,7 +5,7 @@
 * Change the way we engineer software by seeking smarter and more efficient methods
 -->
 ## Work Experience
-**Software Scientist @ junger, llc** - *present*
+**Full Stack Software Engineer @ junger, llc** - *present*
 * Frontend and full stack JavaScript development
 
 **Full Stack JavaScript Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - *2015 to 2018*
