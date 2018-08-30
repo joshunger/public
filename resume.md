@@ -1,4 +1,6 @@
-# Josh Unger ~ [<img src="https://github.com/favicon.ico" />](https://github.com/joshunger/) [<img src="https://gitlab.com/favicon.ico" />](https://gitlab.com/joshunger/) [<img src="https://abs.twimg.com/favicons/favicon.ico" />](https://twitter.com/joshunger/) [<img src="https://www.clicky.co.uk/wp-content/uploads/linkedin-icon.svg" width=32/>](https://www.linkedin.com/in/josh-unger/) [<img src="http://d.gr-assets.com/misc/1454549125-1454549125_goodreads_misc.png" />](https://www.goodreads.com/user/show/16794412-josh-unger)
+# Josh Unger ~ [<img src="https://github.com/favicon.ico" />](https://github.com/joshunger/) [<img src="https://gitlab.com/favicon.ico" />](https://gitlab.com/joshunger/) [<img src="https://image.flaticon.com/icons/svg/220/220233.svg" width=32 />](https://twitter.com/joshunger/) [<img src="https://www.clicky.co.uk/wp-content/uploads/linkedin-icon.svg" width=32/>](https://www.linkedin.com/in/josh-unger/) [<img src="http://d.gr-assets.com/misc/1454549125-1454549125_goodreads_misc.png" />](https://www.goodreads.com/user/show/16794412-josh-unger)
+
+<!-- https://abs.twimg.com/favicons/favicon.ico -->
 
 
 <!--
