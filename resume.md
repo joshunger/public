@@ -77,7 +77,7 @@
 **[Treefort Music Fest 2018](https://www.treefortmusicfest.com/)** - _2017 to 2018_
 
 - Pro bono volunteer full stack developer for Treefort 2018 web, app, and API work
-- Designing, user testing, and developing web schedule with Spotify playlist integration
+<!-- - Designing, user testing, and developing web schedule with Spotify playlist integration -->
 - AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React, Rollbar, Angular 1, GraphQL
 
 **[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - _2016 to 2017_
