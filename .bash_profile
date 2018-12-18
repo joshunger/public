@@ -29,3 +29,6 @@ alias ys="yarn start"
 function lcd() {
   for f in *; do mv "$f" "$f.tmp"; mv "$f.tmp" "`echo $f | tr "[:upper:]" "[:lower:]"`"; done
 }
+
+alias yarn="yarn $@ --ignore-engines"
+alias node="node $@ --experimental-modules"
