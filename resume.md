@@ -77,7 +77,7 @@
 **[Treefort Music Fest 2018](https://www.treefortmusicfest.com/)** - _2017 to 2018_
 
 - Pro bono volunteer full stack developer for Treefort 2018 web, app, and API work
-- Designing, user testing, and developing web schedule with Spotify playlist integration
+<!-- - Designing, user testing, and developing web schedule with Spotify playlist integration -->
 - AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React, Rollbar, Angular 1, GraphQL
 
 **[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - _2016 to 2017_
@@ -98,8 +98,8 @@
 
 **Pencilled.io** - _2018_
 
-- Automatically create a personalized concert schedule based upon Spotify favorites or private playlist (proof of concept using Treefort 2018 even data)
-- Google Cloud, Google Calendar API, Spotify API w/ authentication, Webpack
+- Automatically create a personalized concert schedule based upon a user's Spotify playlist (poc using Treefort 2018)
+- Google Cloud, Google Calendar API, Spotify API, Webpack
 
 **[Idaho Virtual Reality 2016 Immerse-A-Thon Hackathon](http://idahovirtualreality.com/ivrc-2016-immerse-a-thon/)** - _2016_
 
