@@ -11,18 +11,18 @@
 
 **Full Stack Software Engineer @ junger, llc** - _present_
 
-- Frontend and full stack JavaScript development
+- Frontend and full stack JavaScript development using React, Redux, ES6/7/\*, Babel, Node.js
 
-**Full Stack JavaScript Software Engineer @ [IdeaRoom](http://www.idearoominc.com)** - _2015 to 2018_
+**Full Stack JavaScript Software Engineer @ [IdeaRoom](https://www.idearoominc.com)** - _2015 to 2018_
 
-- Developed 3D product configurators in WebGL and Three.js for [Studio Shed](https://www.studio-shed.com/), [Happier Camper](http://happiercamper.com), [Tuff Shed](https://www.tuffshed.com/)
+- Developed 3D product configurators in WebGL and Three.js for [Studio Shed](https://www.studio-shed.com/), [Happier Camper](https://happiercamper.com), [Tuff Shed](https://www.tuffshed.com/)
 - Championed and developed a single back-end server and converted existing copy and paste servers to a single multi-tenant solution on AWS Elastic Beanstalk reducing lines of code by over 5x and server maintenance
 - Introduced Webpack (including back-end), React, Redux, Prettier, codemod, Docker, Ansible, Prettier, yarn, chai, mocha
 - Introduced Material Design into our design process including Material-UI to provide a consistent user experience <!-- * server-side GPU rendering on AWS -->
 - Introduced client-side error capturing and reporting comparing Bugsnag, Rollbar, and Sentry
-- Vanilla JavaScript, ES2015 (ES6), ES2016 (ES7), ES2017, Babel, GitLab, AWS CloudFront, S3, API Gateway, Angular 1, Google Analytics, less, npm, VS Code, ESLint
+- Vanilla JavaScript, ES2015 (ES6), ES2016 (ES7), ES2017, Babel, GitLab, AWS CloudFront, S3, API Gateway, Angular 1, Google Analytics, less, npm, VS Code, ESLint, Node.js, Mongo, DynamoDB
 
-**Full Stack Software Engineer @ [WhiteCloud Analytics](http://whitecloudanalytics.com/)** - _2012 to 2015_
+**Full Stack Software Engineer @ [WhiteCloud Analytics](https://whitecloudanalytics.com/)** - _2012 to 2015_
 
 - Developed healthcare analytics platform that ETLs health records to compute readmissions and other metrics
 - Led front-end work and team; introduced and championed Angular 1 and deprecated YUI and Backbone
@@ -77,7 +77,7 @@
 **[Treefort Music Fest 2018](https://www.treefortmusicfest.com/)** - _2017 to 2018_
 
 - Pro bono volunteer full stack developer for Treefort 2018 web, app, and API work
-<!-- - Designing, user testing, and developing web schedule with Spotify playlist integration -->
+  <!-- - Designing, user testing, and developing web schedule with Spotify playlist integration -->
 - AWS, CloudFront, S3, API Gateway, Lambda, Webpack, React, Rollbar, Angular 1, GraphQL
 
 **[Treefort Music Fest 2017](https://www.treefortmusicfest.com/)** - _2016 to 2017_
