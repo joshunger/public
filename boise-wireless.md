@@ -16,14 +16,21 @@
 | hhopen                   | HHGuest / HH47eCi5o | 23.61            | 41.21            | 2018-03-14 08:30 | ?               | 43.6161884 -116.2035379 113               |
 | conference200_202        | 2083458519          | 10.7             | 68               | 2018-03-22 09:04 | ?               | 43.61507972279935 -116.20290723373047 65  |
 | Payette_Guest            | rustleripa          | 15.65            | 12.38            | 2018-03-27 15:31 | ?               | 43.6135394 -116.2152531 30                |
-| Slow by Slow Coffee Bar  | coffeecoffeecoffee  | 5.35             | 0.27             | 2019-01-04       |
+| Slow by Slow Coffee Bar  | coffeecoffeecoffee  | 5.16             | 1.17             | 2019-06-22       | -77 (outside)   |
 | Dawson Taylor Guest 5GHz | dtcoffee            | 12.49            | 1.49             |
 | ModernGuest              | 44284248            | 9.39             | 0.88             | 2018-06-07       | ?               | 43.6183477 -116.2104677 20                |
 | Sebastion                | Brisket705          | 1.07\*           | 0.59             | 2018-06-15       | ?               | 43.6166201 -116.2017229 47                |
 | Rail Street-5G           | manh2142            | 29.28            | 5.19             | 2018-08-17       | ?               | 42.9358486 -114.4072334 30                |
 | WoodlandEmpire           | alecraft            | 2.65/20.85       | 2.40/2.99        | 2019-04-17       | -71/-53         | 43.616318899999996 -116.20859149999998 34 | outside/inside        |
 | Boisecoop Guest          | -                   | 5.59<sup>1</sup> | 5.47<sup>1</sup> | 2019-05-19       | -70<sup>1</sup> | 43.6226066 -116.19804950000001 42         | 1: pavilion           |
+| Parilla Grill Guest      | tecate13            | 24.06            |
+| TassoFreeWifi            | Iheartsandos        |
+| manfreds                 | beersandwich        | 
 
 `airport -I | grep agrCtlRSSI`
+
 `navigator.geolocation.getCurrentPosition(p => console.log(p.coords.latitude, p.coords.longitude, p.coords.accuracy));`
+`CoreLocationCLI`
 `speedtest-cli`
+// hoodriver
+`speedtest --server 4063`
