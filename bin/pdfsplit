@@ -1,2 +1,4 @@
 #!/bin/sh
-pdftk "$1" burst output output-%02d.pdf
+file=$(realpath "$1")
+pdftk "$file" burst output ${file%????}-%02d.pdf
+rm doc_data.txt
