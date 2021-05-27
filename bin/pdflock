@@ -1,0 +1,5 @@
+#!/bin/sh
+t=$(gmktemp --suffix .tiff)
+file=$(realpath "$1")
+convert -density 150 -colorspace gray "$1" "$t"
+convert -compress jpeg $t ${file%????}-signed.pdf
