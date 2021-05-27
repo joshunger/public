@@ -26,6 +26,7 @@
 | Parilla Grill Guest      | tecate13            | 24.06            |
 | TassoFreeWifi            | Iheartsandos        |
 | manfreds                 | beersandwich        | 
+| Certified guest          | muffin1511          |
 
 `airport -I | grep agrCtlRSSI`
 
