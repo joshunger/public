@@ -1,19 +1,20 @@
-# joshunger.com
-stuff
+# wants
+- unanswer Slack to task
+- GitHub inline PR diffs emails
 
-# vs code stuff
+# readings
+- https://spicefactory.co/blog/2019/03/26/how-to-avoid-the-boolean-trap-when-designing-react-components/
+
+# vscode
 - https://github.com/kasecato/vscode-intellij-idea-keybindings
-- https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-  - `autoFixOnSave`
-- https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-  - `"editor.formatOnSave": true`
-- https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils
-  - adds file:name to command palette
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+  ```
+  "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    }
+    ```
+- [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils)
+  - Adds `File Utils: Move` to command palette
 
 # chrome
-- https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk?hl=en
-
-# other stuff
-```
-npm info "eslint-config-airbnb@latest" peerDependencies
-```
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
