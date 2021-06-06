@@ -29,9 +29,12 @@ adobe-acrobat-reader
 adobe-digital-editions
 amazon-drive
 atom-beta
+balsamiq-mockups
 beyond-compare
 caffeine
+calibre
 dropbox
+filezilla
 firefox
 firefox-nightly
 gas-mask
@@ -45,6 +48,7 @@ iterm2
 megasync
 nginx
 plex-media-server
+quartz
 safari-technology-preview
 sketch
 skitch
@@ -54,16 +58,22 @@ visual-studio-code
 visual-studio-code-insiders
 EOM
 
-brew cask install $BREW_CASK_INSTALL_STUFF
+brew cask reinstall $BREW_CASK_INSTALL_STUFF
 
 read -r -d '' BREW_INSTALL_STUFF << EOM
+aria2
 dart
 docker
+docker-compose
 duti
 ffmpeg
+fswatch
 git-flow
+gnu-sed
+grep
 gs
 hub
+id3lib
 imagemagick
 jenv
 p7zip
@@ -71,6 +81,9 @@ rename
 yarn
 vlc
 wget
+wine
+rbenv
+ruby-build
 EOM
 
 brew install $BREW_INSTALL_STUFF
@@ -81,7 +94,8 @@ open "/Applications/Backup and Sync.app"
 
 code --install-extension ms-vscode.cpptools
 
-ln -s ~/dev/ ~/Dropbox/
+ln -s ~/dropbox/dev ~/dev
+ln -s ~/dropbox/downloads ~/downloads
 
 # ~/Library/Application\ Support/Google/Chrome\ Canary/Default/Preferences
 # See devtools.preferences.uiTheme
@@ -107,6 +121,13 @@ mv /usr/local/bin/atom-beta /usr/local/bin/atom
 
 sudo mv ~/Desktop ~/desktop
 sudo mv ~/Downloads/ ~/downloads
+
+# https://github.com/jekyll/jekyll/issues/6690
+echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.bash_profile
+source ~/.bash_profile
+rbenv install 2.6.0
+rbenv global 2.6.0
+gem install jekyll
 
 # manual steps
 # https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac
