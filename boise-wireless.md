@@ -27,6 +27,7 @@
 | TassoFreeWifi            | Iheartsandos        |
 | manfreds                 | beersandwich        | 
 | Certified guest          | muffin1511          |
+| Redfish-Public | welcomehome | 
 
 `airport -I | grep agrCtlRSSI`
 
