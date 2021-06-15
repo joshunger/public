@@ -5,6 +5,8 @@
 # readings
 - https://graphicdesign.stackexchange.com/questions/43021/what-exactly-are-googles-500-color-swatches
 - https://spicefactory.co/blog/2019/03/26/how-to-avoid-the-boolean-trap-when-designing-react-components/
+- 
+  - http://code.intfast.ca/viewtopic.php?t=63
 
 # vscode
 - https://github.com/kasecato/vscode-intellij-idea-keybindings
@@ -18,7 +20,9 @@
   - Adds `File Utils: Move` to command palette
 - File > Auto Save
 - https://marketplace.visualstudio.com/items?itemName=LinusU.auto-dark-mode
-- Google search
+- Google search extension
+- Docker extension
+- Spellcheck
 
 # chrome
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)

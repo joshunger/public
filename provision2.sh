@@ -3,11 +3,13 @@ brew tap homebrew/cask-versions
 
 brew install \
     1password \
+    1password-cli \
     coreutils \
     ffmpeg \
     firefox-nightly \
     opera \
     plex \
+    rtorrent \
     vlc \
     watchman
 
