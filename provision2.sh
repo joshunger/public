@@ -10,6 +10,7 @@ brew install \
     opera \
     plex \
     rtorrent \
+    speedtest-cli \
     vlc \
     watchman
 
