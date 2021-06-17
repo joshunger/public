@@ -6,6 +6,12 @@
 # readings
 
 ## 2021
+### Ignore single/double
+```
+git diff --word-diff-regex="[^'\"]" master... reformatted-file.yml
+```
+
+### Avoid Nesting when you're Testing
 - https://kentcdodds.com/blog/avoid-nesting-when-youre-testing
 - [The Sliding Scale of Giving a Fuck](https://capwatkins.com/blog/the-sliding-scale-of-giving-a-fuck)
 - [What exactly are Google's '500' color swatches?](https://graphicdesign.stackexchange.com/questions/43021/what-exactly-are-googles-500-color-swatches)
