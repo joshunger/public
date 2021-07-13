@@ -28,7 +28,7 @@
 | manfreds                 | beersandwich        | 
 | Certified guest          | muffin1511          |
 | Redfish-Public | welcomehome | 
-| CandS Co. Guest | pourover1 |
+| CandS Co. Guest | pourover1 | 41 | 23 | 2021-06-16 | -59
 
 `airport -I | grep agrCtlRSSI`
 
