@@ -32,3 +32,17 @@ function lcd() {
 
 alias yarn="yarn $@ --ignore-engines"
 alias node="node $@ --experimental-modules"
+
+function hyperl() {
+  hyper u hyper-one-light
+  hyper i hyper-one-light
+}
+
+function hyperd() {
+  hyper u hyper-one-light
+}
+
+# hyper-solarized-dark
+# hyper-solarized-light
+# hyper-material-theme
+# hyper-one-light
