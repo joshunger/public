@@ -1,0 +1,29 @@
+{
+  "entries": {
+    "tap": {
+      "homebrew/cask": {
+        "revision": "a2ab05f1590dd56b8a799255c1fc9a05f7aaab6c"
+      }
+    },
+    "cask": {
+      "google-chrome": {
+        "version": "91.0.4472.114",
+        "options": {
+          "full_name": "google-chrome"
+        }
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "big_sur": {
+        "HOMEBREW_VERSION": "3.2.2",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "45cd5612a5a88d3f823106437fc90f6a19452679",
+        "CLT": "12.5.0.22.9",
+        "Xcode": "12.5",
+        "macOS": "11.4"
+      }
+    }
+  }
+}
