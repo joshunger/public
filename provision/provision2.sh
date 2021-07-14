@@ -1,23 +1,10 @@
 #!/bin/sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+# just in case
 brew tap homebrew/cask-versions
 
 brew bundle --verbose
-
-brew upgrade \
-    1password \
-    1password-cli \
-    awscli \
-    calibre \
-    coreutils \
-    ffmpeg \
-    firefox-nightly \
-    opera \
-    rtorrent \
-    speedtest-cli \
-    vlc \
-    watchman
 
 ln -s ~/dropbox/dev ~/dev
 
