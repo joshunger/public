@@ -1,22 +1,31 @@
-#!/bin/sh
+#!/bin/bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-# just in case
-brew tap homebrew/cask-versions
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+
+source ~/.zshrc
+
+nvm install stable
+
+npm install --global yarn
+
+sudo rm -rf /Applications/Slack.app
+sudo rm -rf "/Applications/Google Chrome.app"
+sudo rm -rf "/Applications/Google Chrome Canary.app"
 
 brew bundle --verbose
-
-ln -s ~/dropbox/dev ~/dev
 
 sudo mv ~/Desktop ~/desktop
 sudo mv ~/Downloads/ ~/downloads
 
+rm -rf ~/.oh-my-zsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 jabba install openjdk@1.16.0
 
-ln -s ~/dropbox/downloads ~/downloads
-ln -s ~/dropbox/desktop ~/desktop
+ln -sf ~/dropbox/dev ~/dev
+ln -sf ~/dropbox/downloads ~/downloads
+ln -sf ~/dropbox/desktop ~/desktop
 
 yarn global add \
     eslint \
@@ -30,3 +39,5 @@ yarn global add \
 # itsycal > Preferences > launch at login
 # zshrc
 # log into dropbox
+
+# https://downloads.getfiddler.com/mac/Fiddler%20Everywhere%202.0.1.dmg
