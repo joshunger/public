@@ -2,7 +2,7 @@
   "entries": {
     "tap": {
       "homebrew/cask": {
-        "revision": "0e165babe288590de41cc4d9169ac22f9bb10e43"
+        "revision": "caedf45d7b2af3f3832bd6c0f9f36c1d7770b459"
       }
     },
     "cask": {
@@ -49,7 +49,7 @@
         }
       },
       "google-chrome-canary": {
-        "version": "93.0.4577.0",
+        "version": "94.0.4580.0",
         "options": {
           "full_name": "google-chrome-canary"
         }
@@ -79,7 +79,7 @@
         }
       },
       "firefox": {
-        "version": "90.0",
+        "version": "90.0.1",
         "options": {
           "full_name": "firefox"
         }
@@ -97,7 +97,7 @@
         }
       },
       "visual-studio-code-insiders": {
-        "version": "1.59.0,9520f0a515e7e24802c92f885a0efb242fca3831",
+        "version": "1.59.0,d624242076d166bb8ce8b314e8d44b8af6100a3d",
         "options": {
           "full_name": "visual-studio-code-insiders"
         }
@@ -112,6 +112,18 @@
         "version": "7.0.0",
         "options": {
           "full_name": "perimeter81"
+        }
+      },
+      "docker": {
+        "version": "3.5.2,66501",
+        "options": {
+          "full_name": "docker"
+        }
+      },
+      "mysides": {
+        "version": "1.0.1",
+        "options": {
+          "full_name": "mysides"
         }
       }
     },
@@ -292,9 +304,9 @@
   "system": {
     "macos": {
       "big_sur": {
-        "HOMEBREW_VERSION": "3.2.2",
+        "HOMEBREW_VERSION": "3.2.3",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "b3492555d1d4f841564b9d4f08841d49b10d8e3c",
+        "Homebrew/homebrew-core": "07cc58c5898702c9097105a2cc0c8c9f0fca617a",
         "CLT": "12.5.0.22.11",
         "Xcode": "12.5",
         "macOS": "11.4"

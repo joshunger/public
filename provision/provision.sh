@@ -31,6 +31,9 @@ yarn global add \
     eslint \
     webpack-bundle-analyzer
 
+mysides add desktop file://$HOME/desktop
+mysides add desktop file://$HOME/downloads
+
 # mkdir ~/.aws && touch ~/.aws/config
 
 # https://stackoverflow.com/questions/35880785/how-can-i-find-out-the-current-osx-terminal-theme-from-within-a-bash-script
@@ -39,5 +42,6 @@ yarn global add \
 # itsycal > Preferences > launch at login
 # zshrc
 # log into dropbox
+# Full Disk Access > Hyper
 
 # https://downloads.getfiddler.com/mac/Fiddler%20Everywhere%202.0.1.dmg
