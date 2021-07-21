@@ -29,6 +29,8 @@ ln -sf ~/dropbox/desktop ~/desktop
 
 yarn global add \
     eslint \
+    imagemin \
+    imagemin-pngquant \
     webpack-bundle-analyzer
 
 mysides add desktop file://$HOME/desktop
