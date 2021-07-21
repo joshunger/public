@@ -34,7 +34,11 @@ yarn global add \
     webpack-bundle-analyzer
 
 mysides add desktop file://$HOME/desktop
-mysides add desktop file://$HOME/downloads
+mysides add downloads file://$HOME/downloads
+
+# Automatically switch between light and dark themes depending on the system dark mode toggle
+code --install-extension LinusU.auto-dark-mode
+code --install-extension Tyriar.sort-lines
 
 # mkdir ~/.aws && touch ~/.aws/config
 
