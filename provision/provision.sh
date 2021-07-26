@@ -35,10 +35,14 @@ yarn global add \
 
 mysides add desktop file://$HOME/desktop
 mysides add downloads file://$HOME/downloads
+mysides add dropbox file://$HOME/dropbox
 
 # Automatically switch between light and dark themes depending on the system dark mode toggle
 code --install-extension LinusU.auto-dark-mode
 code --install-extension Tyriar.sort-lines
+
+# Automatically generate prop types
+code --install-extension suming.react-proptypes-generate
 
 # mkdir ~/.aws && touch ~/.aws/config
 
