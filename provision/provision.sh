@@ -7,13 +7,16 @@ sudo rm -rf "/Applications/Google Chrome Canary.app"
 
 # brew bundle --verbose
 
-brew reinstall awscli
-brew reinstall coreutils
-brew reinstall ffmpeg
-brew reinstall jabba
-brew reinstall speedtest-cli
-brew reinstall watchman
-brew reinstall google-chrome-canary
+brew reinstall \
+    awscli \
+    coreutils \
+    ffmpeg \
+    firefox-nightly \
+    google-chrome-canary \
+    jabba \
+    mkcert \
+    speedtest-cli \
+    watchman
 
 # sudo mv ~/Desktop ~/desktop
 # sudo mv ~/Downloads/ ~/downloads
@@ -44,13 +47,15 @@ yarn global add \
     eslint-plugin-sort-exports \
     imagemin \
     imagemin-pngquant \
+    imagemin-avif \
     lighthouse \
     webpack-bundle-analyzer \
+    @squoosh/cli 
 
 # Add favorite links to the Finder
-mysides add desktop file://$HOME/desktop
-mysides add downloads file://$HOME/downloads
-mysides add dropbox file://$HOME/dropbox
+mysides add desktop file://"$HOME"/desktop
+mysides add downloads file://"$HOME"/downloads
+mysides add dropbox file://"$HOME"/dropbox
 
 # Automatically switch between light and dark themes depending on the system dark mode toggle
 code --install-extension LinusU.auto-dark-mode --force
