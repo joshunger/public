@@ -18,6 +18,10 @@ brew reinstall \
     speedtest-cli \
     watchman
 
+brew reinstall \
+    calibre \
+    google-drive
+
 # sudo mv ~/Desktop ~/desktop
 # sudo mv ~/Downloads/ ~/downloads
 
@@ -37,9 +41,12 @@ ln -sf ~/dropbox/dev ~/dev
 ln -sf ~/dropbox/downloads ~/downloads
 ln -sf ~/dropbox/desktop ~/desktop
 
+nvm use 16
+
 yarn global add \
     eslint \
-    eslint-plugin-import@latest
+    eslint-plugin-sort-keys-fix \
+    eslint-plugin-import@latest \
     eslint-plugin-jsx-a11y@latest \
     eslint-plugin-prettier@latest \
     eslint-plugin-react-hooks@latest \
@@ -63,6 +70,9 @@ code --install-extension Tyriar.sort-lines --force
 
 # Automatically generate prop types
 code --install-extension suming.react-proptypes-generate --force
+
+# Changing case
+code --install-extension wmaurer.change-case --force
 
 # mkdir ~/.aws && touch ~/.aws/config
 
