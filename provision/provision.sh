@@ -20,7 +20,8 @@ brew reinstall \
 
 brew reinstall \
     calibre \
-    google-drive
+    google-drive \
+    gnu-sed
 
 # sudo mv ~/Desktop ~/desktop
 # sudo mv ~/Downloads/ ~/downloads
@@ -38,8 +39,10 @@ npm install --global yarn
 jabba install openjdk@1.16.0
 
 ln -sf ~/dropbox/dev ~/dev
-ln -sf ~/dropbox/downloads ~/downloads
+# ln -sf ~/dropbox/downloads ~/downloads
 ln -sf ~/dropbox/desktop ~/desktop
+
+ln -sf "/Volumes/GoogleDrive/My Drive/downloads" ~/downloads
 
 nvm use 16
 
@@ -85,3 +88,7 @@ code --install-extension wmaurer.change-case --force
 # Full Disk Access > Hyper
 
 # https://downloads.getfiddler.com/mac/Fiddler%20Everywhere%202.0.1.dmg
+
+# hint:   git config pull.rebase false  # merge (the default strategy)
+# hint:   git config pull.rebase true   # rebase
+# hint:   git config pull.ff only       # fast-forward only
