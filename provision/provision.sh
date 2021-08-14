@@ -9,19 +9,18 @@ sudo rm -rf "/Applications/Google Chrome Canary.app"
 
 brew reinstall \
     awscli \
+    calibre \
     coreutils \
     ffmpeg \
     firefox-nightly \
+    gnu-sed
     google-chrome-canary \
+    google-drive \
     jabba \
     mkcert \
+    rbenv \
     speedtest-cli \
     watchman
-
-brew reinstall \
-    calibre \
-    google-drive \
-    gnu-sed
 
 # sudo mv ~/Desktop ~/desktop
 # sudo mv ~/Downloads/ ~/downloads
