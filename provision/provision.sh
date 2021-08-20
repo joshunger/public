@@ -20,7 +20,8 @@ brew reinstall \
     mkcert \
     rbenv \
     speedtest-cli \
-    watchman
+    watchman \
+    psi
 
 # sudo mv ~/Desktop ~/desktop
 # sudo mv ~/Downloads/ ~/downloads
