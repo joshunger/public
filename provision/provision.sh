@@ -20,8 +20,7 @@ brew reinstall \
     mkcert \
     rbenv \
     speedtest-cli \
-    watchman \
-    psi
+    watchman
 
 # sudo mv ~/Desktop ~/desktop
 # sudo mv ~/Downloads/ ~/downloads
@@ -60,12 +59,21 @@ yarn global add \
     imagemin-avif \
     lighthouse \
     webpack-bundle-analyzer \
-    @squoosh/cli 
+    @squoosh/cli \
+    psi \
+    prettier
+
+yarn global add prettier221@npm:prettier@2.2.1
+
+ln -s $HOME/.config/yarn/global/node_modules/prettier221/bin-prettier.js /usr/local/bin/prettier221
 
 # Add favorite links to the Finder
 mysides add desktop file://"$HOME"/desktop
 mysides add downloads file://"$HOME"/downloads
 mysides add dropbox file://"$HOME"/dropbox
+mysides add drive file://"$HOME"/drive
+mysides add dev file://"$HOME"/drive/dev
+
 
 # Automatically switch between light and dark themes depending on the system dark mode toggle
 code --install-extension LinusU.auto-dark-mode --force
