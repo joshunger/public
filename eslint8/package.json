@@ -1,0 +1,11 @@
+{
+  "name": "eslint8",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.0.0-beta.1",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-react": "^7.25.1"
+  }
+}
