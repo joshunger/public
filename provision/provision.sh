@@ -49,18 +49,6 @@ yarn global add prettier221@npm:prettier@2.2.1
 
 ln -s "$HOME"/.config/yarn/global/node_modules/prettier221/bin-prettier.js /usr/local/bin/prettier221
 
-# Add favorite links to the Finder
-mysides add desktop file://"$HOME"/desktop
-mysides add downloads file://"$HOME"/downloads
-mysides add dropbox file://"$HOME"/dropbox
-mysides add drive file://"$HOME"/drive
-mysides add dev file://"$HOME"/drive/dev
-
-
-
-# Automatically generate prop types
-# code --install-extension suming.react-proptypes-generate --force
-
 # mkdir ~/.aws && touch ~/.aws/config
 
 # https://stackoverflow.com/questions/35880785/how-can-i-find-out-the-current-osx-terminal-theme-from-within-a-bash-script
