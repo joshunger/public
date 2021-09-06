@@ -5,25 +5,7 @@ sudo rm -rf /Applications/Slack.app
 sudo rm -rf "/Applications/Google Chrome.app"
 sudo rm -rf "/Applications/Google Chrome Canary.app"
 
-# brew bundle --verbose
-
-brew reinstall \
-    awscli \
-    calibre \
-    coreutils \
-    ffmpeg \
-    firefox-nightly \
-    gnu-sed
-    google-chrome-canary \
-    google-drive \
-    jabba \
-    mkcert \
-    rbenv \
-    speedtest-cli \
-    watchman
-
-# sudo mv ~/Desktop ~/desktop
-# sudo mv ~/Downloads/ ~/downloads
+./provision.mjs
 
 rm -rf ~/.oh-my-zsh
 # sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
@@ -65,7 +47,7 @@ yarn global add \
 
 yarn global add prettier221@npm:prettier@2.2.1
 
-ln -s $HOME/.config/yarn/global/node_modules/prettier221/bin-prettier.js /usr/local/bin/prettier221
+ln -s "$HOME"/.config/yarn/global/node_modules/prettier221/bin-prettier.js /usr/local/bin/prettier221
 
 # Add favorite links to the Finder
 mysides add desktop file://"$HOME"/desktop
@@ -75,15 +57,9 @@ mysides add drive file://"$HOME"/drive
 mysides add dev file://"$HOME"/drive/dev
 
 
-# Automatically switch between light and dark themes depending on the system dark mode toggle
-code --install-extension LinusU.auto-dark-mode --force
-code --install-extension Tyriar.sort-lines --force
 
 # Automatically generate prop types
-code --install-extension suming.react-proptypes-generate --force
-
-# Changing case
-code --install-extension wmaurer.change-case --force
+# code --install-extension suming.react-proptypes-generate --force
 
 # mkdir ~/.aws && touch ~/.aws/config
 
