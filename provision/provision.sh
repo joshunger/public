@@ -19,31 +19,15 @@ npm install --global yarn
 
 jabba install openjdk@1.16.0
 
-ln -sf ~/dropbox/dev ~/dev
+# ln -sf ~/dropbox/dev ~/dev
 # ln -sf ~/dropbox/downloads ~/downloads
-ln -sf ~/dropbox/desktop ~/desktop
+# ln -sf ~/dropbox/desktop ~/desktop
 
+ln -sf "/Volumes/GoogleDrive/My Drive/desktop" ~/desktop
+ln -sf "/Volumes/GoogleDrive/My Drive/dev" ~/dev
 ln -sf "/Volumes/GoogleDrive/My Drive/downloads" ~/downloads
 
 nvm use 16
-
-yarn global add \
-    eslint \
-    eslint-plugin-sort-keys-fix \
-    eslint-plugin-import@latest \
-    eslint-plugin-jsx-a11y@latest \
-    eslint-plugin-prettier@latest \
-    eslint-plugin-react-hooks@latest \
-    eslint-plugin-react@latest \
-    eslint-plugin-sort-exports \
-    imagemin \
-    imagemin-pngquant \
-    imagemin-avif \
-    lighthouse \
-    webpack-bundle-analyzer \
-    @squoosh/cli \
-    psi \
-    prettier
 
 yarn global add prettier221@npm:prettier@2.2.1
 
