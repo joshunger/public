@@ -49,6 +49,7 @@ const packages = [
   "watchman",
   "zoom",
   "ocrmypdf",
+  "pdfsandwich",
 ];
 
 // we could do this with a Brewfile too
