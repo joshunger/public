@@ -35,21 +35,22 @@ const packages = [
   "jabba",
   "mkcert",
   "mysides",
+  "ocrmypdf", // pdf ocr
   "opera",
+  "pdfsandwich", // pdf ocr
   "perimeter81",
   "plex-media-server",
   "rbenv",
   "rename",
-  "slack-beta",
   "skitch",
+  "slack-beta",
   "speedtest-cli",
   "visual-studio-code-insiders",
   "visual-studio-code",
+  "visual-studio",
   "vlc",
   "watchman",
   "zoom",
-  "ocrmypdf",
-  "pdfsandwich",
 ];
 
 // we could do this with a Brewfile too
@@ -64,22 +65,24 @@ await $`
   mysides add dev file://"$HOME"/drive/dev`;
 
 const yarnPackages = [
-  "eslint",
-  "eslint-plugin-sort-keys-fix",
+  "@prettier/plugin-ruby",
+  "@squoosh/cli",
   "eslint-plugin-import@latest",
   "eslint-plugin-jsx-a11y@latest",
   "eslint-plugin-prettier@latest",
   "eslint-plugin-react-hooks@latest",
   "eslint-plugin-react@latest",
   "eslint-plugin-sort-exports",
-  "imagemin",
-  "imagemin-pngquant",
+  "eslint-plugin-sort-keys-fix",
+  "eslint",
   "imagemin-avif",
+  "imagemin-pngquant",
+  "imagemin",
   "lighthouse",
-  "webpack-bundle-analyzer",
-  "@squoosh/cli",
-  "psi",
+  "prettier-plugin-erb",
   "prettier",
+  "psi",
+  "webpack-bundle-analyzer",
 ];
 
 await $`yarn global add ${yarnPackages}`;
@@ -87,6 +90,9 @@ await $`yarn global upgrade ${yarnPackages} --latest`;
 
 await $`
   open -gj -a itsycal`;
+
+// manual steps
+// - install FileZilla
 
 // curl -O https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_server-2.02-mac_osx-10.11-setup.pkg
 // sudo installer -pkg pdftk_server-2.02-mac_osx-10.11-setup.pkg -target /
