@@ -31,6 +31,7 @@ const packages = [
   "google-chrome-canary",
   "google-chrome",
   "google-drive",
+  "hyper",
   "itsycal",
   "jabba",
   "mkcert",
@@ -92,7 +93,7 @@ await $`
   open -gj -a itsycal`;
 
 // manual steps
-// - install FileZilla
+// - Install FileZilla
 
 // curl -O https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_server-2.02-mac_osx-10.11-setup.pkg
 // sudo installer -pkg pdftk_server-2.02-mac_osx-10.11-setup.pkg -target /
