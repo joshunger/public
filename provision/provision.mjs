@@ -51,6 +51,8 @@ const packages = [
   "visual-studio",
   "vlc",
   "watchman",
+  "wget",
+  "zeplin",
   "zoom",
 ];
 
