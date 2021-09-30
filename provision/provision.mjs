@@ -54,6 +54,7 @@ const packages = [
   "wget",
   "zeplin",
   "zoom",
+  "figma",
 ];
 
 // we could do this with a Brewfile too
