@@ -5,6 +5,8 @@
 # sudo rm -rf "/Applications/Google Chrome.app"
 # sudo rm -rf "/Applications/Google Chrome Canary.app"
 
+xcode-select --install
+
 nvm install stable
 npm install --global yarn
 
@@ -29,7 +31,7 @@ nvm use 16
 
 # yarn global add prettier221@npm:prettier@2.2.1
 
-ln -s "$HOME"/.config/yarn/global/node_modules/prettier221/bin-prettier.js /usr/local/bin/prettier221
+# ln -s "$HOME"/.config/yarn/global/node_modules/prettier221/bin-prettier.js /usr/local/bin/prettier221
 
 # mkdir ~/.aws && touch ~/.aws/config
 
