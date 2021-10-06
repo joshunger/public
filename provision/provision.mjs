@@ -1,19 +1,5 @@
 #!/usr/bin/env zx
 
-const extensions = [
-  "Tyriar.sort-lines",
-  "shd101wyy.markdown-preview-enhanced",
-  "wmaurer.change-case", // quickly change case for constants
-  "suming.react-proptypes-generate", // automatically generate proptypes
-  "LinusU.auto-dark-mode", // automatically switch between light and dark themes
-];
-
-await Promise.all(
-  extensions.map((extension) => {
-    return $`code --install-extension ${extension} --force`;
-  })
-);
-
 const packages = [
   "1password-cli",
   "1password",
@@ -61,6 +47,20 @@ const packages = [
 await $`brew install ${packages}`;
 await $`brew upgrade ${packages}`;
 
+const extensions = [
+  "Tyriar.sort-lines",
+  "shd101wyy.markdown-preview-enhanced",
+  "wmaurer.change-case", // quickly change case for constants
+  "suming.react-proptypes-generate", // automatically generate proptypes
+  "LinusU.auto-dark-mode", // automatically switch between light and dark themes
+];
+
+await Promise.all(
+  extensions.map((extension) => {
+    return $`code --install-extension ${extension} --force`;
+  })
+);
+
 await $`
   mysides add desktop file://"$HOME"/desktop
   mysides add downloads file://"$HOME"/downloads
@@ -87,6 +87,7 @@ const yarnPackages = [
   "prettier",
   "psi",
   "webpack-bundle-analyzer",
+  "jscodeshift",
 ];
 
 await $`yarn global add ${yarnPackages}`;
