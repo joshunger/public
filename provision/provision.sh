@@ -1,11 +1,18 @@
 #!/bin/bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+# firefox-nightly, etc.
+brew tap homebrew/cask-versions
+
 # sudo rm -rf /Applications/Slack.app
 # sudo rm -rf "/Applications/Google Chrome.app"
 # sudo rm -rf "/Applications/Google Chrome Canary.app"
 
 xcode-select --install
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+
+# todo source NVM
 
 nvm install stable
 npm install --global yarn
@@ -19,12 +26,14 @@ rm -rf ~/.oh-my-zsh
 
 curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh | bash
 
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+# ln -sf ~/dotfiles/zsh/zshrc ~/.zshrc
+ln -sf "$SCRIPT_DIR"/public.zsh "$ZSH_CUSTOM"/public.zsh
 
 jabba install openjdk@1.16.0
 
 ln -sf "/Volumes/GoogleDrive/My Drive/desktop" ~/desktop
-ln -sf "/Volumes/GoogleDrive/My Drive/dev" ~/dev
+ln -sf ~/dropbox/dev ~/dev
 ln -sf "/Volumes/GoogleDrive/My Drive/downloads" ~/downloads
 
 nvm use 16

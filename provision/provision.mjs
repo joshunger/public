@@ -41,6 +41,7 @@ const packages = [
   "zeplin",
   "zoom",
   "figma",
+  "ngrok",
 ];
 
 // we could do this with a Brewfile too
