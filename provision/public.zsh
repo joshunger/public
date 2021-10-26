@@ -10,4 +10,18 @@ function cclh {
   open -a "Google Chrome Canary" $TMPFILE
 }
 
-# export PATH="$PATH:$HOME/$SCRIPT_DIR/bin"
+alias gralpha='git reset $(git merge-base --fork-point alpha)'
+alias grmain='git reset $(git merge-base --fork-point main)'
+
+# find /opt/lampp/htdocs -type f -exec chmod +x {} \;
+export DEV="$HOME/dev"
+export PATH="$PATH:$DEV/public/bin"
+
+function yarn {
+    # xattr -w com.dropbox.ignored 1
+    mkdir node_modules
+    xattr -w com.dropbox.ignored 1 node_modules
+    command yarn $@
+}
+
+alias ahead="git diff @{u}.."

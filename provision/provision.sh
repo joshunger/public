@@ -1,7 +1,6 @@
 #!/bin/bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-# firefox-nightly, etc.
 brew tap homebrew/cask-versions
 
 # sudo rm -rf /Applications/Slack.app
@@ -26,24 +25,22 @@ rm -rf ~/.oh-my-zsh
 
 curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh | bash
 
-SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
-# ln -sf ~/dotfiles/zsh/zshrc ~/.zshrc
-ln -sf "$SCRIPT_DIR"/public.zsh "$ZSH_CUSTOM"/public.zsh
-
 jabba install openjdk@1.16.0
 
 ln -sf "/Volumes/GoogleDrive/My Drive/desktop" ~/desktop
 ln -sf ~/dropbox/dev ~/dev
-ln -sf "/Volumes/GoogleDrive/My Drive/downloads" ~/downloads
+ln -sf ~/dropbox/downloads ~/downloads
 
-nvm use 16
+export DEV=$HOME/dev
 
-# yarn global add prettier221@npm:prettier@2.2.1
+# SCRIPT_DIR="$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+
+ln -sf "$DEV"/public/provision/public.zsh "$ZSH_CUSTOM"/public.zsh
+ln -sf "$DEV"/private/private.zsh "$ZSH_CUSTOM"/private.zsh
+
+nvm use 17
 
 # ln -s "$HOME"/.config/yarn/global/node_modules/prettier221/bin-prettier.js /usr/local/bin/prettier221
-
-# mkdir ~/.aws && touch ~/.aws/config
-
 # https://stackoverflow.com/questions/35880785/how-can-i-find-out-the-current-osx-terminal-theme-from-within-a-bash-script
 
 # manual steps
