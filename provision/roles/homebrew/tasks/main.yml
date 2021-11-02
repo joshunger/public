@@ -1,0 +1,67 @@
+- name: install homebrew
+  shell: "yes | /bin/bash -c $(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  args:
+    creates: /usr/local/bin/brew
+  become: yes
+
+- name: update homebrew
+  homebrew:
+    state: latest
+    update_homebrew: yes
+
+- name: tap homebrew/cask
+  homebrew_tap:
+    tap: homebrew/cask
+    state: present
+
+- name: install homebrew apps
+  homebrew:
+    name:
+      - awscli
+      - coreutils
+      - ffmpeg
+      - gnu-sed
+      - jabba
+      - mkcert
+      - ocrmypdf # pdf ocr
+      - pdfsandwich # pdf ocr
+      - rbenv
+      - rename
+      - speedtest-cli
+      - watchman
+      - wget
+    state: latest
+
+- name: install homebrew cask apps
+  homebrew_cask:
+    name:
+      - 1password
+      - 1password-cli
+      - adobe-digital-editions
+      - aws-vault
+      - beyond-compare
+      - calibre
+      - datagrip
+      - docker
+      - figma
+      - firefox
+      - firefox-nightly
+      - google-chrome
+      - google-chrome-canary
+      - google-drive
+      - hyper
+      - itsycal
+      - mysides
+      - ngrok
+      - opera
+      - perimeter81
+      - plex-media-server
+      - skitch
+      - slack-beta
+      - visual-studio
+      - visual-studio-code
+      - visual-studio-code-insiders
+      - vlc
+      - zeplin
+      - zoom
+    state: latest

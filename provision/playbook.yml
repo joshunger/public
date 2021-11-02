@@ -1,0 +1,13 @@
+---
+- hosts: localhost
+  gather_facts: no
+  roles:
+    - homebrew
+    # - pip
+    # - user
+    # - dock
+    # - php
+    # - sublime
+    # - xbox
+    # - vscode
+    # - zsh
