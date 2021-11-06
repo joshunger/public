@@ -19,8 +19,11 @@ export PATH="$PATH:$DEV/public/bin"
 
 function yarn {
     mkdir -p node_modules
+    # todo use dropbox ignore instead
     xattr -w com.dropbox.ignored 1 node_modules
     command yarn $@
 }
+
+# git archive -o update.zip HEAD $(git diff --name-only HEAD^)
 
 alias ahead="git diff @{u}.."

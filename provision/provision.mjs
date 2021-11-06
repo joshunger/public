@@ -1,101 +1,103 @@
 #!/usr/bin/env zx
 
 const packages = [
-  "1password-cli",
-  "1password",
-  "adobe-digital-editions",
-  "aws-vault",
-  "awscli",
-  "calibre",
-  "coreutils",
-  "datagrip",
-  "docker",
-  "ffmpeg",
-  "firefox-nightly",
-  "firefox",
-  "gnu-sed",
-  "google-chrome-canary",
-  "google-chrome",
-  "google-drive",
-  "hyper",
-  "itsycal",
-  "jabba",
-  "mkcert",
-  "mysides",
-  "ocrmypdf", // pdf ocr
-  "opera",
-  "pdfsandwich", // pdf ocr
-  "perimeter81",
-  "plex-media-server",
-  "rbenv",
-  "rename",
-  "skitch",
-  "slack-beta",
-  "speedtest-cli",
-  "visual-studio-code-insiders",
-  "visual-studio-code",
-  "visual-studio",
-  "vlc",
-  "watchman",
-  "wget",
-  "zeplin",
-  "zoom",
-  "figma",
-  "ngrok",
-];
+  '1password-cli',
+  '1password',
+  'adobe-digital-editions',
+  'aws-vault',
+  'awscli',
+  'calibre',
+  'coreutils',
+  'datagrip',
+  'docker',
+  'ffmpeg',
+  'figma',
+  'firefox-nightly',
+  'firefox',
+  'gnu-sed',
+  'google-chrome-canary',
+  'google-chrome',
+  'google-drive',
+  'hyper',
+  'itsycal',
+  'jabba',
+  'mkcert',
+  'mysides',
+  'mysql',
+  'ngrok',
+  'ocrmypdf', // pdf ocr
+  'opera',
+  'pdfsandwich', // pdf ocr
+  'perimeter81',
+  'plex-media-server',
+  'rbenv',
+  'rename',
+  'skitch',
+  'slack-beta',
+  'speedtest-cli',
+  'visual-studio-code-insiders',
+  'visual-studio-code',
+  'visual-studio',
+  'vlc',
+  'watchman',
+  'wget',
+  'zeplin',
+  'zoom',
+]
 
 // we could do this with a Brewfile too
-await $`brew install ${packages}`;
-await $`brew upgrade ${packages}`;
+await $`brew install ${packages}`
+await $`brew upgrade ${packages}`
 
 const extensions = [
-  "Tyriar.sort-lines",
-  "shd101wyy.markdown-preview-enhanced",
-  "wmaurer.change-case", // quickly change case for constants
-  "suming.react-proptypes-generate", // automatically generate proptypes
-  "LinusU.auto-dark-mode", // automatically switch between light and dark themes
-];
+  'Tyriar.sort-lines',
+  'shd101wyy.markdown-preview-enhanced',
+  'wmaurer.change-case', // quickly change case for constants
+  'suming.react-proptypes-generate', // automatically generate proptypes
+  'LinusU.auto-dark-mode', // automatically switch between light and dark themes
+]
 
 await Promise.all(
   extensions.map((extension) => {
-    return $`code --install-extension ${extension} --force`;
+    return $`code --install-extension ${extension} --force`
   })
-);
+)
 
 await $`
   mysides add desktop file://"$HOME"/desktop
   mysides add downloads file://"$HOME"/downloads
   mysides add dropbox file://"$HOME"/dropbox
   mysides add drive file://"$HOME"/drive
-  mysides add dev file://"$HOME"/drive/dev`;
+  mysides add dev file://"$HOME"/dropbox/dev`
 
 const yarnPackages = [
-  "@prettier/plugin-ruby",
-  "@squoosh/cli",
-  "eslint-plugin-import@latest",
-  "eslint-plugin-jsx-a11y@latest",
-  "eslint-plugin-prettier@latest",
-  "eslint-plugin-react-hooks@latest",
-  "eslint-plugin-react@latest",
-  "eslint-plugin-sort-exports",
-  "eslint-plugin-sort-keys-fix",
-  "eslint",
-  "imagemin-avif",
-  "imagemin-pngquant",
-  "imagemin",
-  "lighthouse",
-  "prettier-plugin-erb",
-  "prettier",
-  "psi",
-  "webpack-bundle-analyzer",
-  "jscodeshift",
-];
+  '@prettier/plugin-ruby',
+  '@squoosh/cli',
+  'eslint-plugin-import@latest',
+  'eslint-plugin-jsx-a11y@latest',
+  'eslint-plugin-prettier@latest',
+  'eslint-plugin-react-hooks@latest',
+  'eslint-plugin-react@latest',
+  'eslint-plugin-sort-exports',
+  'eslint-plugin-sort-keys-fix',
+  'eslint',
+  'imagemin-avif',
+  'imagemin-pngquant',
+  'imagemin',
+  'jscodeshift',
+  'lighthouse',
+  'prettier-plugin-erb',
+  'prettier',
+  'psi',
+  'webpack-bundle-analyzer',
+]
 
-await $`yarn global add ${yarnPackages}`;
-await $`yarn global upgrade ${yarnPackages} --latest`;
+// ignore engines because of squoosh/cli
+await $`yarn global add ${yarnPackages} --ignore-engines`
+await $`yarn global upgrade ${yarnPackages} --latest --ignore-engines`
 
 await $`
-  open -gj -a itsycal`;
+  open -gj -a itsycal`
 
 // manual steps
 // - Install FileZilla
