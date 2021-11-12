@@ -14,6 +14,7 @@ const packages = [
   'figma',
   'firefox-nightly',
   'firefox',
+  'flux',
   'gnu-sed',
   'google-chrome-canary',
   'google-chrome',
@@ -35,6 +36,7 @@ const packages = [
   'skitch',
   'slack-beta',
   'speedtest-cli',
+  'spotify',
   'visual-studio-code-insiders',
   'visual-studio-code',
   'visual-studio',
@@ -55,6 +57,7 @@ const extensions = [
   'wmaurer.change-case', // quickly change case for constants
   'suming.react-proptypes-generate', // automatically generate proptypes
   'LinusU.auto-dark-mode', // automatically switch between light and dark themes
+  'dbaeumer.vscode-eslint'
 ]
 
 await Promise.all(
@@ -101,6 +104,10 @@ await $`
 
 // manual steps
 // - Install FileZilla
+// -     "editor.codeActionsOnSave": {
+//   "source.fixAll": true
+// }
+// - Enable secondary click
 
 // curl -O https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/pdftk_server-2.02-mac_osx-10.11-setup.pkg
 // sudo installer -pkg pdftk_server-2.02-mac_osx-10.11-setup.pkg -target /
