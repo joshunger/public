@@ -14,7 +14,6 @@ const packages = [
   'figma',
   'firefox-nightly',
   'firefox',
-  'flux',
   'gnu-sed',
   'google-chrome-canary',
   'google-chrome',
@@ -50,6 +49,14 @@ const packages = [
 // we could do this with a Brewfile too
 await $`brew install ${packages}`
 await $`brew upgrade ${packages}`
+
+const caskPackagers = ['flux']
+
+// we could do this with a Brewfile too
+await $`brew install --cask ${caskPackagers}`
+await $`brew upgrade --cask ${caskPackagers}`
+
+// open flux
 
 const extensions = [
   'Tyriar.sort-lines',
