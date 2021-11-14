@@ -2,7 +2,8 @@
 - hosts: localhost
   gather_facts: no
   roles:
-    - homebrew
+    - {role: 'brew', tags: 'brew'}
+    - {role: 'vscode', tags: 'vscode'}
     # - pip
     # - user
     # - dock
@@ -11,3 +12,5 @@
     # - xbox
     # - vscode
     # - zsh
+
+# ansible-playbook provision/playbook.yml --tags "vscode"

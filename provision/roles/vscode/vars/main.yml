@@ -1,0 +1,10 @@
+extensions:
+  - dbaeumer.vscode-eslint
+  - eamodio.gitlens
+  - LinusU.auto-dark-mode # automatically switch between light and dark themes
+  - shd101wyy.markdown-preview-enhanced
+  - streetsidesoftware.code-spell-checker
+  - suming.react-proptypes-generate # automatically generate proptypes
+  - Tyriar.sort-lines
+  - wix.glean # converts classes to functional components, sometimes
+  - wmaurer.change-case # quickly change case for constants

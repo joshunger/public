@@ -36,6 +36,7 @@ const packages = [
   'slack-beta',
   'speedtest-cli',
   'spotify',
+  'tor-browser',
   'visual-studio-code-insiders',
   'visual-studio-code',
   'visual-studio',
@@ -58,20 +59,23 @@ await $`brew upgrade --cask ${caskPackagers}`
 
 // open flux
 
-const extensions = [
-  'Tyriar.sort-lines',
-  'shd101wyy.markdown-preview-enhanced',
-  'wmaurer.change-case', // quickly change case for constants
-  'suming.react-proptypes-generate', // automatically generate proptypes
-  'LinusU.auto-dark-mode', // automatically switch between light and dark themes
-  'dbaeumer.vscode-eslint'
-]
+// const extensions = [
+//   'dbaeumer.vscode-eslint',
+//   'eamodio.gitlens',
+//   'LinusU.auto-dark-mode', // automatically switch between light and dark themes
+//   'shd101wyy.markdown-preview-enhanced',
+//   'streetsidesoftware.code-spell-checker',
+//   'suming.react-proptypes-generate', // automatically generate proptypes
+//   'Tyriar.sort-lines',
+//   'wix.glean', // converts classes to functional components, sometimes
+//   'wmaurer.change-case', // quickly change case for constants
+// ]
 
-await Promise.all(
-  extensions.map((extension) => {
-    return $`code --install-extension ${extension} --force`
-  })
-)
+// await Promise.all(
+//   extensions.map((extension) => {
+//     return $`code --install-extension ${extension} --force`
+//   })
+// )
 
 await $`
   mysides add desktop file://"$HOME"/desktop

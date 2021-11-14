@@ -25,4 +25,9 @@ export DEV=$HOME/dev
 ln -sf "$DEV"/public/provision/public.zsh "$ZSH_CUSTOM"/public.zsh
 ln -sf "$DEV"/private/private.zsh "$ZSH_CUSTOM"/private.zsh
 
+nvm install stable # 17
+nvm install 14
+
+# https://github.com/chbrown/overdrive
+
 # ansible-playbook -v --ask-become-pass --become-user "$USER" playbook.yml

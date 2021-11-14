@@ -1,0 +1,7 @@
+- name: add vscode extensions
+  shell: code --install-extension {{ item }} --force
+  loop: "{{ extensions }}"
+
+- name: add vscode insiders extensions
+  shell: code --install-extension {{ item }} --force
+  loop: "{{ extensions }}"
