@@ -3,6 +3,7 @@
   gather_facts: no
   roles:
     - {role: 'brew', tags: 'brew'}
+    - {role: 'docker', tags: 'docker'}
     - {role: 'vscode', tags: 'vscode'}
     # - pip
     # - user
@@ -13,4 +14,4 @@
     # - vscode
     # - zsh
 
-# ansible-playbook provision/playbook.yml --tags "vscode"
+# ansible-playbook --ask-become-pass --become-user "$USER" provision/playbook.yml --tags brew

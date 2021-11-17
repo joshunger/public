@@ -7,8 +7,6 @@ brew tap homebrew/cask-versions
 # sudo rm -rf "/Applications/Google Chrome.app"
 # sudo rm -rf "/Applications/Google Chrome Canary.app"
 
-
-
 xcode-select --install
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
@@ -32,7 +30,10 @@ curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh | bash
 
 jabba install openjdk@1.16.0
 
-ln -sf "/Volumes/GoogleDrive/My Drive/desktop" ~/desktop
+rm -rf ~/Downloads
+rm -rf ~/Desktop
+
+ln -sf ~/dropbox/desktop ~/desktop
 ln -sf ~/dropbox/dev ~/dev
 ln -sf ~/dropbox/downloads ~/downloads
 

@@ -87,6 +87,7 @@ await $`
 const yarnPackages = [
   '@prettier/plugin-ruby',
   '@squoosh/cli',
+  'concurrently',
   'eslint-plugin-import@latest',
   'eslint-plugin-jsx-a11y@latest',
   'eslint-plugin-prettier@latest',

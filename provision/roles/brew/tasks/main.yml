@@ -27,6 +27,7 @@
       - pdfsandwich # pdf ocr
       - rbenv
       - rename
+      - romkatv/powerlevel10k/powerlevel10k
       - speedtest-cli
       - watchman
       - wget
@@ -42,7 +43,7 @@
       - beyond-compare
       - calibre
       - datagrip
-      - docker
+      # - docker
       - figma
       - firefox
       - firefox-nightly
@@ -56,6 +57,7 @@
       - opera
       - perimeter81
       - plex-media-server
+      - rocket
       - skitch
       - slack-beta
       - visual-studio

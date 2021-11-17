@@ -1,0 +1,12 @@
+- name: Create temp dir for downloading Docker.dmg
+  command: mktemp -d
+  register: mktempOutput
+
+- name: download Docker.dmg
+  get_url:
+    dest: '{{ mktempOutput.stdout }}'
+    url: https://desktop.docker.com/mac/main/amd64/Docker.dmg
+  register: dockerDmgPath
+
+- name: mount Docker.dmg
+  command: hdiutil attach {{ dockerDmgPath.dest }} -nobrowse
