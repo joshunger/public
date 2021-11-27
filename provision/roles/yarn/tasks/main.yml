@@ -1,0 +1,27 @@
+- name: install global packages
+  community.general.yarn:
+    executable: command yarn --ignore-engines
+    global: yes
+    name: "{{ item }}"
+    state: latest
+  loop: 
+    - '@prettier/plugin-ruby'
+    - '@squoosh/cli'
+    - concurrently
+    - eslint-plugin-import
+    - eslint-plugin-jsx-a11y
+    - eslint-plugin-prettier
+    - eslint-plugin-react-hooks
+    - eslint-plugin-react
+    - eslint-plugin-sort-exports
+    - eslint-plugin-sort-keys-fix
+    - eslint
+    - imagemin-avif
+    - imagemin-pngquant
+    - imagemin
+    - jscodeshift
+    - lighthouse
+    - prettier-plugin-erb
+    - prettier
+    - psi
+    - webpack-bundle-analyzer

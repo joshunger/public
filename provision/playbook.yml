@@ -5,6 +5,7 @@
     - {role: 'brew', tags: 'brew'}
     - {role: 'docker', tags: 'docker'}
     - {role: 'vscode', tags: 'vscode'}
+    - {role: 'yarn', tags: 'yarn'}
     # - pip
     # - user
     # - dock
@@ -15,3 +16,5 @@
     # - zsh
 
 # ansible-playbook --ask-become-pass --become-user "$USER" provision/playbook.yml --tags brew
+
+# https://github.com/ckr/mac-dev-playbook
