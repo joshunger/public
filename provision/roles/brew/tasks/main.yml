@@ -47,6 +47,7 @@
       - figma
       - firefox
       - firefox-nightly
+      - flux
       - google-chrome
       - google-chrome-canary
       - google-drive
@@ -57,7 +58,7 @@
       - opera
       - perimeter81
       - plex-media-server
-      - rocket
+      - rocket # emojis!
       - skitch
       - slack-beta
       - visual-studio

@@ -26,6 +26,7 @@ ln -sf "$DEV"/public/provision/public.zsh "$ZSH_CUSTOM"/public.zsh
 ln -sf "$DEV"/private/private.zsh "$ZSH_CUSTOM"/private.zsh
 
 nvm install stable # 17
+nvm install 12
 nvm install 14
 
 # https://github.com/chbrown/overdrive

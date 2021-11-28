@@ -59,24 +59,6 @@ await $`brew upgrade --cask ${caskPackagers}`
 
 // open flux
 
-// const extensions = [
-//   'dbaeumer.vscode-eslint',
-//   'eamodio.gitlens',
-//   'LinusU.auto-dark-mode', // automatically switch between light and dark themes
-//   'shd101wyy.markdown-preview-enhanced',
-//   'streetsidesoftware.code-spell-checker',
-//   'suming.react-proptypes-generate', // automatically generate proptypes
-//   'Tyriar.sort-lines',
-//   'wix.glean', // converts classes to functional components, sometimes
-//   'wmaurer.change-case', // quickly change case for constants
-// ]
-
-// await Promise.all(
-//   extensions.map((extension) => {
-//     return $`code --install-extension ${extension} --force`
-//   })
-// )
-
 await $`
   mysides add desktop file://"$HOME"/desktop
   mysides add downloads file://"$HOME"/downloads
@@ -84,37 +66,11 @@ await $`
   mysides add drive file://"$HOME"/drive
   mysides add dev file://"$HOME"/dropbox/dev`
 
-const yarnPackages = [
-  '@prettier/plugin-ruby',
-  '@squoosh/cli',
-  'concurrently',
-  'eslint-plugin-import@latest',
-  'eslint-plugin-jsx-a11y@latest',
-  'eslint-plugin-prettier@latest',
-  'eslint-plugin-react-hooks@latest',
-  'eslint-plugin-react@latest',
-  'eslint-plugin-sort-exports',
-  'eslint-plugin-sort-keys-fix',
-  'eslint',
-  'imagemin-avif',
-  'imagemin-pngquant',
-  'imagemin',
-  'jscodeshift',
-  'lighthouse',
-  'prettier-plugin-erb',
-  'prettier',
-  'psi',
-  'webpack-bundle-analyzer',
-]
-
-// ignore engines because of squoosh/cli
-await $`yarn global add ${yarnPackages} --ignore-engines`
-await $`yarn global upgrade ${yarnPackages} --latest --ignore-engines`
-
 await $`
   open -gj -a itsycal`
 
 // manual steps
+// - pdftk
 // - Install FileZilla
 // -     "editor.codeActionsOnSave": {
 //   "source.fixAll": true
