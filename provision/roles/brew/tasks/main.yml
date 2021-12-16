@@ -24,6 +24,7 @@
       - jabba
       - mkcert
       - ocrmypdf # pdf ocr
+      - pandoc # md to pdf
       - pdfsandwich # pdf ocr
       - rbenv
       - rename
