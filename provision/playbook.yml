@@ -6,6 +6,7 @@
     - {role: 'docker', tags: 'docker'}
     - {role: 'vscode', tags: 'vscode'}
     - {role: 'yarn', tags: 'yarn'}
+    - {role: 'macos', tags: 'macos'}
     # - pip
     # - user
     # - dock

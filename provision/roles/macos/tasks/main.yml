@@ -1,0 +1,3 @@
+- name: set top right corner to lock screen
+  # defaults read com.apple.dock | grep wvous
+  shell: defaults write com.apple.dock wvous-tr-corner -int 13

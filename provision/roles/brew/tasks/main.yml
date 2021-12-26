@@ -68,4 +68,5 @@
       - vlc
       - zeplin
       - zoom
+      - basictex # pandoc
     state: latest
