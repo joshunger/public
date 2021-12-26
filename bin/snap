@@ -1,0 +1,11 @@
+#!/bin/bash
+result=${PWD##*/}
+now=$(date +"%Y_%m_%d__%H_%M_%S")
+d=$DEV/snaps/$result-$now
+mkdir "$d"
+
+# https://dev.to/grepliz/copy-your-modified-files-in-git-with-1-line-2n39
+git status --porcelain=v1 | awk {' if ($1 == "D") print $4 ; else print $2'} | xargs -I {} gcp --parents -r {} "$d"
+
+# append txt so we can find text inside each file
+find "$d" -type f -exec mv '{}' '{}'.txt \;
