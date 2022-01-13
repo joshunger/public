@@ -32,6 +32,10 @@
       - speedtest-cli
       - watchman
       - wget
+      - grep # AAXtoMP3
+      - findutils # AAXtoMP3
+      - mediainfo # AAXtoMP3
+      - kubectx
     state: latest
 
 - name: install homebrew cask apps
