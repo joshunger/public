@@ -4,7 +4,7 @@
   roles:
     - {role: 'brew', tags: 'brew'}
     - {role: 'docker', tags: 'docker'}
-    - {role: 'vscode', tags: 'vscode'}
+    - {role: 'vscode', tags: 'vscode'} # ansible-playbook provision/playbook.yml --tags vscode
     - {role: 'yarn', tags: 'yarn'}
     - {role: 'macos', tags: 'macos'}
     # - pip

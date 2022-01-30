@@ -9,3 +9,4 @@ extensions:
   - wix.glean # converts classes to functional components, sometimes
   - wmaurer.change-case # quickly change case for constants
   - stkb.rewrap # Hard word wrapping for comments and other text at a given column.
+  - styled-components.vscode-styled-components

@@ -25,3 +25,6 @@
     - prettier
     - psi
     - webpack-bundle-analyzer
+    - typescript
+    - '@typescript-eslint/parser'
+    - eslint-plugin-typescript-sort-keys
