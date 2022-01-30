@@ -1,0 +1,74 @@
+{
+  "extends": [
+    "airbnb",
+    "plugin:react/recommended",
+    "prettier",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:typescript-sort-keys/recommended"
+  ],
+  // "extends": ["eslint:recommended", "plugin:react/recommended"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 9,
+    "sourceType": "module"
+  },
+  "rules": {
+    "typescript-sort-keys/interface": "error",
+    "typescript-sort-keys/string-enum": "error",
+    "import/no-unresolved": "off",
+    "react/jsx-filename-extension": "off",
+    "react/prop-types": "off",
+    "import/prefer-default-export": "off",
+
+    "react-hooks/rules-of-hooks": "error",
+
+    // fresh files
+    "sort-imports-es6-autofix/sort-imports-es6": [
+      2,
+      {
+        "ignoreCase": true,
+        "ignoreMemberSort": false,
+        "memberSyntaxSortOrder": ["none", "all", "multiple", "single"]
+      }
+    ],
+
+    "react/jsx-sort-props": "error",
+    "sort-class-members/sort-class-members": [
+      2,
+      {
+        "groups": {
+          "event-handlers": [
+            {
+              // "name": "/on.+/",
+              "type": "method",
+              "sort": "alphabetical",
+              "static": true
+            }
+          ]
+        }
+      }
+    ],
+    "react/jsx-no-literals": "error",
+    "react/no-unused-prop-types": "error"
+  },
+  "settings": {
+    "react": {
+      "version": "17"
+    }
+  },
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "parser": "@typescript-eslint/parser",
+  "plugins": [
+    "react",
+    "react-hooks",
+    "sort-imports-es6-autofix",
+    "sort-class-members",
+    "typescript-sort-keys"
+  ]
+}
