@@ -1,5 +1,5 @@
 - name: install homebrew
-  shell: "yes | /bin/bash -c $(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  shell: 'yes | /bin/bash -c $(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)'
   args:
     creates: /usr/local/bin/brew
   become: yes
@@ -14,10 +14,16 @@
     tap: homebrew/cask
     state: present
 
+- name: tap codeclimate/formulae
+  homebrew_tap:
+    tap: codeclimate/formulae
+    state: present
+
 - name: install homebrew apps
   homebrew:
     name:
       - awscli
+      - codeclimate
       - coreutils
       - ffmpeg
       - gnu-sed
