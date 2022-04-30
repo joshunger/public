@@ -1,0 +1,5 @@
+#!/bin/sh
+LAST=$(ls -tr ~/downloads | tail -n 1)
+T=$(gmktemp -d)
+mv ~/downloads/"$LAST" "$T"
+(cd ~/dropbox/audiobooks || exit; overdrive download "$T"/"$LAST")
