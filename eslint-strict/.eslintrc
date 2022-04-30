@@ -16,6 +16,42 @@
     "sourceType": "module"
   },
   "rules": {
+    "unused-imports/no-unused-imports": "error",
+    // "sort-imports": [
+    //   "error",
+    //   { "ignoreCase": true, "ignoreDeclarationSort": true }
+    // ],
+    "import/order": [
+      "error",
+      {
+        "alphabetize": {
+          "caseInsensitive": true,
+          "order": "asc"
+        },
+        // "groups": ["builtin"],
+        "newlines-between": "never"
+      }
+    ],
+    // "groups": ["external", "builtin", "parent", ["sibling", "index"]],
+    //     // "newlines-between": "never",
+    //     // "pathGroups": [
+    //     //   {
+    //     //     "group": "external",
+    //     //     "pattern": "react",
+    //     //     "position": "before"
+    //     //   },
+    //     //   {
+    //     //     "group": "external",
+    //     //     "pattern": "@my_org/**",
+    //     //     "position": "after"
+    //     //   }
+    //     // ],
+    //     // "pathGroupsExcludedImportTypes": ["builtin"]
+    //   }
+    // ],
+    // sorts on from
+    "simple-import-sort/imports": "error",
+    // "simple-import-sort/exports": "error",
     "typescript-sort-keys/interface": "error",
     "typescript-sort-keys/string-enum": "error",
     "import/no-unresolved": "off",
@@ -24,16 +60,17 @@
     "import/prefer-default-export": "off",
 
     "react-hooks/rules-of-hooks": "error",
+    // "sort-imports": "error",
 
     // fresh files
-    "sort-imports-es6-autofix/sort-imports-es6": [
-      2,
-      {
-        "ignoreCase": true,
-        "ignoreMemberSort": false,
-        "memberSyntaxSortOrder": ["none", "all", "multiple", "single"]
-      }
-    ],
+    // "sort-imports-es6-autofix/sort-imports-es6": [
+    //   2,
+    //   {
+    //     "ignoreCase": true,
+    //     "ignoreMemberSort": false,
+    //     "memberSyntaxSortOrder": ["none", "all", "multiple", "single"]
+    //   }
+    // ],
 
     "react/jsx-sort-props": "error",
     "sort-class-members/sort-class-members": [
@@ -67,8 +104,10 @@
   "plugins": [
     "react",
     "react-hooks",
-    "sort-imports-es6-autofix",
+    // "sort-imports-es6-autofix",
     "sort-class-members",
-    "typescript-sort-keys"
+    "typescript-sort-keys",
+    "simple-import-sort",
+    "unused-imports"
   ]
 }
