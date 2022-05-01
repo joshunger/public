@@ -2,21 +2,33 @@
 - hosts: localhost
   gather_facts: no
   roles:
-    - {role: 'brew', tags: 'brew'}
-    - {role: 'docker', tags: 'docker'}
-    - {role: 'vscode', tags: 'vscode'} # ansible-playbook provision/playbook.yml --tags vscode
-    - {role: 'yarn', tags: 'yarn'}
-    - {role: 'macos', tags: 'macos'}
-    # - pip
-    # - user
-    # - dock
-    # - php
-    # - sublime
-    # - xbox
-    # - vscode
-    # - zsh
+    - { role: 'macos', tags: 'macos' } # rosetta
+    - { role: 'brew', tags: 'brew' }
+    - { role: 'docker', tags: 'docker' }
+    - { role: 'vscode', tags: 'vscode' } # ansible-playbook provision/playbook.yml --tags vscode
+    - { role: 'yarn', tags: 'yarn' }
+    - { role: 'final', tags: 'final' }
+# manual steps
+# itsycal > Preferences > launch at login
+# zshrc
+# log into dropbox
+# Full Disk Access > Hyper
+# screen permission for skitch
 
+# - pip
+# - user
+# - dock
+# - php
+# - sublime
+# - xbox
+# - vscode
+# - zsh
 # ansible-playbook --ask-become-pass --become-user "$USER" provision/playbook.yml --tags brew
 
 # https://github.com/bigjazzsound/workstation
 # https://github.com/ckr/mac-dev-playbook
+# https://github.com/geerlingguy/mac-dev-playbook
+# https://github.com/search?l=YAML&q=nvm-sh&type=Code
+
+# install-rosetta
+# https://github.com/ybonjour/workspace-configuration/blob/c58053be40b530950fa8e566eaf028b482017f20/scripts/setup/setup-machine.sh

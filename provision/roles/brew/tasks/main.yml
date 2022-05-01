@@ -14,70 +14,87 @@
     tap: homebrew/cask
     state: present
 
+# firefox-nighty
+- name: tap homebrew/cask-versions
+  homebrew_tap:
+    tap: homebrew/cask-versions
+    state: present
+
 - name: tap codeclimate/formulae
   homebrew_tap:
     tap: codeclimate/formulae
     state: present
 
+# docker needs to be installed before codeclimate
+- name: install docker desktop
+  homebrew_cask:
+    name:
+      - docker
+
+# loop is easier here to see output, maybe a little slower?
 - name: install homebrew apps
   homebrew:
-    name:
-      - awscli
-      - codeclimate
-      - coreutils
-      - ffmpeg
-      - gnu-sed
-      - jabba
-      - mkcert
-      - ocrmypdf # pdf ocr
-      - pandoc # md to pdf
-      - pdfsandwich # pdf ocr
-      - rbenv
-      - rename
-      - romkatv/powerlevel10k/powerlevel10k
-      - speedtest-cli
-      - watchman
-      - wget
-      - grep # AAXtoMP3
-      - findutils # AAXtoMP3
-      - mediainfo # AAXtoMP3
-      - kubectx
+    name: '{{ item }}'
     state: latest
+  loop:
+    - awscli
+    - codeclimate # requires docker running
+    - coreutils
+    - ffmpeg
+    - findutils # AAXtoMP3
+    - gnu-sed
+    - grep # AAXtoMP3
+    - jabba
+    - kubectx
+    - mediainfo # AAXtoMP3
+    - mkcert
+    - ocrmypdf # pdf ocr
+    - pandoc # md to pdf
+    - pdfsandwich # pdf ocr
+    - rbenv
+    - rename
+    - romkatv/powerlevel10k/powerlevel10k
+    - speedtest-cli
+    - watchman
+    - wget
 
 - name: install homebrew cask apps
   homebrew_cask:
-    name:
-      - 1password
-      - 1password-cli
-      - adobe-digital-editions
-      - aws-vault
-      - beyond-compare
-      - calibre
-      - datagrip
-      # - docker
-      - figma
-      - firefox
-      - firefox-nightly
-      - flux
-      - google-chrome
-      - google-chrome-canary
-      - google-drive
-      - hyper
-      - itsycal
-      - mysides
-      - ngrok
-      - opera
-      - perimeter81
-      - plex-media-server
-      - rocket # emojis!
-      - skitch
-      - slack-beta
-      - spotify
-      - visual-studio
-      - visual-studio-code
-      - visual-studio-code-insiders
-      - vlc
-      - zeplin
-      - zoom
-      - basictex # pandoc
+    name: '{{ item }}'
     state: latest
+  become: yes # adobe-digital-editions
+  loop:
+    - 1password
+    - 1password-cli
+    - adobe-digital-editions
+    - android-platform-tools
+    - aws-vault
+    - beyond-compare
+    - calibre
+    - datagrip
+    - figma
+    - firefox
+    - firefox-nightly
+    - flux
+    - google-chrome
+    - google-chrome-canary
+    - google-drive
+    - hyper
+    - itsycal
+    - microsoft-edge-dev
+    - mysides
+    - ngrok
+    - opera
+    - perimeter81
+    - plex-media-server
+    - rocket # emojis!
+    - skitch
+    - slack-beta
+    - spotify
+    - visual-studio
+    - visual-studio-code
+    - visual-studio-code-insiders
+    - vlc
+    - zeplin
+    - zoom
+    - basictex # pandoc

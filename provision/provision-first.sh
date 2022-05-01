@@ -8,6 +8,6 @@ Host *
   AddKeysToAgent yes
   UseKeychain yes
   IdentityFile ~/.ssh/id_ed25519
-" > ~/.ssh/test
-ssh-add -K ~/.ssh/id_ed25519
+" > ~/.ssh/config
+ssh-add --apple-use-keychain ~/.ssh/id_ed25519
 # https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account

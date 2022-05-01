@@ -1,7 +1,14 @@
-- name: set top right corner to lock screen
-  # defaults read com.apple.dock | grep wvous
-  # https://github.com/search?q=wvous+13&type=code
-  shell: defaults write com.apple.dock wvous-tr-corner -int 13
+- name: install rosetta
+  shell: softwareupdate --install-rosetta --agree-to-license
+  become: yes
+# - name: set top right corner to lock screen
+#   # defaults read com.apple.dock | grep wvous
+#   # https://github.com/search?q=wvous+13&type=code
+#   shell: defaults write com.apple.dock wvous-tr-corner -int 13
 
-# references
-# - https://github.com/kentcdodds/dotfiles/blob/main/.macos
+# - name: Recursively remove directory
+#   ansible.builtin.file:
+#     path: ~/Desktop
+#     state: absent
+# # references
+# # - https://github.com/kentcdodds/dotfiles/blob/main/.macos

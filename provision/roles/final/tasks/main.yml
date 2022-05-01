@@ -1,0 +1,16 @@
+- name: open itsycal
+  shell: open -gj -a itsycal
+
+- name: remove downloads
+  shell: |
+    rm -rf '{{ lookup('env', 'HOME') }}'/Desktop
+    rm -rf '{{ lookup('env', 'HOME') }}'/Documents
+    rm -rf '{{ lookup('env', 'HOME') }}'/Downloads
+  become: yes
+  become_user: root
+
+- name: new symlinks
+  shell: |
+    ln -sf ~/dropbox/desktop ~/desktop
+    ln -sf ~/dropbox/dev ~/dev
+    ln -sf ~/dropbox/downloads ~/downloads
