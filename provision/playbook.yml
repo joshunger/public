@@ -5,8 +5,8 @@
     - { role: 'macos', tags: 'macos' } # rosetta
     - { role: 'brew', tags: 'brew' }
     - { role: 'docker', tags: 'docker' }
-    - { role: 'vscode', tags: 'vscode' } # ansible-playbook provision/playbook.yml --tags vscode
-    - { role: 'yarn', tags: 'yarn' }
+    - { role: 'vscode', tags: 'vscode' }
+    - { role: 'yarn', tags: 'yarn' } # ansible-playbook provision/playbook.yml --tags yarn
     - { role: 'final', tags: 'final' }
 # manual steps
 # itsycal > Preferences > launch at login
@@ -14,21 +14,31 @@
 # log into dropbox
 # Full Disk Access > Hyper
 # screen permission for skitch
+# https://docs.gitlab.com/ee/user/ssh.html
+# https://gitlab.com/-/profile/keys
+# menu bar items - volume, bluetooth
+# https://github.com/tthoma24/ansible-macos-playbook/blob/8b5da34b1c30874ad15aeb7747a754a629b8b601/roles/settings/tasks/dock.yml
+# https://github.com/ggustafsson/Ansiblebot/
+# https://slack.com/get-started#/find
+# vscode settings
+# git config per repo
+# turn on Chrome sync
+# AppleInterfaceStyleSwitchesAutomatically
+# Zoom > Mute my mic when joining a meeting
+# add printer
+# magic corners
+# vscode settings sync
+# sign into github copilot
+#  open ~"/Applications/Chrome Canary Apps.localized/StackEdit.app"
+# wireless passwords
 
-# - pip
-# - user
-# - dock
-# - php
-# - sublime
-# - xbox
-# - vscode
-# - zsh
 # ansible-playbook --ask-become-pass --become-user "$USER" provision/playbook.yml --tags brew
 
 # https://github.com/bigjazzsound/workstation
 # https://github.com/ckr/mac-dev-playbook
 # https://github.com/geerlingguy/mac-dev-playbook
 # https://github.com/search?l=YAML&q=nvm-sh&type=Code
+# https://gist.github.com/aliselcuk/3e1dcd3ced8edf6fa9a6d6a76b5c5b95
 
 # install-rosetta
 # https://github.com/ybonjour/workspace-configuration/blob/c58053be40b530950fa8e566eaf028b482017f20/scripts/setup/setup-machine.sh

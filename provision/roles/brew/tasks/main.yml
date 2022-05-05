@@ -57,6 +57,7 @@
     - speedtest-cli
     - watchman
     - wget
+    - shellcheck
 
 - name: install homebrew cask apps
   homebrew_cask:

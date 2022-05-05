@@ -22,7 +22,6 @@ const packages = [
   'itsycal',
   'jabba',
   'mkcert',
-  'mysides',
   'mysql',
   'ngrok',
   'ocrmypdf', // pdf ocr
@@ -58,13 +57,6 @@ await $`brew install --cask ${caskPackagers}`
 await $`brew upgrade --cask ${caskPackagers}`
 
 // open flux
-
-await $`
-  mysides add desktop file://"$HOME"/desktop
-  mysides add downloads file://"$HOME"/downloads
-  mysides add dropbox file://"$HOME"/dropbox
-  mysides add drive file://"$HOME"/drive
-  mysides add dev file://"$HOME"/dropbox/dev`
 
 await $`
   open -gj -a itsycal`

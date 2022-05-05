@@ -27,12 +27,11 @@ killall Finder
 killall SystemUIServer
 
 # sudo
-rm -rf ~/Downloads
-rm -rf ~/Desktop
-
-ln -sf ~/dropbox/desktop ~/desktop
-ln -sf ~/dropbox/dev ~/dev
-ln -sf ~/dropbox/downloads ~/downloads
+# rm -rf ~/Downloads
+# rm -rf ~/Desktop
+# ln -sf ~/dropbox/desktop ~/desktop
+# ln -sf ~/dropbox/dev ~/dev
+# ln -sf ~/dropbox/downloads ~/downloads
 
 export DEV=$HOME/dev
 
@@ -44,6 +43,12 @@ nvm install 12
 nvm install 14
 nvm install 17
 nvm install 18
+
+mysides add desktop file://"$HOME"/desktop
+mysides add downloads file://"$HOME"/downloads
+mysides add dropbox file://"$HOME"/dropbox
+mysides add drive file://"$HOME"/drive
+mysides add dev file://"$HOME"/dropbox/dev
 
 # https://github.com/chbrown/overdrive
 

@@ -1,9 +1,10 @@
 - name: install global packages
   community.general.yarn:
-    executable: command yarn --ignore-engines
+    # executable: command yarn --ignore-engines add
     global: yes
     name: "{{ item }}"
     state: latest
+  # shell: yarn global add "{{ item }}" --ignore-engines
   loop: 
     - '@prettier/plugin-ruby'
     - '@squoosh/cli'
@@ -28,3 +29,4 @@
     - typescript
     - '@typescript-eslint/parser'
     - eslint-plugin-typescript-sort-keys
+    - zx
