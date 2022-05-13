@@ -12,7 +12,7 @@ function cclh {
 
 # find /opt/lampp/htdocs -type f -exec chmod +x {} \;
 export DEV="$HOME/dev"
-export PATH="$PATH:$DEV/public/bin:~/.local/bin"
+export PATH="$PATH:$DEV/public/bin:$HOME/.local/bin:$HOME/.yarn/bin"
 
 function yarn {
     mkdir -p node_modules
