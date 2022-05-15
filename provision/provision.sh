@@ -51,6 +51,7 @@ mysides add dropbox file://"$HOME"/dropbox
 mysides add drive file://"$HOME"/drive
 mysides add dev file://"$HOME"/dropbox/dev
 
+# see https://github.com/chbrown/overdrive
 mkdir -p ~/.local/bin
 curl https://chbrown.github.io/overdrive/overdrive.sh -o ~/.local/bin/overdrive
 chmod +x ~/.local/bin/overdrive
@@ -58,6 +59,11 @@ chmod +x ~/.local/bin/overdrive
 # autohide the menu bar, seems funner than defaults
 osascript -e 'tell application "System Events" to tell dock preferences to set autohide menu bar to true'
 
-# https://github.com/chbrown/overdrive
+# lock top right corner
+defaults write com.apple.dock wvous-tr-corner -int 13
+
+# kill dock to get corner updates
+killall Dock
+
 
 # ansible-playbook -v --ask-become-pass --become-user "$USER" playbook.yml

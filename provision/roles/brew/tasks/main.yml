@@ -48,6 +48,7 @@
     - kubectx
     - mediainfo # AAXtoMP3
     - mkcert
+    - mysql
     - ocrmypdf # pdf ocr
     - pandoc # md to pdf
     - pdfsandwich # pdf ocr
