@@ -43,6 +43,7 @@
     - ffmpeg
     - findutils # AAXtoMP3
     - gnu-sed
+    - go
     - grep # AAXtoMP3
     - jabba
     - kubectx
